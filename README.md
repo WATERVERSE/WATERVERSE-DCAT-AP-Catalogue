@@ -1,4 +1,5 @@
 # WATERVERSE-DCAT-AP-Catalogue
+
 WATERVERSE Datasets, Entity Data &amp; Data Services **metadata** definitions based on the **DACAT-AP** standard. 
 
 # Catalogue 
@@ -11,6 +12,7 @@ WATERVERSE Datasets, Entity Data &amp; Data Services **metadata** definitions ba
 
 
 # DCAT-AP data model
+
 T DCAT-AP standard will be used to define the metadata of different Entities, datasets, and data services, ensuring structured and interoperable descriptions for each of them. 
 
 Link to the DCAT-AP datamodel: 
@@ -22,6 +24,7 @@ The project will be devided in three folders corresponding to **Datasets**, **En
 
 For each Datasets, Entity Data &amp; Data Services, there will be two folders corresponding to the repository of the corresponding **Data Model** and a json file of the metadata based on the **DCAT-AP** specification.
 
+# License
 
-
+These scripts are licensed under Apache License 2.0.
 
