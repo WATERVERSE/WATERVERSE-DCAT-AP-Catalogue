@@ -18,7 +18,7 @@ The DCAT-AP standard will be used to define the metadata of different Entities, 
 Link to the DCAT-AP datamodel: 
 https://github.com/smart-data-models/incubated/blob/master/metadata/schema.json
 
-# Project strcuture 
+# Project structure 
 
 The project will be organized into three folders that align with the requirements of WATERVERSE Pilot projects:
 
