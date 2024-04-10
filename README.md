@@ -2,13 +2,54 @@
 
 WATERVERSE Datasets, Entity Data &amp; Data Services **metadata** definitions based on the **DACAT-AP** standard. 
 
-# Catalogue 
+# Datasets Catalogue 
 
-|           | Name    | Data Model URL | Metadata DCAT-AP URL |
-|-----------|---------|----------------|----------------------|
-| **Entity**    | [Entity Name] | [Link]         | [Link]               |
-| **Dataset**   | [Dataset Name] | [Link]         | [Link]               |
-| **Data Service** | [Service Name] | [Link]     | [Link]               |
+## CY Pilot
+
+| Dataset name  |  Metadata URL | 
+|-----------|----------------|
+| **Consumer Reports**    | [Link]         | 
+| **Satelite Data**   | [Link]         | 
+| **(SCADA) Telemetry Data**  | [Link]     | 
+| **Water Consumption Demands**  | [Link]     | 
+
+## DE Pilot
+
+| Dataset name    | Metadata URL | 
+|-----------|----------------|
+| **Nira data**    |  [Link]     | 
+| **Etteln data**    |  Private    | 
+
+
+## FI Pilot
+
+| Dataset name    | Metadata URL | 
+|-----------|----------------|
+| **Clusterability**    |  [Link]         | 
+
+
+## NL Pilot
+
+| Dataset name    | Metadata URL | 
+|-----------|---------------|
+| **KNMI Data (Weather related)**    | [Link]         | 
+| **RWS Data (water quality)**   | [Link]         | 
+| **Chloride Predictions (from a deployed model)** | Private     | 
+| **Water Consumption Demands** |  [Link]     |
+
+## SP Pilot
+
+| Dataset name    | Metadata URL | 
+|-----------|----------------|
+| No Data    |  [Link]         | 
+
+## UK Pilot
+
+| Dataset name    | Metadata URL | 
+|-----------|---------------|
+| **Environment_agency_data_river**    | [Link]         | 
+| **Environment_agency_data**   | [Link]         | 
+| **Eater_quality_observation_meteor_cloud** | Private     | 
 
 
 # DCAT-AP data model

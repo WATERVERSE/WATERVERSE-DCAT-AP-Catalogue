@@ -1,15 +1,15 @@
 {
-  "id": "urn:ngsi-ld:Dataset:id:VESI:23278368",
+  "id": "urn:ngsi-ld:Dataset:id:Water_Consumption_Demands:23278368",
   "type": "Dataset",
   "modified": "2024-04-09T14:09:32Z",
   "source": [
-    "urn:ngsi-ld:Dataset:items:YSWN:41266715"
+    "urn:ngsi-ld:Dataset:items:Water_Consumption_Demands:41266715"
   ],
   "description": [
     "The dataset comprises timeseries of water flows/volume at consumer premises level, for selected distribution area."
   ],
   "title": [
-    "Customer reports"
+    "Water Consumption-Demands (Smart Metering Data)"
   ],
   "contactPoint": [
     ""
