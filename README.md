@@ -58,7 +58,6 @@ WATERVERSE Datasets, Entity Data &amp; Data Services **metadata** definitions ba
 | Entity name    | Data Model URL | 
 |-----------|----------------|
 | **Consumer Reports**    |  [Link](https://github.com/smart-data-models/dataModel.Weather/tree/master/WeatherAlert)    | 
-| **Smart Metering Data**    |  [Link](https://github.com/smart-data-models/dataModel.Energy)  | 
 
 ## DE Pilot 
 
