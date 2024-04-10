@@ -51,6 +51,56 @@ WATERVERSE Datasets, Entity Data &amp; Data Services **metadata** definitions ba
 | **Environment_agency_data**   | [Link]         | 
 | **Eater_quality_observation_meteor_cloud** | Private     | 
 
+# Entity Data Catalogue
+
+## CY Pilot 
+
+| Entity name    | Data Model URL | 
+|-----------|----------------|
+| **Consumer Reports**    |  [Link](https://github.com/smart-data-models/dataModel.Weather/tree/master/WeatherAlert)    | 
+| **Smart Metering Data**    |  [Link](https://github.com/smart-data-models/dataModel.Energy)  | 
+
+## DE Pilot 
+
+| Entity name    | Data Model URL | 
+|-----------|----------------|
+| **Rain gauge observations**    |  [Link](https://github.com/smart-data-models/dataModel.Environment/tree/master/WaterObserved)     | 
+| **River level observations**    |  [Link](https://github.com/smart-data-models/dataModel.Environment/tree/master/WaterObserved)     | 
+| **Soil moisture**    |  [Link](https://github.com/smart-data-models/dataModel.Agrifood/tree/master/AgriSoil)   | 
+| **Groundwater level**    |  [Link](https://github.com/smart-data-models/dataModel.Water)   | 
+| **Flood Model Data**    |  [Link](https://github.com/smart-data-models/dataModel.Environment/tree/master/FloodMonitoring)   | 
+
+## FI Pilot 
+
+| Entity name    | Data Model URL | 
+|-----------|----------------|
+| **No data model**    |  [Link]     | 
+
+
+## NL Pilot 
+
+| Entity name    | Data Model URL | 
+|-----------|----------------|
+| **Water quality observation**    |  [Link](https://github.com/smart-data-models/dataModel.WaterQuality)     | 
+| **Water quantity observations**    |  [Link](https://github.com/smart-data-models/dataModel.WaterConsumption/tree/master/WaterConsumptionObserved)   | 
+| **Weather Observations (Rainfall, Wind Direction, Wind Speed, Evaporation)**    |  [Link](https://github.com/smart-data-models/dataModel.Weather/tree/master/WeatherObserved)   | 
+| **Water quality predictions**    |  [Link](https://github.com/smart-data-models/dataModel.WaterQuality)   | 
+
+## SP Pilot 
+
+| Entity name    | Data Model URL | 
+|-----------|----------------|
+| **No data model**    |  [Link]     | 
+
+
+## UK Pilot 
+
+| Entity name    | Data Model URL | 
+|-----------|----------------|
+| **environment_agency_data_river**    |  [Link](https://github.com/smart-data-models/dataModel.Environment)     | 
+| **water_quality_observation_meteor_cloud**    |  [Link](https://github.com/smart-data-models/dataModel.WaterQuality)    | 
+
+
 
 # DCAT-AP data model
 
