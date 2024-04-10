@@ -1,0 +1,102 @@
+{
+    "id": "urn:ngsi-ld:Dataset:id:water_quality_observation:23278368",
+    "type": "Dataset",
+    "modified": "2024-04-09T14:09:32Z",
+    "source": [
+      "urn:ngsi-ld:Dataset:items:water_quality_observation:41266715"
+    ],
+    "description": [
+      "Water quality observation meteor cloud data"
+    ],
+    "title": [
+      "water_quality_observation_meteor_cloud_metadata"
+    ],
+    "contactPoint": [
+      ""
+    ],
+    "belongsToCatalogue": "",
+    "distribution": [
+      ""
+    ],
+    "keyword": [
+      "environment",
+      "water quality",
+      "flood",
+      "rain",
+      "cloud",
+      "meteor"
+    ],
+    "publisher": "https://environment.data.gov.uk/",
+    "spatial": [],
+    "temporal": [],
+    "theme": [
+      "Environment",
+      "Water"
+    ],
+    "accessRights": "",
+    "creator": [
+      "Gareth Lewis"
+    ],
+    "page": [
+      ""
+    ],
+    "accrualPeriodicity": "weekly",
+    "hasVersion": [
+      ""
+    ],
+    "identifier": [
+      ""
+    ],
+    "isReferencedBy": [
+      ""
+    ],
+    "isVersionOf": [
+      ""
+    ],
+    "landingPage": [
+      "https://dataportal-waterverse.opsi.lecce.it/dataset/waterverse_puc2_sww_environment-agency-data_v1-0"
+    ],
+    "language": [
+      "EN"
+    ],
+    "otherIdentifier": [
+      ""
+    ],
+    "provenance": [
+      ""
+    ],
+    "qualifiedAttribution": [
+      ""
+    ],
+    "qualifiedRelation": [
+      ""
+    ],
+    "relation": [
+      ""
+    ],
+    "issued": "1983-07-16T12:51:26Z",
+    "sample": [
+      ""
+    ],
+    "spatialResolutionInMeters": 0.0,
+    "temporalResolution": [
+      ""
+    ],
+    "Type": "",
+    "version": "1.0",
+    "versionNotes": [],
+    "wasGeneratedBy": [
+      "https://environment.data.gov.uk/"
+    ],
+    "license": "Apache-2.0",
+    "geolocation": false,
+    "addressAvailable": false,
+    "standardization": "Level3Standardization",
+    "standardizationSource": "",
+    "validationSchema": "https://github.com/smart-data-models/incubated/blob/master/metadata/schema.json",
+    "accessMechanism": "Level3AccessMechanism",
+    "disseminationOrganization": "",
+    "dissemination": "Level1Dissemination",
+    "reputation": "Level1Reputation",
+    "reputationOrganization": ""
+  }

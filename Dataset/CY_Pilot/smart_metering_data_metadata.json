@@ -1,0 +1,101 @@
+{
+  "id": "urn:ngsi-ld:Dataset:id:VESI:23278368",
+  "type": "Dataset",
+  "modified": "2024-04-09T14:09:32Z",
+  "source": [
+    "urn:ngsi-ld:Dataset:items:YSWN:41266715"
+  ],
+  "description": [
+    "The dataset comprises timeseries of water flows/volume at consumer premises level, for selected distribution area."
+  ],
+  "title": [
+    "Customer reports"
+  ],
+  "contactPoint": [
+    ""
+  ],
+  "belongsToCatalogue": "",
+  "distribution": [
+    ""
+  ],
+  "keyword": [
+    "water consumer",
+    "report",
+    "water issues",
+    "location",
+    "water problem type"
+  ],
+  "publisher": "WDME",
+  "spatial": [],
+  "temporal": [],
+  "theme": [
+    "Environment",
+    "Water"
+  ],
+  "accessRights": "",
+  "creator": [
+    "CY Pilot"
+  ],
+  "page": [
+    ""
+  ],
+  "accrualPeriodicity": "weekly",
+  "hasVersion": [
+    ""
+  ],
+  "identifier": [
+    ""
+  ],
+  "isReferencedBy": [
+    ""
+  ],
+  "isVersionOf": [
+    ""
+  ],
+  "landingPage": [
+    ""
+  ],
+  "language": [
+    "EN"
+  ],
+  "otherIdentifier": [
+    ""
+  ],
+  "provenance": [
+    ""
+  ],
+  "qualifiedAttribution": [
+    ""
+  ],
+  "qualifiedRelation": [
+    ""
+  ],
+  "relation": [
+    ""
+  ],
+  "issued": "1983-07-16T12:51:26Z",
+  "sample": [
+    ""
+  ],
+  "spatialResolutionInMeters": 0.0,
+  "temporalResolution": [
+    ""
+  ],
+  "Type": "",
+  "version": "",
+  "versionNotes": [],
+  "wasGeneratedBy": [
+    "wdme.com"
+  ],
+  "license": "Apache-2.0",
+  "geolocation": false,
+  "addressAvailable": false,
+  "standardization": "Level3Standardization",
+  "standardizationSource": "",
+  "validationSchema": "https://github.com/smart-data-models/incubated/blob/master/metadata/schema.json",
+  "accessMechanism": "Level3AccessMechanism",
+  "disseminationOrganization": "",
+  "dissemination": "Level1Dissemination",
+  "reputation": "Level1Reputation",
+  "reputationOrganization": ""
+}

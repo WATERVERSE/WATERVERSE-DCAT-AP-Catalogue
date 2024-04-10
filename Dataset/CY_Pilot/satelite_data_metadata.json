@@ -1,0 +1,101 @@
+{
+  "id": "urn:ngsi-ld:Dataset:id:satellite_data:23278368",
+  "type": "Dataset",
+  "modified": "2024-04-03T14:19:00Z",
+  "source": [
+    "https://geoserver-waterverse.opsi.lecce.it/geoserver/web"
+  ],
+  "description": [
+    "The dataset includes the results of the analysis of satellite data given a water source geographical shape. The analysis corresponds to the detection of chlorophyll-A."
+  ],
+  "title": [
+    "Customer reports"
+  ],
+  "contactPoint": [
+    ""
+  ],
+  "belongsToCatalogue": "",
+  "distribution": [
+    ""
+  ],
+  "keyword": [
+    "water consumer",
+    "report",
+    "water issues",
+    "location",
+    "water problem type"
+  ],
+  "publisher": "Grigoris Stathopoulos",
+  "spatial": [],
+  "temporal": [],
+  "theme": [
+    "Environment",
+    "Water"
+  ],
+  "accessRights": "",
+  "creator": [
+    "CY Pilot"
+  ],
+  "page": [
+    ""
+  ],
+  "accrualPeriodicity": "weekly",
+  "hasVersion": [
+    ""
+  ],
+  "identifier": [
+    ""
+  ],
+  "isReferencedBy": [
+    ""
+  ],
+  "isVersionOf": [
+    ""
+  ],
+  "landingPage": [
+    "https://dataportal-waterverse.opsi.lecce.it/dataset?organization=certh"
+  ],
+  "language": [
+    "EN"
+  ],
+  "otherIdentifier": [
+    ""
+  ],
+  "provenance": [
+    ""
+  ],
+  "qualifiedAttribution": [
+    ""
+  ],
+  "qualifiedRelation": [
+    ""
+  ],
+  "relation": [
+    ""
+  ],
+  "issued": "1983-07-16T12:51:26Z",
+  "sample": [
+    ""
+  ],
+  "spatialResolutionInMeters": 0.0,
+  "temporalResolution": [
+    ""
+  ],
+  "Type": "",
+  "version": "1.0",
+  "versionNotes": [],
+  "wasGeneratedBy": [
+    ""
+  ],
+  "license": "Apache-2.0",
+  "geolocation": false,
+  "addressAvailable": false,
+  "standardization": "Level3Standardization",
+  "standardizationSource": "",
+  "validationSchema": "https://github.com/smart-data-models/incubated/blob/master/metadata/schema.json",
+  "accessMechanism": "Level3AccessMechanism",
+  "disseminationOrganization": "",
+  "dissemination": "Level1Dissemination",
+  "reputation": "Level1Reputation",
+  "reputationOrganization": ""
+}
