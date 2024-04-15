@@ -1,0 +1,99 @@
+{
+    "id": "urn:ngsi-ld:DataService:FloodPrediction:3B8E3416-C6ED-40CB-A6F5-8DA08435BB34",
+    "type": "DataService",
+    "title": {
+        "type": "Property",
+        "value": "Flood prediction service"
+    },
+    "description": {
+        "type": "Property",
+        "value": "Service predicting flood based on weather and river data"
+    },
+    "algorithm": {
+        "type": "Property",
+        "value": "LSTM"
+    },
+    "mlFramework": {
+        "type": "Property",
+        "value": "TensorFlow"
+    },
+    "version": {
+        "type": "Property",
+        "value": 0.1,
+        "releaseNotes": {
+            "type": "Relationship",
+            "object": "https://github.com/floodPredictionService/releases/tag/0.1"
+        }
+    },
+    "inputAttributes": {
+        "type": "Property",
+        "value": ["flow", "precipitation", "soilMoisture"]
+    },
+    "outputAttributes": {
+        "type": "Property",
+        "value": ["predictedWaterLevel"]
+    },
+    "endpointURL": {
+        "type": "Property",
+        "value": "http://127.0.0.1/floodPrediction"
+    },
+    "endpointDescription": {
+        "type": "Property",
+        "value": "This service expects river flow, precipitation and soil moisture inputs and predicts in return a water level in the city"
+    },
+    "imageSource": {
+        "type": "Property",
+        "value": "floodPredictionService.png"
+    },
+    "accessRights": {
+        "type": "Property",
+        "value": "public"
+    },
+    "license": {
+        "type": "Property",
+        "value": "Apache-2.0"
+    },
+    "validationSchema": {
+        "type": "Property",
+        "value": "https://github.com/smart-data-models/incubated/blob/DCAT-AP/DataService/DataServiceDCAT-AP/schema.json"
+    },
+    "operationSpace": {
+        "type": "GeoProperty",
+        "value": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [ 8.7598942, 51.6373777 ],
+                    [ 8.752942,  51.6289603 ],
+                    [ 8.7602376, 51.6200351 ],
+                    [ 8.7705802, 51.6293599 ],
+                    [ 8.7598942, 51.6373777 ]
+                ]
+            ]
+        }
+    },
+    "accessMechanism": {
+        "type": "Property",
+        "value": "Level3AccessMechanism"
+    },
+    "disseminationOrganisation": {
+        "type": "Relationship",
+        "object": "urn:ngsi-ld:Agent:WATERVERSE"
+    },
+    "dissemination": {
+        "type": "Property",
+        "value": "Level2Dissemination"
+    },
+    "reputationOrganisation": {
+        "type": "Relationship",
+        "object": "urn:ngsi-ld:Agent:WATERVERSE"
+    },
+    "reputation": {
+        "type": "Property",
+        "value": "Level1Reputation"
+    },
+    "@context": [
+        "https://easy-global-market.github.io/ngsild-api-data-models/dcat/jsonld-contexts/dcat-compound.jsonld",
+        "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context-v1.7.jsonld"
+    ]
+}

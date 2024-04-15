@@ -74,6 +74,18 @@ is provided following the **DCAT-AP** specification.
 
 # DCAT-AP Data Service classes
 
+## German Pilot 
+
+| Entity name    | Data Service URL | 
+|-----------|----------------|
+| **Flood prediction service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/tree/main/DataServices/German_Pilot/floodPredictionService.jsonld)     | 
+
+## Netherlands Pilot 
+
+| Entity name    | Data Service URL | 
+|-----------|----------------|
+| **Chloride prediction service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/tree/main/DataServices/Netherlands_Pilot/chloridePredictionService.jsonld)     | 
+
 # Entity Data Catalogue
 
 ## Cyprus Pilot 
