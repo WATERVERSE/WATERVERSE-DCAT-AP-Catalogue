@@ -29,34 +29,33 @@ is provided following the **DCAT-AP** specification.
 
 | Dataset name  |  Metadata URL | 
 |-----------|----------------|
-| **Consumer Reports**    | [Link]         | 
-| **Satelite Data**   | [Link]         | 
-| **(SCADA) Telemetry Data**  | [Link]     | 
-| **Water Consumption Demands**  | [Link]     | 
+| **Consumer Reports** | [Link](Datasets/Cyprus_Pilot/consumer_reports_metadata.json)| 
+| **Satelite Data**  | [Link](Datasets/Cyprus_Pilot/satelite_data_metadata.json) | 
+| **(SCADA) Telemetry Data**  | [Link](Datasets/Cyprus_Pilot/scada_data_metadata.json) | 
+| **Water Consumption Demands**  | [Link](Datasets/Cyprus_Pilot/Water_consumption_demands_metadata.json) | 
 
 ## German Pilot
 
 | Dataset name    | Metadata URL | 
 |-----------|----------------|
-| **Nira data**    |  [Link]     | 
-| **Etteln data**    |  Private    | 
+| **Nira data**    |  [Link](Datasets/German_Pilot/nira_data_metadata.json) | 
+| **Etteln data**    |  Private | 
 
 
 ## Finnish Pilot
 
 | Dataset name    | Metadata URL | 
 |-----------|----------------|
-| **Clusterability**    |  [Link]         | 
+| **Clusterability**    |  [Link](Datasets/Finnish_Pilot/clusterability_metadata.json)| 
 
 
 ## Netherlands Pilot
 
 | Dataset name    | Metadata URL | 
 |-----------|---------------|
-| **KNMI Data (Weather related)**    | [Link]         | 
-| **RWS Data (water quality)**   | [Link]         | 
+| **KNMI Data (Weather related)**    | [Link](Datasets/Netherlands_Pilot/knmi_observation_metadata.json) | 
+| **RWS Data (water quality)**   | [Link](Datasets/Netherlands_Pilot/rws_data_metadata.json)| 
 | **Chloride Predictions (from a deployed model)** | Private     | 
-| **Water Consumption Demands** |  [Link]     |
 
 ## Spanish Pilot
 
@@ -68,9 +67,9 @@ is provided following the **DCAT-AP** specification.
 
 | Dataset name    | Metadata URL | 
 |-----------|---------------|
-| **Environment_agency_data_river**    | [Link]         | 
-| **Environment_agency_data**   | [Link]         | 
-| **Eater_quality_observation_meteor_cloud** | Private     | 
+| **Environment_agency_data_river**    | [Link](Datasets/UK_Pilot/environment_agency_data_river_metadata.json) | 
+| **Environment_agency_data**   | [Link](Datasets/UK_Pilot/environment_agency_data_metadata.json) | 
+| **Eater_quality_observation_meteor_cloud** | [Private](Datasets/UK_Pilot/water_quality_observation_meteor_cloud_metadata.json) | 
 
 # DCAT-AP Data Service classes
 

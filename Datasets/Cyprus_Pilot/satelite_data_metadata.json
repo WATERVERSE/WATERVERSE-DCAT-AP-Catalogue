@@ -34,7 +34,7 @@
   ],
   "accessRights": "",
   "creator": [
-    "CY Pilot"
+    "CERTH"
   ],
   "page": [
     ""
@@ -73,7 +73,7 @@
   "relation": [
     ""
   ],
-  "issued": "1983-07-16T12:51:26Z",
+  "issued": "2024-04-06T16:43:00Z",
   "sample": [
     ""
   ],
@@ -90,7 +90,7 @@
   "license": "Apache-2.0",
   "geolocation": false,
   "addressAvailable": false,
-  "standardization": "Level3Standardization",
+  "standardization": "Level2Standardization",
   "standardizationSource": "",
   "validationSchema": "https://github.com/smart-data-models/incubated/blob/master/metadata/schema.json",
   "accessMechanism": "Level3AccessMechanism",
@@ -99,3 +99,4 @@
   "reputation": "Level1Reputation",
   "reputationOrganization": ""
 }
+
