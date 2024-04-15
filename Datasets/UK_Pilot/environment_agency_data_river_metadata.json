@@ -1,0 +1,100 @@
+{
+    "id": "urn:ngsi-ld:Dataset:id:Environment_Agency_Data_River:23278368",
+    "type": "Dataset",
+    "modified": "2024-04-10T02:00:00Z",
+    "source": [
+      "https://environment.data.gov.uk/"
+    ],
+    "description": [
+      "Environment agency data river"
+    ],
+    "title": [
+      "nvironment_agency_data_river"
+    ],
+    "contactPoint": [
+      ""
+    ],
+    "belongsToCatalogue": "",
+    "distribution": [
+      ""
+    ],
+    "keyword": [
+      "environment",
+      "flood",
+      "rain",
+      "river"
+    ],
+    "publisher": "https://environment.data.gov.uk/",
+    "spatial": [],
+    "temporal": [],
+    "theme": [
+      "Environment",
+      "Water"
+    ],
+    "accessRights": "",
+    "creator": [
+      "Gareth Lewis"
+    ],
+    "page": [
+      ""
+    ],
+    "accrualPeriodicity": "weekly",
+    "hasVersion": [
+      ""
+    ],
+    "identifier": [
+      ""
+    ],
+    "isReferencedBy": [
+      ""
+    ],
+    "isVersionOf": [
+      ""
+    ],
+    "landingPage": [
+      "https://dataportal-waterverse.opsi.lecce.it/dataset/waterverse_puc2_sww_environment-agency-data_v1-0"
+    ],
+    "language": [
+      "EN"
+    ],
+    "otherIdentifier": [
+      ""
+    ],
+    "provenance": [
+      ""
+    ],
+    "qualifiedAttribution": [
+      ""
+    ],
+    "qualifiedRelation": [
+      ""
+    ],
+    "relation": [
+      ""
+    ],
+    "issued": "1983-07-16T12:51:26Z",
+    "sample": [
+      ""
+    ],
+    "spatialResolutionInMeters": 0.0,
+    "temporalResolution": [
+      ""
+    ],
+    "Type": "",
+    "version": "1.0",
+    "versionNotes": [],
+    "wasGeneratedBy": [
+      "https://environment.data.gov.uk/"
+    ],
+    "license": "Apache-2.0",
+    "geolocation": false,
+    "addressAvailable": false,
+    "standardization": "Level3Standardization",
+    "standardizationSource": "",
+    "validationSchema": "https://github.com/smart-data-models/incubated/blob/master/metadata/schema.json",
+    "accessMechanism": "Level3AccessMechanism",
+    "disseminationOrganization": "",
+    "dissemination": "Level1Dissemination",
+    "reputation": "Level1Reputation",
+    "reputationOrganization": ""
+  }
