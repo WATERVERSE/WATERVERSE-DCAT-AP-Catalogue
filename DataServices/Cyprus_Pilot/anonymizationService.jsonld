@@ -1,0 +1,80 @@
+{
+    "id": "urn:ngsi-ld:DataService:AnonymizationService:3B8E3416-C6ED-40CB-A6F5-8DA08435BB34",
+    "type": "DataService",
+    "title": {
+        "type": "Property",
+        "value": "Anonymization service"
+    },
+    "description": {
+        "type": "Property",
+        "value": "Service anonymizing personal and sensitive data"
+    },
+    "algorithm": {
+        "type": "Property",
+        "value": "Python script"
+    },
+    "version": {
+        "type": "Property",
+        "value": 0.5,
+        "releaseNotes": {
+            "type": "Relationship",
+            "object": "https://github.com/easy-global-market/anonymization/releases/tag/0.1"
+        }
+    },
+    "inputAttributes": {
+        "type": "Property",
+        "value": "Not applicable"
+    },
+    "outputAttributes": {
+        "type": "Property",
+        "value": "Not applicable"
+    },
+    "endpointURL": {
+        "type": "Property",
+        "value": "http://127.0.0.1/anonymization"
+    },
+    "endpointDescription": {
+        "type": "Property",
+        "value": "This service expects any entity data as input and returns an entity with the exact same structure with personal and sensitive data being anonymized or obfuscated"
+    },
+    "imageSource": {
+        "type": "Property",
+        "value": "anonymizationService.png"
+    },
+    "accessRights": {
+        "type": "Property",
+        "value": "public"
+    },
+    "license": {
+        "type": "Property",
+        "value": "Apache-2.0"
+    },
+    "validationSchema": {
+        "type": "Property",
+        "value": "https://github.com/smart-data-models/incubated/blob/DCAT-AP/DataService/DataServiceDCAT-AP/schema.json"
+    },
+    "accessMechanism": {
+        "type": "Property",
+        "value": "Level3AccessMechanism"
+    },
+    "disseminationOrganisation": {
+        "type": "Relationship",
+        "object": "urn:ngsi-ld:Agent:EGM"
+    },
+    "dissemination": {
+        "type": "Property",
+        "value": "Level2Dissemination"
+    },
+    "reputationOrganisation": {
+        "type": "Relationship",
+        "object": "urn:ngsi-ld:Agent:EGM"
+    },
+    "reputation": {
+        "type": "Property",
+        "value": "Level1Reputation"
+    },
+    "@context": [
+        "https://easy-global-market.github.io/ngsild-api-data-models/dcat/jsonld-contexts/dcat-compound.jsonld",
+        "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context-v1.7.jsonld"
+    ]
+}
