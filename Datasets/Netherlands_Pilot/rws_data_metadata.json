@@ -1,7 +1,7 @@
 {
     "id": "urn:ngsi-ld:Dataset:id:RWS_Observation:23278368",
     "type": "Dataset",
-    "modified": "2024-04-09T14:09:32Z",
+    "modified": "2024-03-12T14:09:32Z",
     "source": [
       "urn:ngsi-ld:Dataset:items:RWS_Observation:41266715"
     ],
@@ -33,7 +33,7 @@
     ],
     "accessRights": "",
     "creator": [
-      "CY Pilot"
+      "KWR"
     ],
     "page": [
       ""
@@ -72,7 +72,7 @@
     "relation": [
       ""
     ],
-    "issued": "1983-07-16T12:51:26Z",
+    "issued": "2024-03-12T12:51:26Z",
     "sample": [
       ""
     ],
