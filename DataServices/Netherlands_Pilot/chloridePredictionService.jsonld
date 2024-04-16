@@ -7,15 +7,15 @@
     },
     "description": {
         "type": "Property",
-        "value": "Service predicting chloride concentrations in surface water for the next 7 days based on water quality observations"
+        "value": "Service predicting chloride concentrations in surface water for the next 7 days based on water quality and river flowrate observations"
     },
     "algorithm": {
         "type": "Property",
-        "value": "LSTM"
+        "value": "Regression based model"
     },
     "mlFramework": {
         "type": "Property",
-        "value": "TensorFlow"
+        "value": "Scikit-learn"
     },
     "version": {
         "type": "Property",
