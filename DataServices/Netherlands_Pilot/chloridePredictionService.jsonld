@@ -1,0 +1,91 @@
+{
+    "id": "urn:ngsi-ld:DataService:ChloridePrediction:3B8E3416-C6ED-40CB-A6F5-8DA08435BB34",
+    "type": "DataService",
+    "title": {
+        "type": "Property",
+        "value": "Chloride prediction service"
+    },
+    "description": {
+        "type": "Property",
+        "value": "Service predicting chloride concentrations in surface water for the next 7 days based on water quality and river flowrate observations"
+    },
+    "algorithm": {
+        "type": "Property",
+        "value": "Regression based model"
+    },
+    "mlFramework": {
+        "type": "Property",
+        "value": "Scikit-learn"
+    },
+    "version": {
+        "type": "Property",
+        "value": 0.1,
+        "releaseNotes": {
+            "type": "Relationship",
+            "object": "https://github.com/chloridePredictionService/releases/tag/0.1"
+        }
+    },
+    "inputAttributes": {
+        "type": "Property",
+        "value": ["chloride"]
+    },
+    "outputAttributes": {
+        "type": "Property",
+        "value": ["predictedChloride"]
+    },
+    "endpointURL": {
+        "type": "Property",
+        "value": "http://127.0.0.1/chloridePrediction"
+    },
+    "endpointDescription": {
+        "type": "Property",
+        "value": "This service expects observed concentration of chloride in surface water and predicts in return chloride concentration for the next 7 days"
+    },
+    "imageSource": {
+        "type": "Property",
+        "value": "chloridePredictionService.png"
+    },
+    "accessRights": {
+        "type": "Property",
+        "value": "public"
+    },
+    "license": {
+        "type": "Property",
+        "value": "Apache-2.0"
+    },
+    "validationSchema": {
+        "type": "Property",
+        "value": "https://github.com/smart-data-models/incubated/blob/DCAT-AP/DataService/DataServiceDCAT-AP/schema.json"
+    },
+    "operationSpace": {
+        "type": "GeoProperty",
+        "value": {
+            "type": "Point",
+            "coordinates": [ 5.265056, 52.750306 ]
+        }
+    },
+    "accessMechanism": {
+        "type": "Property",
+        "value": "Level3AccessMechanism"
+    },
+    "disseminationOrganisation": {
+        "type": "Relationship",
+        "object": "urn:ngsi-ld:Agent:KWR"
+    },
+    "dissemination": {
+        "type": "Property",
+        "value": "Level2Dissemination"
+    },
+    "reputationOrganisation": {
+        "type": "Relationship",
+        "object": "urn:ngsi-ld:Agent:KWR"
+    },
+    "reputation": {
+        "type": "Property",
+        "value": "Level1Reputation"
+    },
+    "@context": [
+        "https://easy-global-market.github.io/ngsild-api-data-models/dcat/jsonld-contexts/dcat-compound.jsonld",
+        "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context-v1.7.jsonld"
+    ]
+}
