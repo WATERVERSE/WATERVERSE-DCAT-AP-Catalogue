@@ -88,7 +88,7 @@ is provided following the **DCAT-AP** specification.
 | **Rain gauge observations**    |  [Link](https://github.com/smart-data-models/dataModel.Environment/tree/master/WaterObserved)     | 
 | **River level observations**    |  [Link](https://github.com/smart-data-models/dataModel.Environment/tree/master/WaterObserved)     | 
 | **Soil moisture**    |  [Link](https://github.com/smart-data-models/dataModel.Agrifood/tree/master/AgriSoil)   | 
-| **Groundwater level**    |  [Link](https://github.com/smart-data-models/dataModel.Water)   | 
+| **Groundwater level**    |  [Link](https://github.com/smart-data-models/dataModel.Environment/tree/master/PhreaticObserved)   | 
 | **Flood Model Data**    |  [Link](https://github.com/smart-data-models/dataModel.Environment/tree/master/FloodMonitoring)   | 
 
 ## Finnish Pilot 
@@ -102,10 +102,10 @@ is provided following the **DCAT-AP** specification.
 
 | Entity name    | Data Model URL | 
 |-----------|----------------|
-| **Water quality observation**    |  [Link](https://github.com/smart-data-models/dataModel.WaterQuality)     | 
+| **Water quality observation**    |  [Link](https://github.com/smart-data-models/dataModel.WaterQuality/tree/master/WaterQualityObserved)     | 
 | **Water quantity observations**    |  [Link](https://github.com/smart-data-models/dataModel.WaterConsumption/tree/master/WaterConsumptionObserved)   | 
 | **Weather Observations (Rainfall, Wind Direction, Wind Speed, Evaporation)**    |  [Link](https://github.com/smart-data-models/dataModel.Weather/tree/master/WeatherObserved)   | 
-| **Water quality predictions**    |  [Link](https://github.com/smart-data-models/dataModel.WaterQuality)   | 
+| **Water quality predictions**    |  [Link](https://github.com/smart-data-models/dataModel.WaterQuality/tree/master/WaterQualityPredicted)   | 
 
 ## Spanish Pilot 
 
@@ -118,8 +118,8 @@ is provided following the **DCAT-AP** specification.
 
 | Entity name    | Data Model URL | 
 |-----------|----------------|
-| **environment_agency_data_river**    |  [Link](https://github.com/smart-data-models/dataModel.Environment)     | 
-| **water_quality_observation_meteor_cloud**    |  [Link](https://github.com/smart-data-models/dataModel.WaterQuality)    | 
+| **environment_agency_data**    |  [Link](https://github.com/smart-data-models/dataModel.Environment/tree/master/EnvironmentObserved)     | 
+| **water_quality_observation_meteor_cloud**    |  [Link](https://github.com/smart-data-models/dataModel.WaterQuality/tree/master/WaterQualityObserved)    | 
 
 
 # License
