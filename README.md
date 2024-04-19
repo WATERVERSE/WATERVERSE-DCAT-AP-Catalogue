@@ -79,7 +79,7 @@ is provided following the **DCAT-AP** specification.
 
 | Entity name    | Data Model URL | 
 |-----------|----------------|
-| **Consumer Reports**    |  [Link](https://github.com/smart-data-models/dataModel.Weather/tree/master/WeatherAlert)    | 
+| **Consumer Reports**    |  [Link](https://github.com/smart-data-models/dataModel.WaterConsumption/tree/master/WaterConsumptionObserved)    | 
 
 ## German Pilot 
 
