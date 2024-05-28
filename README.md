@@ -31,7 +31,7 @@ is provided following the **DCAT-AP** specification.
 |-----------|----------------|
 | **Consumer Reports** | [Link](Datasets/Cyprus_Pilot/consumer_reports_metadata.json)| 
 | **Satelite Data**  | [Link](Datasets/Cyprus_Pilot/satelite_data_metadata.json) | 
-| **(SCADA) Telemetry Data**  | [Link](Datasets/Cyprus_Pilot/scada_data_metadata.json) | 
+| **(SCADA) Telemetry Data**  | [Link](Datasets/Cyprus_Pilot/district_metering_area_metadata.json) | 
 | **Water Consumption Demands**  | [Link](Datasets/Cyprus_Pilot/Water_consumption_demands_metadata.json) | 
 
 ## German Pilot
