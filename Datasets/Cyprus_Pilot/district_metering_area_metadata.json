@@ -1,15 +1,15 @@
 {
-  "id": "urn:ngsi-ld:Dataset:id:scada:23278368",
+  "id": "urn:ngsi-ld:Dataset:id:dma:23278368",
   "type": "Dataset",
   "modified": "2024-04-09T14:09:32Z",
   "source": [
-    "urn:ngsi-ld:Dataset:items:scada:41266715"
+    "urn:ngsi-ld:Dataset:items:dma:41266715"
   ],
   "description": [
-    "The dataset includes the water flows and volume of water measurements from a number of nodes in a DME of the water network."
+    "The dataset includes the water flows and volume of water measurements from a number of nodes in a DMA of the water network."
   ],
   "title": [
-    "Customer reports"
+    "District Metering Area"
   ],
   "contactPoint": [
     ""
@@ -19,11 +19,11 @@
     ""
   ],
   "keyword": [
-    "water consumer",
-    "report",
-    "water issues",
-    "location",
-    "water problem type"
+    "water network",
+    "district metering area",
+    "water flow",
+    "water volume",
+    "node measurements"
   ],
   "publisher": "George Millis",
   "spatial": [],
