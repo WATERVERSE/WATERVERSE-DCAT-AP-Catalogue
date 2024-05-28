@@ -9,7 +9,7 @@
     "The dataset includes the results of the analysis of satellite data given a water source geographical shape. The analysis corresponds to the detection of chlorophyll-A."
   ],
   "title": [
-    "Customer reports"
+    "Satellite data"
   ],
   "contactPoint": [
     ""
@@ -20,10 +20,10 @@
   ],
   "keyword": [
     "water consumer",
-    "report",
-    "water issues",
+    "satelite",
+    "water source",
     "location",
-    "water problem type"
+    "analysis"
   ],
   "publisher": "Grigoris Stathopoulos",
   "spatial": [],
