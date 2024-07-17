@@ -35,10 +35,10 @@ is provided following the **DCAT-AP** specification.
 
 | Dataset name  |  Metadata URL | 
 |-----------|----------------|
-| **Consumer Reports** | [Link](Datasets/Cyprus_Pilot/consumer_reports_metadata.json)| 
-| **Satelite Data**  | [Link](Datasets/Cyprus_Pilot/satelite_data_metadata.json) | 
-| **District Metering Area (DMA)**  | [Link](Datasets/Cyprus_Pilot/district_metering_area_metadata.json) | 
-| **Water Consumption Demands**  | [Link](Datasets/Cyprus_Pilot/Water_consumption_demands_metadata.json) | 
+| **WATERVERSE_PilotCY_SCADA_ConsumerReports_V0.1** | [Link](Datasets/Cyprus_Pilot/WATERVERSE_PilotCY_SCADA_ConsumerReports_V0.1_metadata.json)| 
+| **WATERVERSE_PilotCY_Sensing_SateliteEOData_V0.1**  | [Link](Datasets/Cyprus_Pilot/WATERVERSE_PilotCY_Sensing_SateliteEOData_V0.1_metadata.json) | 
+| **WATERVERSE_PilotCY_SCADA_DistrictMeteringAreaData_V0.1**  | [Link](Datasets/Cyprus_Pilot/WATERVERSE_PilotCY_SCADA_DistrictMeteringAreaData_V0.1_metadata.json) | 
+| **WATERVERSE_PilotCY_SCADA_SmartMeteringWaterConsumptionDemands_V0.1**  | [Link](Datasets/Cyprus_Pilot/WATERVERSE_PilotCY_SCADA_SmartMeteringWaterConsumptionDemands_V0.1_metadata.json) | 
 
 ## German Pilot
 
