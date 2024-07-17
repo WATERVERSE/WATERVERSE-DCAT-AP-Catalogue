@@ -52,7 +52,15 @@ is provided following the **DCAT-AP** specification.
 
 | Dataset name    | Metadata URL | 
 |-----------|----------------|
-| **Clusterability**    |  [Link](Datasets/Finnish_Pilot/clusterability_metadata.json)| 
+| **Clusterability**    |  [Link](Datasets/Finnish_Pilot/WATERVERSE_DP05_DataClusterability_ClusterabilityScore_V0.1_metadata.json)| 
+| **WATERVERSE_PilotFI_KEYAQUA_WaterDuct_V0.1**    |  [Link](Datasets/Finnish_Pilot/WATERVERSE_PilotFI_KEYAQUA_WaterDuct_V0.1_metadata.json)|
+| **WATERVERSE_PilotFI_KEYAQUA_WaterNode_V0.1**    |  [Link](Datasets/Finnish_Pilot/WATERVERSE_PilotFI_KEYAQUA_WaterNode_V0.1_metadata.json)|
+| **WATERVERSE_PilotFI_KEYAQUA_WaterDuctConditions_V0.1**    |  [Link](Datasets/Finnish_Pilot/WATERVERSE_PilotFI_KEYAQUA_WaterDuctConditions_V0.1_metadata.json)|  
+| **WATERVERSE_PilotFI_KEYAQUA_SewerPumpingStation_V0.1**    |  [Link](Datasets/Finnish_Pilot/WATERVERSE_PilotFI_KEYAQUA_SewerPumpingStation_V0.1_metadata.json)|
+| **WATERVERSE_PilotFI_KEYAQUA_SewerValve_V0.1**    |  [Link](Datasets/Finnish_Pilot/WATERVERSE_PilotFI_KEYAQUA_SewerValve_V0.1_metadata.json)|
+| **WATERVERSE_PilotFI_KEYAQUA_FlowMeter_V0.1**    |  [Link](Datasets/Finnish_Pilot/WATERVERSE_PilotFI_KEYAQUA_FlowMeter_V0.1_metadata.json)|
+| **WATERVERSE_PilotFI_KEYAQUA_FlowMeterReading_V0.1**    |  [Link](Datasets/Finnish_Pilot/WATERVERSE_PilotFI_KEYAQUA_FlowMeterReading_V0.1_metadata.json)|
+| **WATERVERSE_PilotFI_KEYAQUA_SewerManHole_V0.1**    |  [Link](Datasets/Finnish_Pilot/WATERVERSE_PilotFI_KEYAQUA_SewerManHole_V0.1_metadata.json)|
 
 
 ## Netherlands Pilot
