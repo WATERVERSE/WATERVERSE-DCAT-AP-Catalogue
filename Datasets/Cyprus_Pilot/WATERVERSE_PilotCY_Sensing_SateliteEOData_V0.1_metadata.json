@@ -1,15 +1,15 @@
 {
-  "id": "urn:ngsi-ld:Dataset:id:Water_Consumption_Demands:23278368",
+  "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotCY_Sensing_SateliteEOData_V0.1:23278368",
   "type": "Dataset",
-  "modified": "2024-04-09T14:09:32Z",
+  "modified": "2024-04-03T14:19:00Z",
   "source": [
-    "urn:ngsi-ld:Dataset:items:Water_Consumption_Demands:41266715"
+    "https://geoserver-waterverse.opsi.lecce.it/geoserver/web"
   ],
   "description": [
-    "The dataset comprises timeseries of water flows/volume at consumer premises level, for selected distribution area."
+    "The dataset includes the results of the analysis of satellite data given a water source geographical shape. The analysis corresponds to the detection of chlorophyll-A."
   ],
   "title": [
-    "Water Consumption-Demands (Smart Metering Data)"
+    "WATERVERSE_PilotCY_Sensing_SateliteEOData_V0.1"
   ],
   "contactPoint": [
     ""
@@ -19,13 +19,13 @@
     ""
   ],
   "keyword": [
-    "water consumer",
-    "report",
-    "water issues",
+    "satellite data",
+    "chlorophyll-A",
+    "water source",
     "location",
-    "water problem type"
+    "analysis"
   ],
-  "publisher": "George Millis",
+  "publisher": "Grigoris Stathopoulos",
   "spatial": [],
   "temporal": [],
   "theme": [
@@ -34,7 +34,7 @@
   ],
   "accessRights": "",
   "creator": [
-    "PHOEBE"
+    "CERTH"
   ],
   "page": [
     ""
@@ -53,7 +53,7 @@
     ""
   ],
   "landingPage": [
-    ""
+    "https://dataportal-waterverse.opsi.lecce.it/dataset?organization=certh"
   ],
   "language": [
     "EN"
@@ -73,7 +73,7 @@
   "relation": [
     ""
   ],
-  "issued": "2024-03-15T12:51:26Z",
+  "issued": "2024-04-06T16:43:00Z",
   "sample": [
     ""
   ],
@@ -82,7 +82,7 @@
     ""
   ],
   "Type": "",
-  "version": "",
+  "version": "1.0",
   "versionNotes": [],
   "wasGeneratedBy": [
     ""
@@ -99,3 +99,4 @@
   "reputation": "Level1Reputation",
   "reputationOrganization": ""
 }
+

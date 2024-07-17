@@ -1,15 +1,16 @@
 {
-  "id": "urn:ngsi-ld:Dataset:id:satellite_data:23278368",
+  "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotCY_SCADA_SmartMeteringWaterConsumptionDemands_V0.1:23278368",
   "type": "Dataset",
-  "modified": "2024-04-03T14:19:00Z",
+  "modified": "2024-04-09T14:09:32Z",
   "source": [
-    "https://geoserver-waterverse.opsi.lecce.it/geoserver/web"
+    "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotCY_SCADA_SmartMeteringWaterConsumptionDemands_V0.1:41266715"
   ],
   "description": [
-    "The dataset includes the results of the analysis of satellite data given a water source geographical shape. The analysis corresponds to the detection of chlorophyll-A."
+    "The dataset comprises timeseries of water flows/volume at consumer premises level, for selected distribution area."
   ],
   "title": [
-    "Satellite data"
+    "Water Consumption-Demands (Smart Metering Data)",
+    "WATERVERSE_PilotCY_SCADA_SmartMeteringWaterConsumptionDemands_V0.1"
   ],
   "contactPoint": [
     ""
@@ -19,13 +20,13 @@
     ""
   ],
   "keyword": [
-    "water consumer",
-    "satelite",
-    "water source",
-    "location",
-    "analysis"
+    "water consumption",
+    "water flows",
+    "water volume",
+    "distribution area",
+    "Water consumption demands"
   ],
-  "publisher": "Grigoris Stathopoulos",
+  "publisher": "George Millis",
   "spatial": [],
   "temporal": [],
   "theme": [
@@ -34,7 +35,7 @@
   ],
   "accessRights": "",
   "creator": [
-    "CERTH"
+    "PHOEBE"
   ],
   "page": [
     ""
@@ -53,7 +54,7 @@
     ""
   ],
   "landingPage": [
-    "https://dataportal-waterverse.opsi.lecce.it/dataset?organization=certh"
+    ""
   ],
   "language": [
     "EN"
@@ -73,7 +74,7 @@
   "relation": [
     ""
   ],
-  "issued": "2024-04-06T16:43:00Z",
+  "issued": "2024-03-15T12:51:26Z",
   "sample": [
     ""
   ],
@@ -82,7 +83,7 @@
     ""
   ],
   "Type": "",
-  "version": "1.0",
+  "version": "",
   "versionNotes": [],
   "wasGeneratedBy": [
     ""
@@ -99,4 +100,3 @@
   "reputation": "Level1Reputation",
   "reputationOrganization": ""
 }
-
