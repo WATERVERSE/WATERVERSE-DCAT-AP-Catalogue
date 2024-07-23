@@ -75,7 +75,7 @@ is provided following the **DCAT-AP** specification.
 
 | Dataset name    | Metadata URL | 
 |-----------|----------------|
-| No Data    |  [Link]         | 
+| Snowflake Data SQL-1   |  [Link](https://github.com/smart-data-models/dataModel.Device/tree/master/DeviceMeasurement)         | 
 
 ## UK Pilot
 
