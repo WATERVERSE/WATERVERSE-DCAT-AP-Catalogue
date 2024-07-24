@@ -1,15 +1,15 @@
 {
-    "id": "urn:ngsi-ld:Dataset:id:NiRa_data:23278368",
+    "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotDE_Etteln_Groundwater_V0.1:23278368",
     "type": "Dataset",
-    "modified": "2024-04-09T14:09:32Z",
+    "modified": "2024-03-21T12:53:00Z",
     "source": [
-      "urn:ngsi-ld:Dataset:items:NiRa_data:41266715"
+      "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotDE_Etteln_Groundwater_V0.1:41266715"
     ],
     "description": [
-      "NiRa data"
+      "Datasets about "
     ],
     "title": [
-      "NiRa data"
+      "WATERVERSE_PilotDE_Etteln_Groundwater_V0.1"
     ],
     "contactPoint": [
       ""
@@ -19,18 +19,19 @@
       ""
     ],
     "keyword": [
-        "NiRa"
+      "water",
+      "",
+      ""
     ],
-    "publisher": "Gerasimos Antzoulatos",
+    "publisher": "WDME",
     "spatial": [],
     "temporal": [],
     "theme": [
-      "Environment",
       "Water"
     ],
     "accessRights": "",
     "creator": [
-      "CERTH"
+      ""
     ],
     "page": [
       ""
@@ -95,3 +96,4 @@
     "reputation": "Level1Reputation",
     "reputationOrganization": ""
   }
+  
