@@ -1,15 +1,15 @@
 {
-    "id": "urn:ngsi-ld:Dataset:id:KNMI_observations:23278368",
+    "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotNL_KNMI_WeatherData_V0.1:23278368",
     "type": "Dataset",
     "modified": "2024-03-12T01:00:00Z",
     "source": [
-      "urn:ngsi-ld:Dataset:items:YSWN:41266715"
+      "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotNL_KNMI_WeatherData_V0.1:41266715"
     ],
     "description": [
       "KNMI_observations from the automatic weather stations."
     ],
     "title": [
-      "Customer reports"
+      "WATERVERSE_PilotNL_KNMI_WeatherData_V0.1"
     ],
     "contactPoint": [
       ""

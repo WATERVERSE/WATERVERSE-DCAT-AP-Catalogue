@@ -1,15 +1,15 @@
 {
-    "id": "urn:ngsi-ld:Dataset:id:RWS_Observation:23278368",
+    "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_Pilot:23278368",
     "type": "Dataset",
-    "modified": "2024-03-12T14:09:32Z",
+    "modified": "2024-03-21T12:53:00Z",
     "source": [
-      "urn:ngsi-ld:Dataset:items:RWS_Observation:41266715"
+      "urn:ngsi-ld:Dataset:items:WATERVERSE_Pilot:41266715"
     ],
     "description": [
-      "RWS_water quality observation in Netherlands."
+      "Datasets about "
     ],
     "title": [
-      "RWS_water quality observation"
+      "WATERVERSE_Pilot"
     ],
     "contactPoint": [
       ""
@@ -19,21 +19,19 @@
       ""
     ],
     "keyword": [
-      "RWS",
-      "water quality",
-      "Netherlands",
-      "Holland"
+      "water",
+      "",
+      ""
     ],
-    "publisher": "Sesan Siddhart",
+    "publisher": "WDME",
     "spatial": [],
     "temporal": [],
     "theme": [
-      "Environment",
       "Water"
     ],
     "accessRights": "",
     "creator": [
-      "KWR"
+      ""
     ],
     "page": [
       ""
@@ -52,7 +50,7 @@
       ""
     ],
     "landingPage": [
-      "https://dataportal-waterverse.opsi.lecce.it/dataset?organization=pwn"
+      ""
     ],
     "language": [
       "EN"
@@ -72,7 +70,7 @@
     "relation": [
       ""
     ],
-    "issued": "2024-03-12T12:51:26Z",
+    "issued": "2024-03-16T12:51:26Z",
     "sample": [
       ""
     ],
@@ -84,7 +82,7 @@
     "version": "",
     "versionNotes": [],
     "wasGeneratedBy": [
-      "https://www.rijkswaterstaat.nl/zakelijk/open-data"
+      ""
     ],
     "license": "Apache-2.0",
     "geolocation": false,
@@ -98,3 +96,4 @@
     "reputation": "Level1Reputation",
     "reputationOrganization": ""
   }
+  
