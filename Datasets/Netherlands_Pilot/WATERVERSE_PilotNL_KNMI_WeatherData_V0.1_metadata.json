@@ -1,15 +1,15 @@
 {
-    "id": "urn:ngsi-ld:Dataset:id:RWS_Observation:23278368",
+    "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotNL_KNMI_WeatherData_V0.1:23278368",
     "type": "Dataset",
-    "modified": "2024-03-12T14:09:32Z",
+    "modified": "2024-03-12T01:00:00Z",
     "source": [
-      "urn:ngsi-ld:Dataset:items:RWS_Observation:41266715"
+      "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotNL_KNMI_WeatherData_V0.1:41266715"
     ],
     "description": [
-      "RWS_water quality observation in Netherlands."
+      "KNMI_observations from the automatic weather stations."
     ],
     "title": [
-      "RWS_water quality observation"
+      "WATERVERSE_PilotNL_KNMI_WeatherData_V0.1"
     ],
     "contactPoint": [
       ""
@@ -19,10 +19,11 @@
       ""
     ],
     "keyword": [
-      "RWS",
-      "water quality",
-      "Netherlands",
-      "Holland"
+      "water consumer",
+      "report",
+      "water issues",
+      "location",
+      "water problem type"
     ],
     "publisher": "Sesan Siddhart",
     "spatial": [],
@@ -33,7 +34,7 @@
     ],
     "accessRights": "",
     "creator": [
-      "KWR"
+      "KNMI"
     ],
     "page": [
       ""
@@ -52,7 +53,8 @@
       ""
     ],
     "landingPage": [
-      "https://dataportal-waterverse.opsi.lecce.it/dataset?organization=pwn"
+      "https://dataportal-waterverse.opsi.lecce.it/dataset/knmi-harmonized-data-training-day-pwn-pilot",
+      "https://dataportal-waterverse.opsi.lecce.it/dataset/waterverse_puc1_knmi_observations-from-the-automatic-weather-stations_v1-0"
     ],
     "language": [
       "EN"
@@ -72,7 +74,7 @@
     "relation": [
       ""
     ],
-    "issued": "2024-03-12T12:51:26Z",
+    "issued": "2024-03-16T12:51:26Z",
     "sample": [
       ""
     ],
@@ -81,10 +83,10 @@
       ""
     ],
     "Type": "",
-    "version": "",
+    "version": "1.0",
     "versionNotes": [],
     "wasGeneratedBy": [
-      "https://www.rijkswaterstaat.nl/zakelijk/open-data"
+      ""
     ],
     "license": "Apache-2.0",
     "geolocation": false,

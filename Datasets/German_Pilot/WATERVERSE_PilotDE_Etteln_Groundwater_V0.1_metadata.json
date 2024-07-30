@@ -1,15 +1,15 @@
 {
-    "id": "urn:ngsi-ld:Dataset:id:KNMI_observations:23278368",
+    "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotDE_Etteln_Groundwater_V0.1:23278368",
     "type": "Dataset",
-    "modified": "2024-03-12T01:00:00Z",
+    "modified": "2024-03-21T12:53:00Z",
     "source": [
-      "urn:ngsi-ld:Dataset:items:YSWN:41266715"
+      "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotDE_Etteln_Groundwater_V0.1:41266715"
     ],
     "description": [
-      "KNMI_observations from the automatic weather stations."
+      "Datasets about "
     ],
     "title": [
-      "Customer reports"
+      "WATERVERSE_PilotDE_Etteln_Groundwater_V0.1"
     ],
     "contactPoint": [
       ""
@@ -19,22 +19,19 @@
       ""
     ],
     "keyword": [
-      "water consumer",
-      "report",
-      "water issues",
-      "location",
-      "water problem type"
+      "water",
+      "",
+      ""
     ],
-    "publisher": "Sesan Siddhart",
+    "publisher": "WDME",
     "spatial": [],
     "temporal": [],
     "theme": [
-      "Environment",
       "Water"
     ],
     "accessRights": "",
     "creator": [
-      "KNMI"
+      ""
     ],
     "page": [
       ""
@@ -53,8 +50,7 @@
       ""
     ],
     "landingPage": [
-      "https://dataportal-waterverse.opsi.lecce.it/dataset/knmi-harmonized-data-training-day-pwn-pilot",
-      "https://dataportal-waterverse.opsi.lecce.it/dataset/waterverse_puc1_knmi_observations-from-the-automatic-weather-stations_v1-0"
+      ""
     ],
     "language": [
       "EN"
@@ -83,7 +79,7 @@
       ""
     ],
     "Type": "",
-    "version": "1.0",
+    "version": "",
     "versionNotes": [],
     "wasGeneratedBy": [
       ""
@@ -100,3 +96,4 @@
     "reputation": "Level1Reputation",
     "reputationOrganization": ""
   }
+  

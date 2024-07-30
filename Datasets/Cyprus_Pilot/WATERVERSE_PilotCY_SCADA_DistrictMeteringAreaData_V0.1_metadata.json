@@ -1,0 +1,101 @@
+{
+  "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotCY_SCADA_DistrictMeteringAreaData_V0.1:23278368",
+  "type": "Dataset",
+  "modified": "2024-04-09T14:09:32Z",
+  "source": [
+    "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotCY_SCADA_DistrictMeteringAreaData_V0.1:41266715"
+  ],
+  "description": [
+    "The dataset includes the water flows and volume of water measurements from a number of nodes in a DMA of the water network."
+  ],
+  "title": [
+    "WATERVERSE_PilotCY_SCADA_DistrictMeteringAreaData_V0.1"
+  ],
+  "contactPoint": [
+    ""
+  ],
+  "belongsToCatalogue": "",
+  "distribution": [
+    ""
+  ],
+  "keyword": [
+    "water network",
+    "district metering area",
+    "water flow",
+    "water volume",
+    "node measurements"
+  ],
+  "publisher": "George Millis",
+  "spatial": [],
+  "temporal": [],
+  "theme": [
+    "Environment",
+    "Water"
+  ],
+  "accessRights": "",
+  "creator": [
+    "PHOEBE"
+  ],
+  "page": [
+    ""
+  ],
+  "accrualPeriodicity": "weekly",
+  "hasVersion": [
+    ""
+  ],
+  "identifier": [
+    ""
+  ],
+  "isReferencedBy": [
+    ""
+  ],
+  "isVersionOf": [
+    ""
+  ],
+  "landingPage": [
+    ""
+  ],
+  "language": [
+    "EN"
+  ],
+  "otherIdentifier": [
+    ""
+  ],
+  "provenance": [
+    ""
+  ],
+  "qualifiedAttribution": [
+    ""
+  ],
+  "qualifiedRelation": [
+    ""
+  ],
+  "relation": [
+    ""
+  ],
+  "issued": "2024-03-15T16:23:04Z",
+  "sample": [
+    ""
+  ],
+  "spatialResolutionInMeters": 0.0,
+  "temporalResolution": [
+    ""
+  ],
+  "Type": "",
+  "version": "",
+  "versionNotes": [],
+  "wasGeneratedBy": [
+    ""
+  ],
+  "license": "Apache-2.0",
+  "geolocation": false,
+  "addressAvailable": false,
+  "standardization": "Level2Standardization",
+  "standardizationSource": "",
+  "validationSchema": "https://github.com/smart-data-models/incubated/blob/master/metadata/schema.json",
+  "accessMechanism": "Level3AccessMechanism",
+  "disseminationOrganization": "",
+  "dissemination": "Level1Dissemination",
+  "reputation": "Level1Reputation",
+  "reputationOrganization": ""
+}

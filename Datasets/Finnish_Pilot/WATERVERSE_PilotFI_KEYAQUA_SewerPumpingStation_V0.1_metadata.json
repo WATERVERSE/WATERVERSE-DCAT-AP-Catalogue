@@ -1,15 +1,15 @@
 {
-    "id": "urn:ngsi-ld:Dataset:id:NiRa_data:23278368",
+    "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotFI_KEYAQUA_SewerPumpingStation_V0.1:23278368",
     "type": "Dataset",
-    "modified": "2024-04-09T14:09:32Z",
+    "modified": "2024-03-21T12:53:00Z",
     "source": [
-      "urn:ngsi-ld:Dataset:items:NiRa_data:41266715"
+      "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotFI_KEYAQUA_SewerPumpingStation_V0.1:41266715"
     ],
     "description": [
-      "NiRa data"
+      "Datasets about the sewer network (pressure drains, sewage, pumping stations)"
     ],
     "title": [
-      "NiRa data"
+      "WATERVERSE_PilotFI_KEYAQUA_SewerPumpingStation_V0.1"
     ],
     "contactPoint": [
       ""
@@ -19,9 +19,13 @@
       ""
     ],
     "keyword": [
-        "NiRa"
+      "water",
+      "sewer network",
+      "pressure drain",
+      "sewage",
+      "pumping station"
     ],
-    "publisher": "Gerasimos Antzoulatos",
+    "publisher": "WDME",
     "spatial": [],
     "temporal": [],
     "theme": [
@@ -30,12 +34,12 @@
     ],
     "accessRights": "",
     "creator": [
-      "CERTH"
+      ""
     ],
     "page": [
       ""
     ],
-    "accrualPeriodicity": "weekly",
+    "accrualPeriodicity": "",
     "hasVersion": [
       ""
     ],

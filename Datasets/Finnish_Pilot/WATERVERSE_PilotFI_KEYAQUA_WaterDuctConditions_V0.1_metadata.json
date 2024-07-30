@@ -1,15 +1,15 @@
 {
-  "id": "urn:ngsi-ld:Dataset:id:satellite_data:23278368",
+  "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotFI_KEYAQUA_WaterDuctConditions_V0.1:23278368",
   "type": "Dataset",
-  "modified": "2024-04-03T14:19:00Z",
+  "modified": "2024-03-21T12:53:00Z",
   "source": [
-    "https://geoserver-waterverse.opsi.lecce.it/geoserver/web"
+    "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotFI_KEYAQUA_WaterDuctConditions_V0.1:41266715"
   ],
   "description": [
-    "The dataset includes the results of the analysis of satellite data given a water source geographical shape. The analysis corresponds to the detection of chlorophyll-A."
+    "Datasets about the condition of the water pipes."
   ],
   "title": [
-    "Satellite data"
+    "WATERVERSE_PilotFI_KEYAQUA_WaterDuctConditions_V0.1"
   ],
   "contactPoint": [
     ""
@@ -19,27 +19,24 @@
     ""
   ],
   "keyword": [
-    "water consumer",
-    "satelite",
-    "water source",
-    "location",
-    "analysis"
+    "water",
+    "condition",
+    "pipes"
   ],
-  "publisher": "Grigoris Stathopoulos",
+  "publisher": "WDME",
   "spatial": [],
   "temporal": [],
   "theme": [
-    "Environment",
     "Water"
   ],
   "accessRights": "",
   "creator": [
-    "CERTH"
+    ""
   ],
   "page": [
     ""
   ],
-  "accrualPeriodicity": "weekly",
+  "accrualPeriodicity": "",
   "hasVersion": [
     ""
   ],
@@ -53,7 +50,7 @@
     ""
   ],
   "landingPage": [
-    "https://dataportal-waterverse.opsi.lecce.it/dataset?organization=certh"
+    ""
   ],
   "language": [
     "EN"
@@ -73,7 +70,7 @@
   "relation": [
     ""
   ],
-  "issued": "2024-04-06T16:43:00Z",
+  "issued": "",
   "sample": [
     ""
   ],
@@ -82,7 +79,7 @@
     ""
   ],
   "Type": "",
-  "version": "1.0",
+  "version": "",
   "versionNotes": [],
   "wasGeneratedBy": [
     ""
@@ -99,4 +96,3 @@
   "reputation": "Level1Reputation",
   "reputationOrganization": ""
 }
-

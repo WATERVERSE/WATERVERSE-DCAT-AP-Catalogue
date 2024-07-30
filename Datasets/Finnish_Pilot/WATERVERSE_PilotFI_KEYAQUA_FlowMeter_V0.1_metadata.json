@@ -1,0 +1,99 @@
+{
+    "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotFI_KEYAQUA_FlowMeter_V0.1:23278368",
+    "type": "Dataset",
+    "modified": "2024-03-21T12:53:00Z",
+    "source": [
+      "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotFI_KEYAQUA_FlowMeter_V0.1:41266715"
+    ],
+    "description": [
+      "Dataset with the information about the flow meters (device signal)"
+    ],
+    "title": [
+      "WATERVERSE_PilotFI_KEYAQUA_FlowMeter_V0.1"
+    ],
+    "contactPoint": [
+      ""
+    ],
+    "belongsToCatalogue": "",
+    "distribution": [
+      ""
+    ],
+    "keyword": [
+      "water",
+      "flow meters",
+      "device signal"
+    ],
+    "publisher": "WDME",
+    "spatial": [],
+    "temporal": [],
+    "theme": [
+      "Water"
+    ],
+    "accessRights": "",
+    "creator": [
+      ""
+    ],
+    "page": [
+      ""
+    ],
+    "accrualPeriodicity": "",
+    "hasVersion": [
+      ""
+    ],
+    "identifier": [
+      ""
+    ],
+    "isReferencedBy": [
+      ""
+    ],
+    "isVersionOf": [
+      ""
+    ],
+    "landingPage": [
+      ""
+    ],
+    "language": [
+      "EN"
+    ],
+    "otherIdentifier": [
+      ""
+    ],
+    "provenance": [
+      ""
+    ],
+    "qualifiedAttribution": [
+      ""
+    ],
+    "qualifiedRelation": [
+      ""
+    ],
+    "relation": [
+      ""
+    ],
+    "issued": "",
+    "sample": [
+      ""
+    ],
+    "spatialResolutionInMeters": 0.0,
+    "temporalResolution": [
+      ""
+    ],
+    "Type": "",
+    "version": "",
+    "versionNotes": [],
+    "wasGeneratedBy": [
+      ""
+    ],
+    "license": "Apache-2.0",
+    "geolocation": false,
+    "addressAvailable": false,
+    "standardization": "Level2Standardization",
+    "standardizationSource": "",
+    "validationSchema": "https://github.com/smart-data-models/incubated/blob/master/metadata/schema.json",
+    "accessMechanism": "Level3AccessMechanism",
+    "disseminationOrganization": "",
+    "dissemination": "Level1Dissemination",
+    "reputation": "Level1Reputation",
+    "reputationOrganization": ""
+  }
+  

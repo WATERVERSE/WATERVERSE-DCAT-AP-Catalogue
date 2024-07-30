@@ -1,0 +1,102 @@
+{
+  "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotCY_Sensing_SateliteEOData_V0.1:23278368",
+  "type": "Dataset",
+  "modified": "2024-04-03T14:19:00Z",
+  "source": [
+    "https://geoserver-waterverse.opsi.lecce.it/geoserver/web"
+  ],
+  "description": [
+    "The dataset includes the results of the analysis of satellite data given a water source geographical shape. The analysis corresponds to the detection of chlorophyll-A."
+  ],
+  "title": [
+    "WATERVERSE_PilotCY_Sensing_SateliteEOData_V0.1"
+  ],
+  "contactPoint": [
+    ""
+  ],
+  "belongsToCatalogue": "",
+  "distribution": [
+    ""
+  ],
+  "keyword": [
+    "satellite data",
+    "chlorophyll-A",
+    "water source",
+    "location",
+    "analysis"
+  ],
+  "publisher": "Grigoris Stathopoulos",
+  "spatial": [],
+  "temporal": [],
+  "theme": [
+    "Environment",
+    "Water"
+  ],
+  "accessRights": "",
+  "creator": [
+    "CERTH"
+  ],
+  "page": [
+    ""
+  ],
+  "accrualPeriodicity": "weekly",
+  "hasVersion": [
+    ""
+  ],
+  "identifier": [
+    ""
+  ],
+  "isReferencedBy": [
+    ""
+  ],
+  "isVersionOf": [
+    ""
+  ],
+  "landingPage": [
+    "https://dataportal-waterverse.opsi.lecce.it/dataset?organization=certh"
+  ],
+  "language": [
+    "EN"
+  ],
+  "otherIdentifier": [
+    ""
+  ],
+  "provenance": [
+    ""
+  ],
+  "qualifiedAttribution": [
+    ""
+  ],
+  "qualifiedRelation": [
+    ""
+  ],
+  "relation": [
+    ""
+  ],
+  "issued": "2024-04-06T16:43:00Z",
+  "sample": [
+    ""
+  ],
+  "spatialResolutionInMeters": 0.0,
+  "temporalResolution": [
+    ""
+  ],
+  "Type": "",
+  "version": "1.0",
+  "versionNotes": [],
+  "wasGeneratedBy": [
+    ""
+  ],
+  "license": "Apache-2.0",
+  "geolocation": false,
+  "addressAvailable": false,
+  "standardization": "Level2Standardization",
+  "standardizationSource": "",
+  "validationSchema": "https://github.com/smart-data-models/incubated/blob/master/metadata/schema.json",
+  "accessMechanism": "Level3AccessMechanism",
+  "disseminationOrganization": "",
+  "dissemination": "Level1Dissemination",
+  "reputation": "Level1Reputation",
+  "reputationOrganization": ""
+}
+

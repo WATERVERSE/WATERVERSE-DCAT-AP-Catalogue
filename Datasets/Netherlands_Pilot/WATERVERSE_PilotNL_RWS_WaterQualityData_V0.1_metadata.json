@@ -1,0 +1,100 @@
+{
+    "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotNL_RWS_WaterQualityData_V0.1:23278368",
+    "type": "Dataset",
+    "modified": "2024-03-12T14:09:32Z",
+    "source": [
+      "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotNL_RWS_WaterQualityData_V0.1:41266715"
+    ],
+    "description": [
+      "RWS_water quality observation in Netherlands."
+    ],
+    "title": [
+      "WATERVERSE_PilotNL_RWS_WaterQualityData_V0.1"
+    ],
+    "contactPoint": [
+      ""
+    ],
+    "belongsToCatalogue": "",
+    "distribution": [
+      ""
+    ],
+    "keyword": [
+      "RWS",
+      "water quality",
+      "Netherlands",
+      "Holland"
+    ],
+    "publisher": "Sesan Siddhart",
+    "spatial": [],
+    "temporal": [],
+    "theme": [
+      "Environment",
+      "Water"
+    ],
+    "accessRights": "",
+    "creator": [
+      "KWR"
+    ],
+    "page": [
+      ""
+    ],
+    "accrualPeriodicity": "weekly",
+    "hasVersion": [
+      ""
+    ],
+    "identifier": [
+      ""
+    ],
+    "isReferencedBy": [
+      ""
+    ],
+    "isVersionOf": [
+      ""
+    ],
+    "landingPage": [
+      "https://dataportal-waterverse.opsi.lecce.it/dataset?organization=pwn"
+    ],
+    "language": [
+      "EN"
+    ],
+    "otherIdentifier": [
+      ""
+    ],
+    "provenance": [
+      ""
+    ],
+    "qualifiedAttribution": [
+      ""
+    ],
+    "qualifiedRelation": [
+      ""
+    ],
+    "relation": [
+      ""
+    ],
+    "issued": "2024-03-12T12:51:26Z",
+    "sample": [
+      ""
+    ],
+    "spatialResolutionInMeters": 0.0,
+    "temporalResolution": [
+      ""
+    ],
+    "Type": "",
+    "version": "",
+    "versionNotes": [],
+    "wasGeneratedBy": [
+      "https://www.rijkswaterstaat.nl/zakelijk/open-data"
+    ],
+    "license": "Apache-2.0",
+    "geolocation": false,
+    "addressAvailable": false,
+    "standardization": "Level2Standardization",
+    "standardizationSource": "",
+    "validationSchema": "https://github.com/smart-data-models/incubated/blob/master/metadata/schema.json",
+    "accessMechanism": "Level3AccessMechanism",
+    "disseminationOrganization": "",
+    "dissemination": "Level1Dissemination",
+    "reputation": "Level1Reputation",
+    "reputationOrganization": ""
+  }

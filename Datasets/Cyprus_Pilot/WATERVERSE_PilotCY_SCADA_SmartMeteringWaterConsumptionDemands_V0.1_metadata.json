@@ -1,15 +1,16 @@
 {
-  "id": "urn:ngsi-ld:Dataset:id:customer_reports:21675868",
+  "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotCY_SCADA_SmartMeteringWaterConsumptionDemands_V0.1:23278368",
   "type": "Dataset",
   "modified": "2024-04-09T14:09:32Z",
   "source": [
-    "urn:ngsi-ld:Dataset:items:customer_reports:41266715"
+    "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotCY_SCADA_SmartMeteringWaterConsumptionDemands_V0.1:41266715"
   ],
   "description": [
-    "Reports by water consumers about issues they face related to their water. The dataset includes the reports, the assignment to operators and technical teams, as well as information about locations, type of problem, etc."
+    "The dataset comprises timeseries of water flows/volume at consumer premises level, for selected distribution area."
   ],
   "title": [
-    "Customer reports"
+    "Water Consumption-Demands (Smart Metering Data)",
+    "WATERVERSE_PilotCY_SCADA_SmartMeteringWaterConsumptionDemands_V0.1"
   ],
   "contactPoint": [
     ""
@@ -19,11 +20,11 @@
     ""
   ],
   "keyword": [
-    "water consumer",
-    "report",
-    "Consumer Reports",
-    "location",
-    "water problem type"
+    "water consumption",
+    "water flows",
+    "water volume",
+    "distribution area",
+    "Water consumption demands"
   ],
   "publisher": "George Millis",
   "spatial": [],
@@ -53,7 +54,7 @@
     ""
   ],
   "landingPage": [
-    "https://dataportal-waterverse.opsi.lecce.it/dataset?organization=wbl"
+    ""
   ],
   "language": [
     "EN"
@@ -73,7 +74,7 @@
   "relation": [
     ""
   ],
-  "issued": "2024-03-09T17:09:22Z",
+  "issued": "2024-03-15T12:51:26Z",
   "sample": [
     ""
   ],
