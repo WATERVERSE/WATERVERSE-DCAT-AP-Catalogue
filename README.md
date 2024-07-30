@@ -81,9 +81,13 @@ is provided following the **DCAT-AP** specification.
 
 | Dataset name    | Metadata URL | 
 |-----------|---------------|
-| **Environment_agency_data_river**    | [Link](Datasets/UK_Pilot/environment_agency_data_river_metadata.json) | 
-| **Environment_agency_data**   | [Link](Datasets/UK_Pilot/environment_agency_data_metadata.json) | 
-| **Eater_quality_observation_meteor_cloud** | [Private](Datasets/UK_Pilot/water_quality_observation_meteor_cloud_metadata.json) | 
+| **WATERVERSE_PilotUK_EA_RiverLevel_V0.1**    | [Link](Datasets/UK_Pilot/WATERVERSE_PilotUK_EA_RiverLevel_V0.1_metadata.json) | 
+| **WATERVERSE_PilotUK_EA_Rainfall_V0.1**   | [Link](Datasets/UK_Pilot/WATERVERSE_PilotUK_EA_Rainfall_V0.1_metadata.json) | 
+| **WATERVERSE_PilotUK_MeteorCloud_WaterQualityMonitor_V0.1** | [Private](Datasets/UK_Pilot/WATERVERSE_PilotUK_MeteorCloud_WaterQualityMonitor_V0.1_metadata.json) | 
+| **WATERVERSE_PilotUK_SCADA_Point_Hierarcy_V0.1**    | [Link](Datasets/UK_Pilot/WATERVERSE_PilotUK_SCADA_Point_Hierarcy_V0.1_metadata.json) | 
+| **WATERVERSE_PilotUK_SCADA_Analogue_V0.1**    | [Link](Datasets/UK_Pilot/WATERVERSE_PilotUK_SCADA_Analogue_V0.1_metadata.json) | 
+| **WATERVERSE_PilotUK_SCADA_Spill_Events_V0.1**    | [Link](Datasets/UK_Pilot/WATERVERSE_PilotUK_SCADA_Spill_Events_V0.1_metadata.json) | 
+| **WATERVERSE_PilotUK_SCADA_Digital_V0.1**    | [Link](Datasets/UK_Pilot/WATERVERSE_PilotUK_SCADA_Digital_V0.1_metadata.json) | 
 
 # DCAT-AP Data Service classes
 
@@ -106,6 +110,8 @@ is provided following the **DCAT-AP** specification.
 | Entity name    | Data Model URL | 
 |-----------|----------------|
 | **Consumer Reports**    |  [Link](https://github.com/smart-data-models/dataModel.WaterConsumption/tree/master/WaterConsumptionObserved)    | 
+| **Satelite Data**    |  [Link](https://github.com/smart-data-models/dataModel.SatelliteImagery)    |
+| **Satelite Data**    |  [Link](https://github.com/smart-data-models/dataModel.SatelliteImagery)    |
 
 ## German Pilot 
 

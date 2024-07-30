@@ -1,15 +1,15 @@
 {
-    "id": "urn:ngsi-ld:Dataset:id:Environment_agency_data_river:20078368",
+    "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotUK_SCADA_Analogue_V0.1:23278368",
     "type": "Dataset",
-    "modified": "2024-04-09T14:09:32Z",
+    "modified": "2024-03-21T12:53:00Z",
     "source": [
-      "urn:ngsi-ld:Dataset:items:nvironment_agency_data_river:41266715"
+      "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotUK_SCADA_Analogue_V0.1:41266715"
     ],
     "description": [
-      "Environment agency data river"
+      "Datasets about analog signal values from South West Water SCADA system (in general for Waterverse these are water level values)"
     ],
     "title": [
-      "Environment agency data river"
+      "WATERVERSE_PilotUK_SCADA_Analogue_V0.1"
     ],
     "contactPoint": [
       ""
@@ -19,27 +19,24 @@
       ""
     ],
     "keyword": [
-      "environment",
-      "agency",
-      "rain",
-      "river",
-      "water"
+      "SCADA",
+      "analog",
+      "temporal"
     ],
-    "publisher": "https://environment.data.gov.uk/",
+    "publisher": "WDME",
     "spatial": [],
     "temporal": [],
     "theme": [
-      "Environment",
       "Water"
     ],
     "accessRights": "",
     "creator": [
-      "Gareth Lewis"
+      "Geoff Mandeno"
     ],
     "page": [
       ""
     ],
-    "accrualPeriodicity": "weekly",
+    "accrualPeriodicity": "",
     "hasVersion": [
       ""
     ],
@@ -53,7 +50,7 @@
       ""
     ],
     "landingPage": [
-      "https://dataportal-waterverse.opsi.lecce.it/dataset/waterverse_puc2_sww_environment-agency-data_v1-0"
+      ""
     ],
     "language": [
       "EN"
@@ -82,10 +79,10 @@
       ""
     ],
     "Type": "",
-    "version": "1.0",
+    "version": "",
     "versionNotes": [],
     "wasGeneratedBy": [
-      "https://environment.data.gov.uk/"
+      ""
     ],
     "license": "Apache-2.0",
     "geolocation": false,
