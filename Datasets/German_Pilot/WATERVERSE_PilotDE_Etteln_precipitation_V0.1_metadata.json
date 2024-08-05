@@ -1,33 +1,32 @@
 {
-    "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotDE_Etteln_Rainfall_V0.1:23278368",
+    "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotDE_Etteln_precipitation_V0.1:23278368",
     "type": "Dataset",
     "modified": "2024-03-21T12:53:00Z",
     "source": [
-      "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotDE_Etteln_Rainfall_V0.1:41266715"
+      "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotDE_Etteln_precipitation_V0.1:41266715"
     ],
     "description": [
-      "Datasets about "
+      "Datasets about the actual fallen precipitation in the flooding area"
     ],
     "title": [
-      "WATERVERSE_PilotDE_Etteln_Rainfall_V0.1"
+      "WATERVERSE_PilotDE_Etteln_precipitation_V0.1"
     ],
     "contactPoint": [
-      ""
+      "Hypertegrity"
     ],
     "belongsToCatalogue": "",
     "distribution": [
       ""
     ],
     "keyword": [
-      "water",
-      "",
-      ""
+      "precipitation",
+      "flooding"
     ],
-    "publisher": "WDME",
+    "publisher": "EDAG Engineering GmbH",
     "spatial": [],
     "temporal": [],
     "theme": [
-      "Water"
+      "flooding"
     ],
     "accessRights": "",
     "creator": [
@@ -50,7 +49,7 @@
       ""
     ],
     "landingPage": [
-      ""
+      "https://opencity-services.de/wasser"
     ],
     "language": [
       "EN"
@@ -96,3 +95,4 @@
     "reputation": "Level1Reputation",
     "reputationOrganization": ""
   }
+  

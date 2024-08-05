@@ -1,15 +1,15 @@
 {
-  "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotDE_Etteln_Soilmoisture_V0.1:23278368",
+  "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotDE_Etteln_riverlevel_V0.1:23278368",
   "type": "Dataset",
   "modified": "2024-03-21T12:53:00Z",
   "source": [
-    "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotDE_Etteln_Soilmoisture_V0.1:41266715"
+    "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotDE_Etteln_riverlevel_V0.1:41266715"
   ],
   "description": [
-    "Datasets about the relative soil moisture in the flooding area"
+    "Datasets including the river level at the risiking river Altenau next to the flooding area"
   ],
   "title": [
-    "WATERVERSE_PilotDE_Etteln_Soilmoisture_V0.1"
+    "WATERVERSE_PilotDE_Etteln_riverlevel_V0.1"
   ],
   "contactPoint": [
     "Hypertegrity"
@@ -19,9 +19,9 @@
     ""
   ],
   "keyword": [
-    "moisture",
-    "soil",
-    "flooding"
+    "river level",
+    "flooding",
+    "river Altenau"
   ],
   "publisher": "EDAG Engineering GmbH",
   "spatial": [],

@@ -6,28 +6,27 @@
       "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotDE_NiRA_Precipitation_Forecast_V0.1:41266715"
     ],
     "description": [
-      "Datasets about "
+      "Datasets about precipitation forecast up to 72h, time resolution: 1h; spatial resolution: 1x1 km; includes the station name, timestamp, Quality (always Q1), value in mm"
     ],
     "title": [
       "WATERVERSE_PilotDE_NiRA_Precipitation_Forecast_V0.1"
     ],
     "contactPoint": [
-      ""
+      "HST"
     ],
     "belongsToCatalogue": "",
     "distribution": [
       ""
     ],
     "keyword": [
-      "water",
-      "",
-      ""
+      "Precipitation",
+      "Forecast"
     ],
-    "publisher": "WDME",
+    "publisher": "NIRA.WEB",
     "spatial": [],
     "temporal": [],
     "theme": [
-      "Water"
+      "Precipitation"
     ],
     "accessRights": "",
     "creator": [
@@ -36,7 +35,7 @@
     "page": [
       ""
     ],
-    "accrualPeriodicity": "weekly",
+    "accrualPeriodicity": "every 3 days",
     "hasVersion": [
       ""
     ],
@@ -50,7 +49,7 @@
       ""
     ],
     "landingPage": [
-      ""
+      "https://en.hst.de/hst_products/nira-web/"
     ],
     "language": [
       "EN"
