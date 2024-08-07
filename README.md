@@ -44,8 +44,11 @@ is provided following the **DCAT-AP** specification.
 
 | Dataset name    | Metadata URL | 
 |-----------|----------------|
-| **Nira data**    |  [Link](Datasets/German_Pilot/nira_data_metadata.json) | 
-| **Etteln data**    |  Private | 
+| **WATERVERSE_PilotDE_Etteln_precipitation_V0.1**    |  [Link](Datasets/German_Pilot/WATERVERSE_PilotDE_Etteln_precipitation_V0.1_metadata.json) | 
+| **WATERVERSE_PilotDE_Etteln_Groundwaterlevel_V0.1**    |  [Link](Datasets/German_Pilot/WATERVERSE_PilotDE_Etteln_Groundwaterlevel_V0.1_metadata.json) | 
+| **WATERVERSE_PilotDE_Etteln_Soilmoisture_V0.1**    |  [Link](Datasets/German_Pilot/WATERVERSE_PilotDE_Etteln_Soilmoisture_V0.1_metadata.json) | 
+| **WATERVERSE_PilotDE_NiRA_PrecipitationForecast_V0.1**    |  [Link](Datasets/German_Pilot/WATERVERSE_PilotDE_NiRA_PrecipitationForecast_V0.1_metadata.json) | 
+| **WATERVERSE_PilotDE_Etteln_riverlevel_V0.1**    |  [Link](Datasets/German_Pilot/WATERVERSE_PilotDE_Etteln_riverlevel_V0.1_metadata.json) | 
 
 
 ## Finnish Pilot
