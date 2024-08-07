@@ -75,7 +75,15 @@ is provided following the **DCAT-AP** specification.
 
 | Dataset name    | Metadata URL | 
 |-----------|----------------|
-| Snowflake Data SQL-1   |  [Link](https://github.com/smart-data-models/dataModel.Device/tree/master/DeviceMeasurement)         | 
+| WATERVERSE_PilotSP_DATAHUB_HydraulicEfficency_V0.1   |  [Link](Datasets/Spanish_Pilot/WATERVERSE_PilotSP_DATAHUB_HydraulicEfficency_V0.1_metadata.json)         | 
+| WATERVERSE_PilotSP_DATAHUB_LeaksM_V0.1   |  [Link](Datasets/Spanish_Pilot/WATERVERSE_PilotSP_DATAHUB_LeaksM_V0.1_metadata.json)         | 
+| WATERVERSE_PilotSP_DATAHUB_Energy_V0.1   |  [Link](Datasets/Spanish_Pilot/WATERVERSE_PilotSP_DATAHUB_Energy_V0.1_metadata.json)         | 
+| WATERVERSE_PilotSP_DATAHUB_WaterSourcesD_V0.1   |  [Link](Datasets/Spanish_Pilot/WATERVERSE_PilotSP_DATAHUB_WaterSourcesD_V0.1_metadata.json)         | 
+| WATERVERSE_PilotSP_DATAHUB_WaterSourcesM_V0.1   |  [Link](Datasets/Spanish_Pilot/WATERVERSE_PilotSP_DATAHUB_WaterSourcesM_V0.1_metadata.json)         | 
+| WATERVERSE_PilotSP_DM_WeekConsumptionProfile_V0.1   |  [Link](Datasets/Spanish_Pilot/WATERVERSE_PilotSP_DM_WeekConsumptionProfile_V0.1_metadata.json)         | 
+| WATERVERSE_PilotSP_DM_SmartMeteringFlow_V0.1   |  [Link](Datasets/Spanish_Pilot/WATERVERSE_PilotSP_DM_SmartMeteringFlow_V0.1_metadata.json)         | 
+
+
 
 ## UK Pilot
 
