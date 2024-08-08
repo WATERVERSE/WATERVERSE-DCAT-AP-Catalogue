@@ -1,44 +1,41 @@
 {
-    "id": "urn:ngsi-ld:Dataset:id:Environment_Agency_Data_River:23278368",
+    "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotSP_DATAHUB_Energy_V0.1:23278368",
     "type": "Dataset",
-    "modified": "2024-04-10T02:00:00Z",
+    "modified": "2024-03-21T12:53:00Z",
     "source": [
-      "https://environment.data.gov.uk/"
+      "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotSP_DATAHUB_Energy_V0.1:41266715"
     ],
     "description": [
-      "Environment agency data river"
+      "Datasets about the daily energy consumed (and produced) in each part of the network."
     ],
     "title": [
-      "nvironment_agency_data_river"
+      "WATERVERSE_PilotSP_DATAHUB_Energy_V0.1"
     ],
     "contactPoint": [
-      ""
+      "Hidralia"
     ],
     "belongsToCatalogue": "",
     "distribution": [
       ""
     ],
     "keyword": [
-      "environment",
-      "flood",
-      "rain",
-      "river"
+      "energy",
+      "day"
     ],
-    "publisher": "https://environment.data.gov.uk/",
+    "publisher": "WDME",
     "spatial": [],
     "temporal": [],
     "theme": [
-      "Environment",
       "Water"
     ],
     "accessRights": "",
     "creator": [
-      "Gareth Lewis"
+      ""
     ],
     "page": [
       ""
     ],
-    "accrualPeriodicity": "weekly",
+    "accrualPeriodicity": "Daily",
     "hasVersion": [
       ""
     ],
@@ -52,7 +49,7 @@
       ""
     ],
     "landingPage": [
-      "https://dataportal-waterverse.opsi.lecce.it/dataset/waterverse_puc2_sww_environment-agency-data_v1-0"
+      "https://itigr.sharepoint.com/:x:/r/sites/Waterverse/Shared%20Documents/Workplan/WP5/Pilot_5_SP/WDME_Deployment_preparation_datasets/Extraction_Sample_Datasets_csv/3_Energy.csv?d=wfb1e0123f23e480cbb6fd99bc27804aa&csf=1&web=1&e=7erEXe"
     ],
     "language": [
       "EN"
@@ -72,7 +69,7 @@
     "relation": [
       ""
     ],
-    "issued": "2024-03-16T12:51:26Z",
+    "issued": "",
     "sample": [
       ""
     ],
@@ -81,10 +78,10 @@
       ""
     ],
     "Type": "",
-    "version": "1.0",
+    "version": "",
     "versionNotes": [],
     "wasGeneratedBy": [
-      "https://environment.data.gov.uk/"
+      ""
     ],
     "license": "Apache-2.0",
     "geolocation": false,

@@ -1,41 +1,41 @@
 {
-    "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotDE_NiRA_Precipitation_Forecast_V0.1:23278368",
+    "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotUK_SCADA_Point_Hierarcy_V0.1:23278368",
     "type": "Dataset",
     "modified": "2024-03-21T12:53:00Z",
     "source": [
-      "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotDE_NiRA_Precipitation_Forecast_V0.1:41266715"
+      "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotUK_SCADA_Point_Hierarcy_V0.1:41266715"
     ],
     "description": [
-      "Datasets about precipitation forecast up to 72h, time resolution: 1h; spatial resolution: 1x1 km; includes the station name, timestamp, Quality (always Q1), value in mm"
+      "Datasets about the list of signals available on South West Water SCADA system."
     ],
     "title": [
-      "WATERVERSE_PilotDE_NiRA_Precipitation_Forecast_V0.1"
+      "WATERVERSE_PilotUK_SCADA_Point_Hierarcy_V0.1"
     ],
     "contactPoint": [
-      "HST"
+      ""
     ],
     "belongsToCatalogue": "",
     "distribution": [
       ""
     ],
     "keyword": [
-      "Precipitation",
-      "Forecast"
+      "SCADA",
+      "signal list"
     ],
-    "publisher": "NIRA.WEB",
+    "publisher": "WDME",
     "spatial": [],
     "temporal": [],
     "theme": [
-      "Precipitation"
+      "Water"
     ],
     "accessRights": "",
     "creator": [
-      ""
+      "Geoff Mandeno"
     ],
     "page": [
       ""
     ],
-    "accrualPeriodicity": "every 3 days",
+    "accrualPeriodicity": "",
     "hasVersion": [
       ""
     ],
@@ -49,7 +49,7 @@
       ""
     ],
     "landingPage": [
-      "https://en.hst.de/hst_products/nira-web/"
+      ""
     ],
     "language": [
       "EN"
@@ -95,4 +95,3 @@
     "reputation": "Level1Reputation",
     "reputationOrganization": ""
   }
-  

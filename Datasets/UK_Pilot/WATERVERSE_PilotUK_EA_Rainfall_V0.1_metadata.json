@@ -1,41 +1,42 @@
 {
-    "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotDE_NiRA_Precipitation_Forecast_V0.1:23278368",
+    "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotUK_EA_Rainfall_V0.1:20078368",
     "type": "Dataset",
-    "modified": "2024-03-21T12:53:00Z",
+    "modified": "2024-04-09T14:09:32Z",
     "source": [
-      "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotDE_NiRA_Precipitation_Forecast_V0.1:41266715"
+      "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotUK_EA_Rainfall_V0.1:41266715"
     ],
     "description": [
-      "Datasets about precipitation forecast up to 72h, time resolution: 1h; spatial resolution: 1x1 km; includes the station name, timestamp, Quality (always Q1), value in mm"
+      "Selected rain gauge data from UK Environment Agency Hydrology API (public)"
     ],
     "title": [
-      "WATERVERSE_PilotDE_NiRA_Precipitation_Forecast_V0.1"
+      "WATERVERSE_PilotUK_EA_Rainfall_V0.1"
     ],
     "contactPoint": [
-      "HST"
+      ""
     ],
     "belongsToCatalogue": "",
     "distribution": [
       ""
     ],
     "keyword": [
-      "Precipitation",
-      "Forecast"
+      "rainfall",
+      "temporal"
     ],
-    "publisher": "NIRA.WEB",
+    "publisher": "https://environment.data.gov.uk/",
     "spatial": [],
     "temporal": [],
     "theme": [
-      "Precipitation"
+      "Environment",
+      "Water"
     ],
     "accessRights": "",
     "creator": [
-      ""
+      "Gareth Lewis"
     ],
     "page": [
       ""
     ],
-    "accrualPeriodicity": "every 3 days",
+    "accrualPeriodicity": "every 15 mins",
     "hasVersion": [
       ""
     ],
@@ -49,7 +50,7 @@
       ""
     ],
     "landingPage": [
-      "https://en.hst.de/hst_products/nira-web/"
+      "https://dataportal-waterverse.opsi.lecce.it/dataset/waterverse_puc2_sww_environment-agency-data_v1-0"
     ],
     "language": [
       "EN"
@@ -78,10 +79,10 @@
       ""
     ],
     "Type": "",
-    "version": "",
+    "version": "1.0",
     "versionNotes": [],
     "wasGeneratedBy": [
-      ""
+      "https://environment.data.gov.uk/"
     ],
     "license": "Apache-2.0",
     "geolocation": false,
@@ -95,4 +96,3 @@
     "reputation": "Level1Reputation",
     "reputationOrganization": ""
   }
-  

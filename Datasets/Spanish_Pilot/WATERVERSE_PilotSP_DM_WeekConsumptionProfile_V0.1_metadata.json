@@ -1,45 +1,43 @@
 {
-    "id": "urn:ngsi-ld:Dataset:id:Environment_agency_data_river:20078368",
+    "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotSP_DM_WeekConsumptionProfile_V0.1:23278368",
     "type": "Dataset",
-    "modified": "2024-04-09T14:09:32Z",
+    "modified": "2024-03-21T12:53:00Z",
     "source": [
-      "urn:ngsi-ld:Dataset:items:nvironment_agency_data_river:41266715"
+      "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotSP_DM_WeekConsumptionProfile_V0.1:41266715"
     ],
     "description": [
-      "Environment agency data river"
+      "Datasets about the mean hourly consumption profile of customers with smart metering"
     ],
     "title": [
-      "Environment agency data river"
+      "WATERVERSE_PilotSP_DM_WeekConsumptionProfile_V0.1"
     ],
     "contactPoint": [
-      ""
+      "Hidralia"
     ],
     "belongsToCatalogue": "",
     "distribution": [
       ""
     ],
     "keyword": [
-      "environment",
-      "agency",
-      "rain",
-      "river",
-      "water"
+      "consumption",
+      "smart metering",
+      "profile",
+      "hour"
     ],
-    "publisher": "https://environment.data.gov.uk/",
+    "publisher": "WDME",
     "spatial": [],
     "temporal": [],
     "theme": [
-      "Environment",
       "Water"
     ],
     "accessRights": "",
     "creator": [
-      "Gareth Lewis"
+      ""
     ],
     "page": [
       ""
     ],
-    "accrualPeriodicity": "weekly",
+    "accrualPeriodicity": "hourly",
     "hasVersion": [
       ""
     ],
@@ -53,7 +51,7 @@
       ""
     ],
     "landingPage": [
-      "https://dataportal-waterverse.opsi.lecce.it/dataset/waterverse_puc2_sww_environment-agency-data_v1-0"
+      "https://itigr.sharepoint.com/:x:/r/sites/Waterverse/Shared%20Documents/Workplan/WP5/Pilot_5_SP/WDME_Deployment_preparation_datasets/Extraction_Sample_Datasets_csv/week_consumption_profiles.csv?d=w03943a2dc25748f78251d76de29eca52&csf=1&web=1&e=YuaXDf"
     ],
     "language": [
       "EN"
@@ -73,7 +71,7 @@
     "relation": [
       ""
     ],
-    "issued": "2024-03-16T12:51:26Z",
+    "issued": "",
     "sample": [
       ""
     ],
@@ -82,10 +80,10 @@
       ""
     ],
     "Type": "",
-    "version": "1.0",
+    "version": "",
     "versionNotes": [],
     "wasGeneratedBy": [
-      "https://environment.data.gov.uk/"
+      ""
     ],
     "license": "Apache-2.0",
     "geolocation": false,

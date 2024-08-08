@@ -1,15 +1,15 @@
 {
-    "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotDE_Etteln_Rainfall_V0.1:23278368",
+    "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotUK_SCADA_Spill_Events_V0.1:23278368",
     "type": "Dataset",
     "modified": "2024-03-21T12:53:00Z",
     "source": [
-      "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotDE_Etteln_Rainfall_V0.1:41266715"
+      "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotUK_SCADA_Spill_Events_V0.1:41266715"
     ],
     "description": [
-      "Datasets about "
+      "Datasets about spill start and stop times from South West Water SCADA system. These are generally derived by applying thresholds to the analog signals, or else using ths digital signals (in the case of a pumped or more complex overflow condition)."
     ],
     "title": [
-      "WATERVERSE_PilotDE_Etteln_Rainfall_V0.1"
+      "WATERVERSE_PilotUK_SCADA_Spill_Events_V0.1"
     ],
     "contactPoint": [
       ""
@@ -19,9 +19,9 @@
       ""
     ],
     "keyword": [
-      "water",
-      "",
-      ""
+      "SCADA",
+      "event",
+      "temporal"
     ],
     "publisher": "WDME",
     "spatial": [],
@@ -31,12 +31,12 @@
     ],
     "accessRights": "",
     "creator": [
-      ""
+      "Geoff Mandeno"
     ],
     "page": [
       ""
     ],
-    "accrualPeriodicity": "weekly",
+    "accrualPeriodicity": "",
     "hasVersion": [
       ""
     ],

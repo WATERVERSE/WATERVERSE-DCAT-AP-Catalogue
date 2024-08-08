@@ -1,32 +1,33 @@
 {
-    "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotDE_NiRA_Precipitation_Forecast_V0.1:23278368",
+    "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotSP_DATAHUB_WaterSourcesM_V0.1:23278368",
     "type": "Dataset",
     "modified": "2024-03-21T12:53:00Z",
     "source": [
-      "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotDE_NiRA_Precipitation_Forecast_V0.1:41266715"
+      "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotSP_DATAHUB_WaterSourcesM_V0.1:41266715"
     ],
     "description": [
-      "Datasets about precipitation forecast up to 72h, time resolution: 1h; spatial resolution: 1x1 km; includes the station name, timestamp, Quality (always Q1), value in mm"
+      "Datasets about the monthly supplied water by origin."
     ],
     "title": [
-      "WATERVERSE_PilotDE_NiRA_Precipitation_Forecast_V0.1"
+      "WATERVERSE_PilotSP_DATAHUB_WaterSourcesM_V0.1"
     ],
     "contactPoint": [
-      "HST"
+      "Hidralia"
     ],
     "belongsToCatalogue": "",
     "distribution": [
       ""
     ],
     "keyword": [
-      "Precipitation",
-      "Forecast"
+      "water",
+      "supplied",
+      "month"
     ],
-    "publisher": "NIRA.WEB",
+    "publisher": "WDME",
     "spatial": [],
     "temporal": [],
     "theme": [
-      "Precipitation"
+      "Water"
     ],
     "accessRights": "",
     "creator": [
@@ -35,7 +36,7 @@
     "page": [
       ""
     ],
-    "accrualPeriodicity": "every 3 days",
+    "accrualPeriodicity": "Monthly",
     "hasVersion": [
       ""
     ],
@@ -49,7 +50,7 @@
       ""
     ],
     "landingPage": [
-      "https://en.hst.de/hst_products/nira-web/"
+      "https://itigr.sharepoint.com/:x:/r/sites/Waterverse/Shared%20Documents/Workplan/WP5/Pilot_5_SP/WDME_Deployment_preparation_datasets/Extraction_Sample_Datasets_csv/5%20Water%20Sources_M.csv?d=w3ee80f5cce224033893b51d008a4b73f&csf=1&web=1&e=vDqM7d"
     ],
     "language": [
       "EN"
@@ -69,7 +70,7 @@
     "relation": [
       ""
     ],
-    "issued": "2024-03-16T12:51:26Z",
+    "issued": "",
     "sample": [
       ""
     ],
@@ -95,4 +96,3 @@
     "reputation": "Level1Reputation",
     "reputationOrganization": ""
   }
-  

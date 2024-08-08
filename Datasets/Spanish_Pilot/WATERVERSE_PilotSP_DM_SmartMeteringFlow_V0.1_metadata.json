@@ -1,46 +1,42 @@
 {
-    "id": "urn:ngsi-ld:Dataset:id:water_quality_observation:23278368",
+    "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotSP_DM_SmartMeteringFlow_V0.1:23278368",
     "type": "Dataset",
-    "modified": "2024-04-09T14:09:32Z",
+    "modified": "2024-03-21T12:53:00Z",
     "source": [
-      "urn:ngsi-ld:Dataset:items:water_quality_observation:41266715"
+      "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotSP_DM_SmartMeteringFlow_V0.1:41266715"
     ],
     "description": [
-      "Water quality observation meteor cloud data"
+      "Datasets about the water consumed by customers with smart metering"
     ],
     "title": [
-      "water_quality_observation_meteor_cloud_metadata"
+      "WATERVERSE_PilotSP_DM_SmartMeteringFlow_V0.1"
     ],
     "contactPoint": [
-      ""
+      "Hidralia"
     ],
     "belongsToCatalogue": "",
     "distribution": [
       ""
     ],
     "keyword": [
-      "environment",
-      "water quality",
-      "flood",
-      "rain",
-      "cloud",
-      "meteor"
+      "consumption",
+      "smart metering",
+      "day"
     ],
-    "publisher": "https://environment.data.gov.uk/",
+    "publisher": "WDME",
     "spatial": [],
     "temporal": [],
     "theme": [
-      "Environment",
       "Water"
     ],
     "accessRights": "",
     "creator": [
-      "Gareth Lewis"
+      ""
     ],
     "page": [
       ""
     ],
-    "accrualPeriodicity": "weekly",
+    "accrualPeriodicity": "Daily",
     "hasVersion": [
       ""
     ],
@@ -54,7 +50,7 @@
       ""
     ],
     "landingPage": [
-      "https://dataportal-waterverse.opsi.lecce.it/dataset/waterverse_puc2_sww_environment-agency-data_v1-0"
+      ""
     ],
     "language": [
       "EN"
@@ -74,7 +70,7 @@
     "relation": [
       ""
     ],
-    "issued": "2024-03-16T12:51:26Z",
+    "issued": "",
     "sample": [
       ""
     ],
@@ -83,10 +79,10 @@
       ""
     ],
     "Type": "",
-    "version": "1.0",
+    "version": "",
     "versionNotes": [],
     "wasGeneratedBy": [
-      "https://environment.data.gov.uk/"
+      ""
     ],
     "license": "Apache-2.0",
     "geolocation": false,
