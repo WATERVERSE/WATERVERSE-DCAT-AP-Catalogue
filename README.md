@@ -78,13 +78,13 @@ is provided following the **DCAT-AP** specification.
 
 | Dataset name    | Metadata URL | 
 |-----------|----------------|
-| WATERVERSE_PilotSP_DATAHUB_HydraulicEfficency_V0.1   |  [Link](Datasets/Spanish_Pilot/WATERVERSE_PilotSP_DATAHUB_HydraulicEfficency_V0.1_metadata.json)         | 
-| WATERVERSE_PilotSP_DATAHUB_LeaksM_V0.1   |  [Link](Datasets/Spanish_Pilot/WATERVERSE_PilotSP_DATAHUB_LeaksM_V0.1_metadata.json)         | 
-| WATERVERSE_PilotSP_DATAHUB_Energy_V0.1   |  [Link](Datasets/Spanish_Pilot/WATERVERSE_PilotSP_DATAHUB_Energy_V0.1_metadata.json)         | 
-| WATERVERSE_PilotSP_DATAHUB_WaterSourcesD_V0.1   |  [Link](Datasets/Spanish_Pilot/WATERVERSE_PilotSP_DATAHUB_WaterSourcesD_V0.1_metadata.json)         | 
-| WATERVERSE_PilotSP_DATAHUB_WaterSourcesM_V0.1   |  [Link](Datasets/Spanish_Pilot/WATERVERSE_PilotSP_DATAHUB_WaterSourcesM_V0.1_metadata.json)         | 
-| WATERVERSE_PilotSP_DM_WeekConsumptionProfile_V0.1   |  [Link](Datasets/Spanish_Pilot/WATERVERSE_PilotSP_DM_WeekConsumptionProfile_V0.1_metadata.json)         | 
-| WATERVERSE_PilotSP_DM_SmartMeteringFlow_V0.1   |  [Link](Datasets/Spanish_Pilot/WATERVERSE_PilotSP_DM_SmartMeteringFlow_V0.1_metadata.json)         | 
+| **WATERVERSE_PilotSP_DATAHUB_HydraulicEfficency_V0.1**   |  [Link](Datasets/Spanish_Pilot/WATERVERSE_PilotSP_DATAHUB_HydraulicEfficency_V0.1_metadata.json)         | 
+| **WATERVERSE_PilotSP_DATAHUB_LeaksM_V0.1**   |  [Link](Datasets/Spanish_Pilot/WATERVERSE_PilotSP_DATAHUB_LeaksM_V0.1_metadata.json)         | 
+| **WATERVERSE_PilotSP_DATAHUB_Energy_V0.1**   |  [Link](Datasets/Spanish_Pilot/WATERVERSE_PilotSP_DATAHUB_Energy_V0.1_metadata.json)         | 
+| **WATERVERSE_PilotSP_DATAHUB_WaterSourcesD_V0.1**   |  [Link](Datasets/Spanish_Pilot/WATERVERSE_PilotSP_DATAHUB_WaterSourcesD_V0.1_metadata.json)         | 
+| **WATERVERSE_PilotSP_DATAHUB_WaterSourcesM_V0.1**   |  [Link](Datasets/Spanish_Pilot/WATERVERSE_PilotSP_DATAHUB_WaterSourcesM_V0.1_metadata.json)         | 
+| **WATERVERSE_PilotSP_DM_WeekConsumptionProfile_V0.1**   |  [Link](Datasets/Spanish_Pilot/WATERVERSE_PilotSP_DM_WeekConsumptionProfile_V0.1_metadata.json)         | 
+| **WATERVERSE_PilotSP_DM_SmartMeteringFlow_V0.1**   |  [Link](Datasets/Spanish_Pilot/WATERVERSE_PilotSP_DM_SmartMeteringFlow_V0.1_metadata.json)         | 
 
 
 ## UK Pilot
@@ -112,6 +112,14 @@ is provided following the **DCAT-AP** specification.
 | Entity name    | Data Service URL | 
 |-----------|----------------|
 | **Chloride prediction service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/tree/main/DataServices/Netherlands_Pilot/chloridePredictionService.jsonld)     | 
+
+## Cyprus Pilot 
+
+| Entity name    | Data Service URL | 
+|-----------|----------------|
+| **Anonymization service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/Cyprus_Pilot/anonymizationService.jsonld)     | 
+
+
 
 # Entity Data Catalogue
 
@@ -159,7 +167,7 @@ is provided following the **DCAT-AP** specification.
 
 | Entity name    | Data Model URL | 
 |-----------|----------------|
-| **No data model**    |  [Link]     | 
+| **Snowflake Data SQL-1**    |  [Link](https://github.com/smart-data-models/dataModel.Device/tree/master/DeviceMeasurement)     | 
 
 
 ## UK Pilot 
