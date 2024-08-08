@@ -55,7 +55,7 @@ is provided following the **DCAT-AP** specification.
 
 | Dataset name    | Metadata URL | 
 |-----------|----------------|
-| **Clusterability**    |  [Link](Datasets/Finnish_Pilot/WATERVERSE_DP05_DataClusterability_ClusterabilityScore_V0.1_metadata.json)| 
+| **WATERVERSE_DP05_DataClusterability_ClusterabilityScore_V0.1**    |  [Link](Datasets/Finnish_Pilot/WATERVERSE_DP05_DataClusterability_ClusterabilityScore_V0.1_metadata.json)| 
 | **WATERVERSE_PilotFI_KEYAQUA_WaterDuct_V0.1**    |  [Link](Datasets/Finnish_Pilot/WATERVERSE_PilotFI_KEYAQUA_WaterDuct_V0.1_metadata.json)|
 | **WATERVERSE_PilotFI_KEYAQUA_WaterNode_V0.1**    |  [Link](Datasets/Finnish_Pilot/WATERVERSE_PilotFI_KEYAQUA_WaterNode_V0.1_metadata.json)|
 | **WATERVERSE_PilotFI_KEYAQUA_WaterDuctConditions_V0.1**    |  [Link](Datasets/Finnish_Pilot/WATERVERSE_PilotFI_KEYAQUA_WaterDuctConditions_V0.1_metadata.json)|  
