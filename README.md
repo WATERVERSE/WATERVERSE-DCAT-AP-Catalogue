@@ -70,9 +70,9 @@ is provided following the **DCAT-AP** specification.
 
 | Dataset name    | Metadata URL | 
 |-----------|---------------|
-| **KNMI Data (Weather related)**    | [Link](Datasets/Netherlands_Pilot/knmi_observation_metadata.json) | 
-| **RWS Data (water quality)**   | [Link](Datasets/Netherlands_Pilot/rws_data_metadata.json)| 
-| **Chloride Predictions (from a deployed model)** | Private     | 
+| **WATERVERSE_PilotNL_KNMI_WeatherData_V0.1**    | [Link](Datasets/Netherlands_Pilot/WATERVERSE_PilotNL_KNMI_WeatherData_V0.1_metadata.json) | 
+| **WATERVERSE_PilotNL_RWS_WaterQualityData_V0.1**   | [Link](Datasets/Netherlands_Pilot/WATERVERSE_PilotNL_RWS_WaterQualityData_V0.1_metadata.json)| 
+| **WATERVERSE_PWN_Cl-PredictionModel_Cl-Concentrations_V0.1** | [Link](Datasets/Netherlands_Pilot/WATERVERSE_PilotNL_RWS_WaterQualityData_V0.1_metadata.json)     | 
 
 ## Spanish Pilot
 
@@ -85,7 +85,6 @@ is provided following the **DCAT-AP** specification.
 | WATERVERSE_PilotSP_DATAHUB_WaterSourcesM_V0.1   |  [Link](Datasets/Spanish_Pilot/WATERVERSE_PilotSP_DATAHUB_WaterSourcesM_V0.1_metadata.json)         | 
 | WATERVERSE_PilotSP_DM_WeekConsumptionProfile_V0.1   |  [Link](Datasets/Spanish_Pilot/WATERVERSE_PilotSP_DM_WeekConsumptionProfile_V0.1_metadata.json)         | 
 | WATERVERSE_PilotSP_DM_SmartMeteringFlow_V0.1   |  [Link](Datasets/Spanish_Pilot/WATERVERSE_PilotSP_DM_SmartMeteringFlow_V0.1_metadata.json)         | 
-
 
 
 ## UK Pilot
@@ -138,7 +137,13 @@ is provided following the **DCAT-AP** specification.
 
 | Entity name    | Data Model URL | 
 |-----------|----------------|
-| **No data model**    |  [Link]     | 
+| **FY-WATER-DUCT**    |  [Link](https://github.com/smart-data-models/dataModel.WaterDistributionManagementEPANET/tree/master/Pipe)     | 
+| **FY-WATER-NODE**    |  [Link](https://github.com/smart-data-models/dataModel.WaterDistributionManagementEPANET/tree/master/Pipe)     |
+| **FY-KEYAQUA-DUCT-CONDITIONS**    |  [Link](https://github.com/smart-data-models/dataModel.WaterDistributionManagementEPANET/tree/master/Pipe)     |
+| **FY-SEWER-PUMPING-STATION**    |  [Link](https://github.com/smart-data-models/dataModel.WaterDistributionManagementEPANET/tree/master/Pump)     |
+| **FY-SEWER-VALVE**    |  [Link](https://github.com/smart-data-models/dataModel.WaterDistributionManagementEPANET/tree/master/Valve)     |
+| **FY-FLOW-METERS**    |  [Link](https://github.com/smart-data-models/dataModel.WaterDistributionManagementEPANET/tree/master/Junction)     |
+| **FY-FLOW-METERS-READING**    |  [Link](https://github.com/smart-data-models/dataModel.WaterDistributionManagementEPANET/tree/master/Junction)     |
 
 
 ## Netherlands Pilot 
