@@ -128,8 +128,8 @@ is provided following the **DCAT-AP** specification.
 | Entity name    | Data Model URL | 
 |-----------|----------------|
 | **Consumer Reports**    |  [Link](https://github.com/smart-data-models/dataModel.WaterConsumption/tree/master/WaterConsumptionObserved)    | 
-| **Satelite Data**    |  [Link](https://github.com/smart-data-models/dataModel.SatelliteImagery)    |
-| **Satelite Data**    |  [Link](https://github.com/smart-data-models/dataModel.SatelliteImagery)    |
+| **Satelite Data**    |  [Link](https://github.com/smart-data-models/dataModel.SatelliteImagery/blob/master/EOGeoDataLayer)    |
+| **District Metering Area (DMA)**    |  [Link](https://github.com/smart-data-models/dataModel.WaterDistribution/tree/master/WaterDistributionNetwork)    |
 
 ## German Pilot 
 
