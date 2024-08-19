@@ -72,7 +72,8 @@ is provided following the **DCAT-AP** specification.
 |-----------|---------------|
 | **WATERVERSE_PilotNL_KNMI_WeatherData_V0.1**    | [Link](Datasets/Netherlands_Pilot/WATERVERSE_PilotNL_KNMI_WeatherData_V0.1_metadata.json) | 
 | **WATERVERSE_PilotNL_RWS_WaterQualityData_V0.1**   | [Link](Datasets/Netherlands_Pilot/WATERVERSE_PilotNL_RWS_WaterQualityData_V0.1_metadata.json)| 
-| **WATERVERSE_PWN_Cl-PredictionModel_Cl-Concentrations_V0.1** | [Link](Datasets/Netherlands_Pilot/WATERVERSE_PilotNL_RWS_WaterQualityData_V0.1_metadata.json)     | 
+| **WATERVERSE_PilotNL_PWN_Andijk_SCADA_V0.1** | [Link](Datasets/Netherlands_Pilot/WATERVERSE_PilotNL_PWN_Andijk_SCADA_V0.1_metadata.json)     | 
+| **WATERVERSE_PilotNL_PWN_Cl-PredictionModel_Cl-Concentrations_V0.1** | [Link](Datasets/Netherlands_Pilot/WATERVERSE_PilotNL_PWN_Cl-PredictionModel_Cl-Concentrations_V0.1_metadata.json)     | 
 
 ## Spanish Pilot
 

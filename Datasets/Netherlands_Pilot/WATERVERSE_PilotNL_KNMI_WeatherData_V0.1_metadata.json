@@ -6,7 +6,7 @@
       "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotNL_KNMI_WeatherData_V0.1:41266715"
     ],
     "description": [
-      "KNMI_observations from the automatic weather stations."
+      "Dataset containing daily weather related data from specific weather stations measured, managed and provided by the Royal Netherlands Meteorological Institute (KNMI)."
     ],
     "title": [
       "WATERVERSE_PilotNL_KNMI_WeatherData_V0.1"
@@ -19,18 +19,15 @@
       ""
     ],
     "keyword": [
-      "water consumer",
-      "report",
-      "water issues",
-      "location",
-      "water problem type"
+      "weather",
+      "weather station",
+      "KNMI"
     ],
     "publisher": "Sesan Siddhart",
     "spatial": [],
     "temporal": [],
     "theme": [
-      "Environment",
-      "Water"
+      "Weather"
     ],
     "accessRights": "",
     "creator": [
@@ -39,7 +36,7 @@
     "page": [
       ""
     ],
-    "accrualPeriodicity": "weekly",
+    "accrualPeriodicity": "",
     "hasVersion": [
       ""
     ],
