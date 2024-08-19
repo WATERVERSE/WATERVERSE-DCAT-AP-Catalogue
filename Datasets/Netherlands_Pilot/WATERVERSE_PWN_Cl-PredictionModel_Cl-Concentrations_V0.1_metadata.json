@@ -1,29 +1,29 @@
 {
-    "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_Pilot:23278368",
+    "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotNL_PWN_Cl-PredictionModel_Cl-Concentrations_V0.1:23278368",
     "type": "Dataset",
     "modified": "2024-03-21T12:53:00Z",
     "source": [
-      "urn:ngsi-ld:Dataset:items:WATERVERSE_Pilot:41266715"
+      "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotNL_PWN_Cl-PredictionModel_Cl-Concentrations_V0.1:41266715"
     ],
     "description": [
-      "Datasets about "
+      "Dataset containing daily Chloride concentration predictions for the location Andijk, where surface water is extracted and fed to PWN's treatment works. The predictions are made by a prediction model forecasting 7 days into the future. The model has been developed and is managed by PWN."
     ],
     "title": [
-      "WATERVERSE_Pilot"
+      "WATERVERSE_PilotNL_PWN_Cl-PredictionModel_Cl-Concentrations_V0.1"
     ],
     "contactPoint": [
-      ""
+      "PWN"
     ],
     "belongsToCatalogue": "",
     "distribution": [
       ""
     ],
     "keyword": [
-      "water",
-      "",
-      ""
+      "Chloride concentration",
+      "predictions",
+      "water treatment"
     ],
-    "publisher": "WDME",
+    "publisher": "PWN",
     "spatial": [],
     "temporal": [],
     "theme": [
@@ -36,7 +36,7 @@
     "page": [
       ""
     ],
-    "accrualPeriodicity": "weekly",
+    "accrualPeriodicity": "daily",
     "hasVersion": [
       ""
     ],
@@ -50,7 +50,7 @@
       ""
     ],
     "landingPage": [
-      ""
+      "https://dataportal-waterverse.opsi.lecce.it/dataset/waterverse_puc1_pwn_chl-model-prediction_v1-0"
     ],
     "language": [
       "EN"

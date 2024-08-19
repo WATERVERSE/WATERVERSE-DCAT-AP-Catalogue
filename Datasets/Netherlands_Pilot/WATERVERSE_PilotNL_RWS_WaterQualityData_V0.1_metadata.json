@@ -6,13 +6,13 @@
       "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotNL_RWS_WaterQualityData_V0.1:41266715"
     ],
     "description": [
-      "RWS_water quality observation in Netherlands."
+      "Dataset containing water quality and water quantity measurements related to the IJssel River and the IJsselmeer at different stations. The data is measured, managed and provided by Rijkswaterstraat (RWS)."
     ],
     "title": [
       "WATERVERSE_PilotNL_RWS_WaterQualityData_V0.1"
     ],
     "contactPoint": [
-      ""
+      "RWS"
     ],
     "belongsToCatalogue": "",
     "distribution": [
@@ -21,8 +21,7 @@
     "keyword": [
       "RWS",
       "water quality",
-      "Netherlands",
-      "Holland"
+      "River"
     ],
     "publisher": "Sesan Siddhart",
     "spatial": [],
@@ -38,7 +37,7 @@
     "page": [
       ""
     ],
-    "accrualPeriodicity": "weekly",
+    "accrualPeriodicity": "",
     "hasVersion": [
       ""
     ],
@@ -52,7 +51,7 @@
       ""
     ],
     "landingPage": [
-      "https://dataportal-waterverse.opsi.lecce.it/dataset?organization=pwn"
+      "https://dataportal-waterverse.opsi.lecce.it/dataset/waterverse_puc1_rws_water-quality-observation-in-netherlands_v1-0"
     ],
     "language": [
       "EN"
@@ -72,7 +71,7 @@
     "relation": [
       ""
     ],
-    "issued": "2024-03-12T12:51:26Z",
+    "issued": "2024-08-19T12:51:26Z",
     "sample": [
       ""
     ],
