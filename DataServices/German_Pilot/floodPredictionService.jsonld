@@ -1,61 +1,79 @@
 {
     "id": "urn:ngsi-ld:DataService:FloodPrediction:3B8E3416-C6ED-40CB-A6F5-8DA08435BB34",
     "type": "DataService",
-    "title": {
+    "accessRights": {
         "type": "Property",
-        "value": "Flood prediction service"
+        "value": "public"
     },
-    "description": {
+    "address": {
         "type": "Property",
-        "value": "Service predicting flood based on weather and river data"
-    },
-    "algorithm": {
-        "type": "Property",
-        "value": "LSTM"
-    },
-    "mlFramework": {
-        "type": "Property",
-        "value": "TensorFlow"
-    },
-    "version": {
-        "type": "Property",
-        "value": 0.1,
-        "releaseNotes": {
-            "type": "Relationship",
-            "object": "https://github.com/floodPredictionService/releases/tag/0.1"
+        "value": {
+            "streetAddress": "",
+            "addressLocality": "",
+            "addressRegion": "",
+            "addressCountry": "",
+            "postalCode": "",
+            "postOfficeBoxNumber": ""
         }
     },
-    "inputAttributes": {
+    "applicableLegislation": {
         "type": "Property",
-        "value": ["flow", "precipitation", "soilMoisture"]
+        "value": []
     },
-    "outputAttributes": {
+    "areaServed": {
         "type": "Property",
-        "value": ["predictedWaterLevel"]
+        "value": ""
+    },
+    "conformsTo": {
+        "type": "Property",
+        "value": []
+    },
+    "contactPoint": {
+        "type": "Property",
+        "value": [
+            {
+                "email": ""
+            }
+        ]
+    },
+    "description": {
+        "type": "LanguageProperty",
+        "languageMap": {
+            "en": "Service predicting flood based on weather and river data"
+        }
+    },
+    "endpointDescription": {
+        "type": "Property",
+        "value": [
+            "This service expects river flow, precipitation and soil moisture inputs and predicts in return a water level in the city"
+        ]
     },
     "endpointURL": {
         "type": "Property",
         "value": "http://127.0.0.1/floodPrediction"
     },
-    "endpointDescription": {
+    "format": {
         "type": "Property",
-        "value": "This service expects river flow, precipitation and soil moisture inputs and predicts in return a water level in the city"
+        "value": []
     },
-    "imageSource": {
+    "keyword": {
         "type": "Property",
-        "value": "floodPredictionService.png"
+        "value": []
     },
-    "accessRights": {
+    "landingPage": {
         "type": "Property",
-        "value": "public"
+        "value": []
+    },
+    "lastUpdated": {
+        "type": "Property",
+        "value": {
+            "@type": "DateTime",
+            "@value": ""
+        }
     },
     "license": {
         "type": "Property",
         "value": "Apache-2.0"
-    },
-    "validationSchema": {
-        "type": "Property",
-        "value": "https://github.com/smart-data-models/incubated/blob/DCAT-AP/DataService/DataServiceDCAT-AP/schema.json"
     },
     "operationSpace": {
         "type": "GeoProperty",
@@ -63,34 +81,59 @@
             "type": "Polygon",
             "coordinates": [
                 [
-                    [ 8.7598942, 51.6373777 ],
-                    [ 8.752942,  51.6289603 ],
-                    [ 8.7602376, 51.6200351 ],
-                    [ 8.7705802, 51.6293599 ],
-                    [ 8.7598942, 51.6373777 ]
+                    [
+                        8.7598942,
+                        51.6373777
+                    ],
+                    [
+                        8.752942,
+                        51.6289603
+                    ],
+                    [
+                        8.7602376,
+                        51.6200351
+                    ],
+                    [
+                        8.7705802,
+                        51.6293599
+                    ],
+                    [
+                        8.7598942,
+                        51.6373777
+                    ]
                 ]
             ]
         }
     },
-    "accessMechanism": {
+    "page": {
         "type": "Property",
-        "value": "Level3AccessMechanism"
+        "value": []
     },
-    "disseminationOrganisation": {
+    "provenance": {
+        "type": "Property",
+        "value": []
+    },
+    "publisher": {
+        "type": "Property",
+        "value": ""
+    },
+    "servesDataset": {
         "type": "Relationship",
-        "object": "urn:ngsi-ld:Agent:WATERVERSE"
+        "object": []
     },
-    "dissemination": {
+    "theme": {
         "type": "Property",
-        "value": "Level2Dissemination"
+        "value": []
     },
-    "reputationOrganisation": {
-        "type": "Relationship",
-        "object": "urn:ngsi-ld:Agent:WATERVERSE"
+    "title": {
+        "type": "LanguageProperty",
+        "languageMap": {
+            "en": "Flood prediction service"
+        }
     },
-    "reputation": {
+    "validationSchema": {
         "type": "Property",
-        "value": "Level1Reputation"
+        "value": "https://github.com/smart-data-models/incubated/blob/DCAT-AP/DataService/DataServiceDCAT-AP/schema.json"
     },
     "@context": [
         "https://easy-global-market.github.io/ngsild-api-data-models/dcat/jsonld-contexts/dcat-compound.jsonld",

@@ -1,23 +1,31 @@
 {
   "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotCY_SCADA_ConsumerReports_V0.1:21675868",
   "type": "Dataset",
-  "modified": "2024-04-09T14:09:32Z",
-  "source": [
-    "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotCY_SCADA_ConsumerReports_V0.1:41266715"
-  ],
-  "description": [
-    "Reports by water consumers about issues they face related to their water. The dataset includes the reports, the assignment to operators and technical teams, as well as information about locations, type of problem, etc."
-  ],
-  "title": [
-    "WATERVERSE_PilotCY_SCADA_ConsumerReports_V0.1"
-  ],
-  "contactPoint": [
-    ""
-  ],
+  "accessMechanism": "Level3AccessMechanism",
+  "accessRights": "",
+  "accuralPeriodicity": "weekly",
+  "addressesAvailable": false,
+  "applicableLegislation": [],
   "belongsToCatalogue": "",
-  "distribution": [
-    ""
+  "conformsTo": [],
+  "contactPoint": [],
+  "creator": [
+    "PHOEBE"
   ],
+  "description": {
+    "en": "Reports by water consumers about issues they face related to their water. The dataset includes the reports, the assignment to operators and technical teams, as well as information about locations, type of problem, etc.",
+    "el": "Αναφορές από καταναλωτές νερού για θέματα που αντιμετωπίζουν σχετικά με το νερό τους. Το σύνολο δεδομένων περιλαμβάνει τις αναφορές, την ανάθεση σε χειριστές και τεχνικές ομάδες, καθώς και πληροφορίες σχετικά με τις τοποθεσίες, το είδος του προβλήματος κ.λπ."
+  },
+  "dissemination": "Level1Dissemination",
+  "disseminationOrganization": "",
+  "distribution": [],
+  "geolocation": false,
+  "hasVersion": [],
+  "identifier": [],
+  "inSeries": [],
+  "isReferencedBy": [],
+  "isVersionOf": [],
+  "issued": "2024-03-09T17:09:22Z",
   "keyword": [
     "water consumer",
     "report",
@@ -25,77 +33,44 @@
     "location",
     "water problem type"
   ],
-  "publisher": "George Millis",
-  "spatial": [],
-  "temporal": [],
-  "theme": [
-    "Environment",
-    "Water"
-  ],
-  "accessRights": "",
-  "creator": [
-    "PHOEBE"
-  ],
-  "page": [
-    ""
-  ],
-  "accrualPeriodicity": "weekly",
-  "hasVersion": [
-    ""
-  ],
-  "identifier": [
-    ""
-  ],
-  "isReferencedBy": [
-    ""
-  ],
-  "isVersionOf": [
-    ""
-  ],
   "landingPage": [
     "https://dataportal-waterverse.opsi.lecce.it/dataset?organization=wbl"
   ],
   "language": [
-    "EN"
-  ],
-  "otherIdentifier": [
-    ""
-  ],
-  "provenance": [
-    ""
-  ],
-  "qualifiedAttribution": [
-    ""
-  ],
-  "qualifiedRelation": [
-    ""
-  ],
-  "relation": [
-    ""
-  ],
-  "issued": "2024-03-09T17:09:22Z",
-  "sample": [
-    ""
-  ],
-  "spatialResolutionInMeters": 0.0,
-  "temporalResolution": [
-    ""
-  ],
-  "Type": "",
-  "version": "",
-  "versionNotes": [],
-  "wasGeneratedBy": [
-    ""
+    "EN",
+    "EL"
   ],
   "license": "Apache-2.0",
-  "geolocation": false,
-  "addressAvailable": false,
+  "modified": "2024-04-09T14:09:32Z",
+  "otherIdentifier": [],
+  "page": [],
+  "provenance": [],
+  "publisher": "George Millis",
+  "qualifiedAttribution": [],
+  "qualifiedRelation": [],
+  "relation": [],
+  "reputation": "Level1Reputation",
+  "reputationOrganization": "",
+  "sample": [],
+  "source": [
+    "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotCY_SCADA_ConsumerReports_V0.1:41266715"
+  ],
+  "spatial": [],
+  "spatialResolution": 0.0,
   "standardization": "Level2Standardization",
   "standardizationSource": "",
+  "temporal": [],
+  "temporalResolution": [],
+  "theme": [
+    "Environment",
+    "Water"
+  ],
+  "title": {
+    "en": "WATERVERSE_PilotCY_SCADA_ConsumerReports_V0.1"
+  },
+  "Type": "",
   "validationSchema": "https://github.com/smart-data-models/incubated/blob/master/metadata/schema.json",
-  "accessMechanism": "Level3AccessMechanism",
-  "disseminationOrganization": "",
-  "dissemination": "Level1Dissemination",
-  "reputation": "Level1Reputation",
-  "reputationOrganization": ""
+  "version": "",
+  "versionNotes": [],
+  "wasGeneratedBy": []
 }
