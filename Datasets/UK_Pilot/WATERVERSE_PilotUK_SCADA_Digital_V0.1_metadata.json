@@ -1,98 +1,103 @@
 {
-    "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotUK_SCADA_Digital_V0.1:23278368",
-    "type": "Dataset",
-    "modified": "2024-03-21T12:53:00Z",
-    "source": [
-      "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotUK_SCADA_Digital_V0.1:41266715"
-    ],
-    "description": [
-      "Datasets about digital signal values from South West Water SCADA system (for example timestamps of pump starts and stops)."
-    ],
-    "title": [
-      "WATERVERSE_PilotUK_SCADA_Digital_V0.1"
-    ],
-    "contactPoint": [
-      ""
-    ],
-    "belongsToCatalogue": "",
-    "distribution": [
-      ""
-    ],
-    "keyword": [
-      "SCADA",
-      "digital",
-      "temporal"
-    ],
-    "publisher": "WDME",
-    "spatial": [],
-    "temporal": [],
-    "theme": [
-      "Water"
-    ],
-    "accessRights": "",
-    "creator": [
-      "Geoff Mandeno"
-    ],
-    "page": [
-      ""
-    ],
-    "accrualPeriodicity": "",
-    "hasVersion": [
-      ""
-    ],
-    "identifier": [
-      ""
-    ],
-    "isReferencedBy": [
-      ""
-    ],
-    "isVersionOf": [
-      ""
-    ],
-    "landingPage": [
-      "https://dataportal-waterverse.opsi.lecce.it/organization/sww"
-    ],
-    "language": [
-      "EN"
-    ],
-    "otherIdentifier": [
-      ""
-    ],
-    "provenance": [
-      ""
-    ],
-    "qualifiedAttribution": [
-      ""
-    ],
-    "qualifiedRelation": [
-      ""
-    ],
-    "relation": [
-      ""
-    ],
-    "issued": "2024-03-16T12:51:26Z",
-    "sample": [
-      ""
-    ],
-    "spatialResolutionInMeters": 0.0,
-    "temporalResolution": [
-      ""
-    ],
-    "Type": "",
-    "version": "",
-    "versionNotes": [],
-    "wasGeneratedBy": [
-      ""
-    ],
-    "license": "Apache-2.0",
-    "geolocation": false,
-    "addressAvailable": false,
-    "standardization": "Level2Standardization",
-    "standardizationSource": "",
-    "validationSchema": "https://github.com/smart-data-models/incubated/blob/master/metadata/schema.json",
-    "accessMechanism": "Level3AccessMechanism",
-    "disseminationOrganization": "",
-    "dissemination": "Level1Dissemination",
-    "reputation": "Level1Reputation",
-    "reputationOrganization": ""
-  }
+  "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotUK_SCADA_Digital_V0.1:23278368",
+  "type": "Dataset",
+  "accessMechanism": "Level3AccessMechanism",
+  "accessRights": "",
+  "accuralPeriodicity": "",
+  "addressAvailable": false,
+  "applicableLegislation": [],
+  "belongsToCatalogue": "",
+  "conformsTo": [],
+  "contactPoint": [
+    {
+      "email": ""
+    }
+  ],
+  "creator": [
+    "Geoff Mandeno"
+  ],
+  "description": {
+    "en": "Datasets about digital signal values from South West Water SCADA system (for example timestamps of pump starts and stops)."
+  },
+  "dissemination": "Level1Dissemination",
+  "disseminationOrganization": "",
+  "distribution": [
+    ""
+  ],
+  "geolocation": false,
+  "hasVersion": [
+    ""
+  ],
+  "identifier": [
+    ""
+  ],
+  "inSeries": [],
+  "isReferencedBy": [
+    ""
+  ],
+  "isVersionOf": [
+    ""
+  ],
+  "issued": "2024-03-16T12:51:26Z",
+  "keyword": [
+    "SCADA",
+    "digital",
+    "temporal"
+  ],
+  "landingPage": [
+    "https://dataportal-waterverse.opsi.lecce.it/organization/sww"
+  ],
+  "language": [
+    "EN"
+  ],
+  "license": "Apache-2.0",
+  "modified": "2024-03-21T12:53:00Z",
+  "otherIdentifier": [
+    ""
+  ],
+  "page": [
+    ""
+  ],
+  "provenance": [
+    ""
+  ],
+  "publisher": "WDME",
+  "qualifiedAttribution": [
+    ""
+  ],
+  "qualifiedRelation": [
+    ""
+  ],
+  "relation": [
+    ""
+  ],
+  "reputation": "Level1Reputation",
+  "reputationOrganization": "",
+  "sample": [
+    ""
+  ],
+  "source": [
+    "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotUK_SCADA_Digital_V0.1:41266715"
+  ],
+  "spatial": [],
+  "spatialResolution": 0.0,
+  "standardization": "Level2Standardization",
+  "standardizationSource": "",
+  "temporal": [],
+  "temporalResolution": [
+    ""
+  ],
+  "theme": [
+    "Water"
+  ],
+  "title": {
+    "en": "WATERVERSE_PilotUK_SCADA_Digital_V0.1"
+  },
+  "Type": "",
+  "validationSchema": "https://github.com/smart-data-models/incubated/blob/master/metadata/schema.json",
+  "version": "",
+  "versionNotes": [],
+  "wasGeneratedBy": [
+    ""
+  ]
+}

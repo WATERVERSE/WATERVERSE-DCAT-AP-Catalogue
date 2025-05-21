@@ -1,23 +1,34 @@
 {
   "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotCY_Sensing_SateliteEOData_V0.1:23278368",
   "type": "Dataset",
-  "modified": "2024-04-03T14:19:00Z",
-  "source": [
-    "https://geoserver-waterverse.opsi.lecce.it/geoserver/web"
-  ],
-  "description": [
-    "The dataset includes the results of the analysis of satellite data given a water source geographical shape. The analysis corresponds to the detection of chlorophyll-A."
-  ],
-  "title": [
-    "WATERVERSE_PilotCY_Sensing_SateliteEOData_V0.1"
-  ],
-  "contactPoint": [
-    ""
-  ],
+  "accessMechanism": "Level3AccessMechanism",
+  "accessRights": "",
+  "accuralPeriodicity": "weekly",
+  "addressAvailable": false,
+  "applicableLegislation": [],
   "belongsToCatalogue": "",
-  "distribution": [
-    ""
+  "conformsTo": [],
+  "contactPoint": [
+    {
+      "email": ""
+    }
   ],
+  "creator": [
+    "CERTH"
+  ],
+  "description": {
+    "en": "The dataset includes the results of the analysis of satellite data given a water source geographical shape. The analysis corresponds to the detection of chlorophyll-A."
+  },
+  "dissemination": "Level1Dissemination",
+  "disseminationOrganization": "",
+  "distribution": [],
+  "geolocation": false,
+  "hasVersion": [],
+  "identifier": [],
+  "inSeries": [],
+  "isReferencedBy": [],
+  "isVersionOf": [],
+  "issued": "2024-04-06T16:43:00Z",
   "keyword": [
     "satellite data",
     "chlorophyll-A",
@@ -25,78 +36,43 @@
     "location",
     "analysis"
   ],
-  "publisher": "Grigoris Stathopoulos",
-  "spatial": [],
-  "temporal": [],
-  "theme": [
-    "Environment",
-    "Water"
-  ],
-  "accessRights": "",
-  "creator": [
-    "CERTH"
-  ],
-  "page": [
-    ""
-  ],
-  "accrualPeriodicity": "weekly",
-  "hasVersion": [
-    ""
-  ],
-  "identifier": [
-    ""
-  ],
-  "isReferencedBy": [
-    ""
-  ],
-  "isVersionOf": [
-    ""
-  ],
   "landingPage": [
     "https://dataportal-waterverse.opsi.lecce.it/dataset?organization=certh"
   ],
   "language": [
     "EN"
   ],
-  "otherIdentifier": [
-    ""
-  ],
-  "provenance": [
-    ""
-  ],
-  "qualifiedAttribution": [
-    ""
-  ],
-  "qualifiedRelation": [
-    ""
-  ],
-  "relation": [
-    ""
-  ],
-  "issued": "2024-04-06T16:43:00Z",
-  "sample": [
-    ""
-  ],
-  "spatialResolutionInMeters": 0.0,
-  "temporalResolution": [
-    ""
-  ],
-  "Type": "",
-  "version": "1.0",
-  "versionNotes": [],
-  "wasGeneratedBy": [
-    ""
-  ],
   "license": "Apache-2.0",
-  "geolocation": false,
-  "addressAvailable": false,
+  "modified": "2024-04-03T14:19:00Z",
+  "otherIdentifier": [],
+  "page": [],
+  "provenance": [],
+  "publisher": "Grigoris Stathopoulos",
+  "qualifiedAttribution": [],
+  "qualifiedRelation": [],
+  "relation": [],
+  "reputation": "Level1Reputation",
+  "reputationOrganization": "",
+  "sample": [],
+  "source": [
+    "https://geoserver-waterverse.opsi.lecce.it/geoserver/web"
+  ],
+  "spatial": [],
+  "spatialResolution": 0.0,
   "standardization": "Level2Standardization",
   "standardizationSource": "",
+  "temporal": [],
+  "temporalResolution": [],
+  "theme": [
+    "Environment",
+    "Water"
+  ],
+  "title": {
+    "en": "WATERVERSE_PilotCY_Sensing_SateliteEOData_V0.1"
+  },
+  "Type": "",
   "validationSchema": "https://github.com/smart-data-models/incubated/blob/master/metadata/schema.json",
-  "accessMechanism": "Level3AccessMechanism",
-  "disseminationOrganization": "",
-  "dissemination": "Level1Dissemination",
-  "reputation": "Level1Reputation",
-  "reputationOrganization": ""
+  "version": "1.0",
+  "versionNotes": [],
+  "wasGeneratedBy": []
 }
-

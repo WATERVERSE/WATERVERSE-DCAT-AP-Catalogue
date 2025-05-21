@@ -1,54 +1,49 @@
 {
   "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotFI_KEYAQUA_WaterDuct_V0.1:23278368",
   "type": "Dataset",
-  "modified": "2024-03-21T12:53:00Z",
-  "source": [
-    "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotFI_KEYAQUA_WaterDuct_V0.1:41266715"
-  ],
-  "description": [
-    "Dataset about water nodes (water pipes, shut-off valves)"
-  ],
-  "title": [
-    "WATERVERSE_PilotFI_KEYAQUA_WaterDuct_V0.1"
-  ],
-  "contactPoint": [
-    ""
-  ],
-  "belongsToCatalogue": "",
-  "distribution": [
-    ""
-  ],
-  "keyword": [
-    "water",
-    "nodes",
-    "pipes",
-    "valves"
-  ],
-  "publisher": "WDME",
-  "spatial": [],
-  "temporal": [],
-  "theme": [
-    "Water"
-  ],
+  "accessMechanism": "Level3AccessMechanism",
   "accessRights": "",
+  "accuralPeriodicity": "",
+  "addressAvailable": false,
+  "applicableLegislation": [],
+  "belongsToCatalogue": "",
+  "conformsTo": [],
+  "contactPoint": [
+    {
+      "email": ""
+    }
+  ],
   "creator": [
     ""
   ],
-  "page": [
+  "description": {
+    "en": "Dataset about water nodes (water pipes, shut-off valves)"
+  },
+  "dissemination": "Level1Dissemination",
+  "disseminationOrganization": "",
+  "distribution": [
     ""
   ],
-  "accrualPeriodicity": "",
+  "geolocation": false,
   "hasVersion": [
     ""
   ],
   "identifier": [
     ""
   ],
+  "inSeries": [],
   "isReferencedBy": [
     ""
   ],
   "isVersionOf": [
     ""
+  ],
+  "issued": "",
+  "keyword": [
+    "water",
+    "nodes",
+    "pipes",
+    "valves"
   ],
   "landingPage": [
     ""
@@ -56,12 +51,18 @@
   "language": [
     "EN"
   ],
+  "license": "Apache-2.0",
+  "modified": "2024-03-21T12:53:00Z",
   "otherIdentifier": [
+    ""
+  ],
+  "page": [
     ""
   ],
   "provenance": [
     ""
   ],
+  "publisher": "WDME",
   "qualifiedAttribution": [
     ""
   ],
@@ -71,29 +72,33 @@
   "relation": [
     ""
   ],
-  "issued": "",
+  "reputation": "Level1Reputation",
+  "reputationOrganization": "",
   "sample": [
     ""
   ],
-  "spatialResolutionInMeters": 0.0,
+  "source": [
+    "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotFI_KEYAQUA_WaterDuct_V0.1:41266715"
+  ],
+  "spatial": [],
+  "spatialResolution": 0.0,
+  "standardization": "Level2Standardization",
+  "standardizationSource": "",
+  "temporal": [],
   "temporalResolution": [
     ""
   ],
+  "theme": [
+    "Water"
+  ],
+  "title": {
+    "en": "WATERVERSE_PilotFI_KEYAQUA_WaterDuct_V0.1"
+  },
   "Type": "",
+  "validationSchema": "https://github.com/smart-data-models/incubated/blob/master/metadata/schema.json",
   "version": "",
   "versionNotes": [],
   "wasGeneratedBy": [
     ""
-  ],
-  "license": "Apache-2.0",
-  "geolocation": false,
-  "addressAvailable": false,
-  "standardization": "Level2Standardization",
-  "standardizationSource": "",
-  "validationSchema": "https://github.com/smart-data-models/incubated/blob/master/metadata/schema.json",
-  "accessMechanism": "Level3AccessMechanism",
-  "disseminationOrganization": "",
-  "dissemination": "Level1Dissemination",
-  "reputation": "Level1Reputation",
-  "reputationOrganization": ""
+  ]
 }

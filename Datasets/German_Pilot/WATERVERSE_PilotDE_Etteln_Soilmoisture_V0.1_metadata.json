@@ -1,53 +1,45 @@
 {
   "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotDE_Etteln_Soilmoisture_V0.1:23278368",
   "type": "Dataset",
-  "modified": "2024-03-21T12:53:00Z",
-  "source": [
-    "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotDE_Etteln_Soilmoisture_V0.1:41266715"
-  ],
-  "description": [
-    "Datasets about the relative soil moisture in the flooding area"
-  ],
-  "title": [
-    "WATERVERSE_PilotDE_Etteln_Soilmoisture_V0.1"
-  ],
-  "contactPoint": [
-    "Hypertegrity"
-  ],
-  "belongsToCatalogue": "",
-  "distribution": [
-    ""
-  ],
-  "keyword": [
-    "moisture",
-    "soil",
-    "flooding"
-  ],
-  "publisher": "EDAG Engineering GmbH",
-  "spatial": [],
-  "temporal": [],
-  "theme": [
-    "flooding"
-  ],
+  "accessMechanism": "Level3AccessMechanism",
   "accessRights": "",
+  "accuralPeriodicity": "weekly",
+  "addressAvailable": false,
+  "applicableLegislation": [],
+  "belongsToCatalogue": "",
+  "conformsTo": [],
+  "contactPoint": [
+    {
+      "email": "Hypertegrity..."
+    }
+  ],
   "creator": [
     ""
   ],
-  "page": [
+  "description": {
+    "en": "Datasets about the relative soil moisture in the flooding area"
+  },
+  "dissemination": "Level1Dissemination",
+  "disseminationOrganization": "",
+  "distribution": [
     ""
   ],
-  "accrualPeriodicity": "weekly",
-  "hasVersion": [
-    ""
-  ],
+  "geolocation": false,
   "identifier": [
     ""
   ],
+  "inSeries": [],
   "isReferencedBy": [
     ""
   ],
   "isVersionOf": [
     ""
+  ],
+  "issued": "2024-03-16T12:51:26Z",
+  "keyword": [
+    "moisture",
+    "soil",
+    "flooding"
   ],
   "landingPage": [
     "https://opencity-services.de/wasser"
@@ -55,12 +47,18 @@
   "language": [
     "EN"
   ],
+  "license": "Apache-2.0",
+  "modified": "2024-03-21T12:53:00Z",
   "otherIdentifier": [
+    ""
+  ],
+  "page": [
     ""
   ],
   "provenance": [
     ""
   ],
+  "publisher": "EDAG Engineering GmbH",
   "qualifiedAttribution": [
     ""
   ],
@@ -70,29 +68,33 @@
   "relation": [
     ""
   ],
-  "issued": "2024-03-16T12:51:26Z",
+  "reputation": "Level1Reputation",
+  "reputationOrganization": "",
   "sample": [
     ""
   ],
-  "spatialResolutionInMeters": 0.0,
+  "source": [
+    "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotDE_Etteln_Soilmoisture_V0.1:41266715"
+  ],
+  "spatial": [],
+  "spatialResolution": 0.0,
+  "standardization": "Level2Standardization",
+  "standardizationSource": "",
+  "temporal": [],
   "temporalResolution": [
     ""
   ],
+  "theme": [
+    "flooding"
+  ],
+  "title": {
+    "en": "WATERVERSE_PilotDE_Etteln_Soilmoisture_V0.1"
+  },
   "Type": "",
+  "validationSchema": "https://github.com/smart-data-models/incubated/blob/master/metadata/schema.json",
   "version": "",
   "versionNotes": [],
   "wasGeneratedBy": [
     ""
-  ],
-  "license": "Apache-2.0",
-  "geolocation": false,
-  "addressAvailable": false,
-  "standardization": "Level2Standardization",
-  "standardizationSource": "",
-  "validationSchema": "https://github.com/smart-data-models/incubated/blob/master/metadata/schema.json",
-  "accessMechanism": "Level3AccessMechanism",
-  "disseminationOrganization": "",
-  "dissemination": "Level1Dissemination",
-  "reputation": "Level1Reputation",
-  "reputationOrganization": ""
+  ]
 }

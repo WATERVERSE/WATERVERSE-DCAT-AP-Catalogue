@@ -1,98 +1,102 @@
 {
-    "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotSP_DATAHUB_LeaksM_V0.1:23278368",
-    "type": "Dataset",
-    "modified": "2024-03-21T12:53:00Z",
-    "source": [
-      "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotSP_DATAHUB_LeaksM_V0.1:41266715"
-    ],
-    "description": [
-      "Datasets about the number of each kind of leak (visible, hidden, provoked, natural) in each part of the network (transmission, distribution, service connection). Monthly monitoring."
-    ],
-    "title": [
-      "WATERVERSE_PilotSP_DATAHUB_LeaksM_V0.1"
-    ],
-    "contactPoint": [
-      "Hidralia"
-    ],
-    "belongsToCatalogue": "",
-    "distribution": [
-      ""
-    ],
-    "keyword": [
-      "leak",
-      "month"
-  
-    ],
-    "publisher": "WDME",
-    "spatial": [],
-    "temporal": [],
-    "theme": [
-      "Water"
-    ],
-    "accessRights": "",
-    "creator": [
-      ""
-    ],
-    "page": [
-      ""
-    ],
-    "accrualPeriodicity": "Monthly",
-    "hasVersion": [
-      ""
-    ],
-    "identifier": [
-      ""
-    ],
-    "isReferencedBy": [
-      ""
-    ],
-    "isVersionOf": [
-      ""
-    ],
-    "landingPage": [
-      "https://itigr.sharepoint.com/:x:/r/sites/Waterverse/Shared%20Documents/Workplan/WP5/Pilot_5_SP/WDME_Deployment_preparation_datasets/Extraction_Sample_Datasets_csv/2_Leaks_M.csv?d=we2167a2c0d144ed581636b4f7012ec04&csf=1&web=1&e=aXuYb7"
-    ],
-    "language": [
-      "EN"
-    ],
-    "otherIdentifier": [
-      ""
-    ],
-    "provenance": [
-      ""
-    ],
-    "qualifiedAttribution": [
-      ""
-    ],
-    "qualifiedRelation": [
-      ""
-    ],
-    "relation": [
-      ""
-    ],
-    "issued": "",
-    "sample": [
-      ""
-    ],
-    "spatialResolutionInMeters": 0.0,
-    "temporalResolution": [
-      ""
-    ],
-    "Type": "",
-    "version": "",
-    "versionNotes": [],
-    "wasGeneratedBy": [
-      ""
-    ],
-    "license": "Apache-2.0",
-    "geolocation": false,
-    "addressAvailable": false,
-    "standardization": "Level2Standardization",
-    "standardizationSource": "",
-    "validationSchema": "https://github.com/smart-data-models/incubated/blob/master/metadata/schema.json",
-    "accessMechanism": "Level3AccessMechanism",
-    "disseminationOrganization": "",
-    "dissemination": "Level1Dissemination",
-    "reputation": "Level1Reputation",
-    "reputationOrganization": ""
-  }
+  "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotSP_DATAHUB_LeaksM_V0.1:23278368",
+  "type": "Dataset",
+  "accessMechanism": "Level3AccessMechanism",
+  "accessRights": "",
+  "accuralPeriodicity": "Monthly",
+  "addressAvailable": false,
+  "applicableLegislation": [],
+  "belongsToCatalogue": "",
+  "conformsTo": [],
+  "contactPoint": [
+    {
+      "email": "Hidralia"
+    }
+  ],
+  "creator": [
+    ""
+  ],
+  "description": {
+    "en": "Datasets about the number of each kind of leak (visible, hidden, provoked, natural) in each part of the network (transmission, distribution, service connection). Monthly monitoring."
+  },
+  "dissemination": "Level1Dissemination",
+  "disseminationOrganization": "",
+  "distribution": [
+    ""
+  ],
+  "geolocation": false,
+  "hasVersion": [
+    ""
+  ],
+  "identifier": [
+    ""
+  ],
+  "inSeries": [],
+  "isReferencedBy": [
+    ""
+  ],
+  "isVersionOf": [
+    ""
+  ],
+  "issued": "",
+  "keyword": [
+    "leak",
+    "month"
+  ],
+  "landingPage": [
+    "https://itigr.sharepoint.com/:x:/r/sites/Waterverse/Shared%20Documents/Workplan/WP5/Pilot_5_SP/WDME_Deployment_preparation_datasets/Extraction_Sample_Datasets_csv/2_Leaks_M.csv?d=we2167a2c0d144ed581636b4f7012ec04&csf=1&web=1&e=aXuYb7"
+  ],
+  "language": [
+    "EN"
+  ],
+  "license": "Apache-2.0",
+  "modified": "2024-03-21T12:53:00Z",
+  "otherIdentifier": [
+    ""
+  ],
+  "page": [
+    ""
+  ],
+  "provenance": [
+    ""
+  ],
+  "publisher": "WDME",
+  "qualifiedAttribution": [
+    ""
+  ],
+  "qualifiedRelation": [
+    ""
+  ],
+  "relation": [
+    ""
+  ],
+  "reputation": "Level1Reputation",
+  "reputationOrganization": "",
+  "sample": [
+    ""
+  ],
+  "source": [
+    "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotSP_DATAHUB_LeaksM_V0.1:41266715"
+  ],
+  "spatial": [],
+  "spatialResolution": 0.0,
+  "standardization": "Level2Standardization",
+  "standardizationSource": "",
+  "temporal": [],
+  "temporalResolution": [
+    ""
+  ],
+  "theme": [
+    "Water"
+  ],
+  "title": [
+    "WATERVERSE_PilotSP_DATAHUB_LeaksM_V0.1"
+  ],
+  "Type": "",
+  "validationSchema": "https://github.com/smart-data-models/incubated/blob/master/metadata/schema.json",
+  "version": "",
+  "versionNotes": [],
+  "wasGeneratedBy": [
+    ""
+  ]
+}

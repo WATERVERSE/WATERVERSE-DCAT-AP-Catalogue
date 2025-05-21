@@ -1,105 +1,110 @@
 {
-    "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotUK_MeteorCloud_WaterQualityMonitor_V0.1:23278368",
-    "type": "Dataset",
-    "modified": "2024-04-09T14:09:32Z",
-    "source": [
-      "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotUK_MeteorCloud_WaterQualityMonitor_V0.1:41266715"
-    ],
-    "description": [
-      "South West Water continuous water quality monitor data. This is from water quality sondes deployed in receiving waterbodies. Parameters dissolved oxygen, ammonium, temperature, pH, conductivity, chlorophhyll, turbidity. Sources via Meteor Cloud API (private)"
-    ],
-    "title": [
-      "WATERVERSE_PilotUK_MeteorCloud_WaterQualityMonitor_V0.1"
-    ],
-    "contactPoint": [
-      ""
-    ],
-    "belongsToCatalogue": "",
-    "distribution": [
-      ""
-    ],
-    "keyword": [
-      "oxygen",
-      "ammonium",
-      "temperature",
-      "pH",
-      "conductivity",
-      "chlorophhyll",
-      "turbidity",
-      "water quality",
-      "temporal"
-    ],
-    "publisher": "https://environment.data.gov.uk/",
-    "spatial": [],
-    "temporal": [],
-    "theme": [
-      "Environment",
-      "Water"
-    ],
-    "accessRights": "",
-    "creator": [
-      "Gareth Lewis"
-    ],
-    "page": [
-      ""
-    ],
-    "accrualPeriodicity": "weekly",
-    "hasVersion": [
-      ""
-    ],
-    "identifier": [
-      ""
-    ],
-    "isReferencedBy": [
-      ""
-    ],
-    "isVersionOf": [
-      ""
-    ],
-    "landingPage": [
-      "https://dataportal-waterverse.opsi.lecce.it/dataset/waterverse_puc2_sww_environment-agency-data_v1-0"
-    ],
-    "language": [
-      "EN"
-    ],
-    "otherIdentifier": [
-      ""
-    ],
-    "provenance": [
-      ""
-    ],
-    "qualifiedAttribution": [
-      ""
-    ],
-    "qualifiedRelation": [
-      ""
-    ],
-    "relation": [
-      ""
-    ],
-    "issued": "2024-03-16T12:51:26Z",
-    "sample": [
-      ""
-    ],
-    "spatialResolutionInMeters": 0.0,
-    "temporalResolution": [
-      ""
-    ],
-    "Type": "",
-    "version": "1.0",
-    "versionNotes": [],
-    "wasGeneratedBy": [
-      "https://environment.data.gov.uk/"
-    ],
-    "license": "Apache-2.0",
-    "geolocation": false,
-    "addressAvailable": false,
-    "standardization": "Level2Standardization",
-    "standardizationSource": "",
-    "validationSchema": "https://github.com/smart-data-models/incubated/blob/master/metadata/schema.json",
-    "accessMechanism": "Level3AccessMechanism",
-    "disseminationOrganization": "",
-    "dissemination": "Level1Dissemination",
-    "reputation": "Level1Reputation",
-    "reputationOrganization": ""
-  }
+  "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotUK_MeteorCloud_WaterQualityMonitor_V0.1:23278368",
+  "type": "Dataset",
+  "accessMechanism": "Level3AccessMechanism",
+  "accessRights": "",
+  "accuralPeriodicity": "weekly",
+  "addressAvailable": false,
+  "applicableLegislation": [],
+  "belongsToCatalogue": "",
+  "conformsTo": [],
+  "contactPoint": [
+    {
+      "email": ""
+    }
+  ],
+  "creator": [
+    "Gareth Lewis"
+  ],
+  "description": {
+    "en": "South West Water continuous water quality monitor data. This is from water quality sondes deployed in receiving waterbodies. Parameters dissolved oxygen, ammonium, temperature, pH, conductivity, chlorophhyll, turbidity. Sources via Meteor Cloud API (private)"
+  },
+  "dissemination": "Level1Dissemination",
+  "disseminationOrganization": "",
+  "distribution": [
+    ""
+  ],
+  "geolocation": false,
+  "hasVersion": [
+    ""
+  ],
+  "identifier": [
+    ""
+  ],
+  "inSeries": [],
+  "isReferencedBy": [
+    ""
+  ],
+  "isVersionOf": [
+    ""
+  ],
+  "issued": "2024-03-16T12:51:26Z",
+  "keyword": [
+    "oxygen",
+    "ammonium",
+    "temperature",
+    "pH",
+    "conductivity",
+    "chlorophhyll",
+    "turbidity",
+    "water quality",
+    "temporal"
+  ],
+  "landingPage": [
+    "https://dataportal-waterverse.opsi.lecce.it/dataset/waterverse_puc2_sww_environment-agency-data_v1-0"
+  ],
+  "language": [
+    "EN"
+  ],
+  "license": "Apache-2.0",
+  "modified": "2024-04-09T14:09:32Z",
+  "otherIdentifier": [
+    ""
+  ],
+  "page": [
+    ""
+  ],
+  "provenance": [
+    ""
+  ],
+  "publisher": "https://environment.data.gov.uk/",
+  "qualifiedAttribution": [
+    ""
+  ],
+  "qualifiedRelation": [
+    ""
+  ],
+  "relation": [
+    ""
+  ],
+  "reputation": "Level1Reputation",
+  "reputationOrganization": "",
+  "sample": [
+    ""
+  ],
+  "source": [
+    "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotUK_MeteorCloud_WaterQualityMonitor_V0.1:41266715"
+  ],
+  "spatial": [],
+  "spatialResolution": 0.0,
+  "standardization": "Level2Standardization",
+  "standardizationSource": "",
+  "temporal": [],
+  "temporalResolution": [
+    ""
+  ],
+  "theme": [
+    "Environment",
+    "Water"
+  ],
+  "title": {
+    "en": "WATERVERSE_PilotUK_MeteorCloud_WaterQualityMonitor_V0.1"
+  },
+  "Type": "",
+  "validationSchema": "https://github.com/smart-data-models/incubated/blob/master/metadata/schema.json",
+  "version": "1.0",
+  "versionNotes": [],
+  "wasGeneratedBy": [
+    "https://environment.data.gov.uk/"
+  ]
+}

@@ -1,99 +1,101 @@
 {
-    "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotNL_KNMI_WeatherData_V0.1:23278368",
-    "type": "Dataset",
-    "modified": "2024-03-12T01:00:00Z",
-    "source": [
-      "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotNL_KNMI_WeatherData_V0.1:41266715"
-    ],
-    "description": [
-      "Dataset containing daily weather related data from specific weather stations measured, managed and provided by the Royal Netherlands Meteorological Institute (KNMI)."
-    ],
-    "title": [
-      "WATERVERSE_PilotNL_KNMI_WeatherData_V0.1"
-    ],
-    "contactPoint": [
-      ""
-    ],
-    "belongsToCatalogue": "",
-    "distribution": [
-      ""
-    ],
-    "keyword": [
-      "weather",
-      "weather station",
-      "KNMI"
-    ],
-    "publisher": "Sesan Siddhart",
-    "spatial": [],
-    "temporal": [],
-    "theme": [
-      "Weather"
-    ],
-    "accessRights": "",
-    "creator": [
-      "KNMI"
-    ],
-    "page": [
-      ""
-    ],
-    "accrualPeriodicity": "",
-    "hasVersion": [
-      ""
-    ],
-    "identifier": [
-      ""
-    ],
-    "isReferencedBy": [
-      ""
-    ],
-    "isVersionOf": [
-      ""
-    ],
-    "landingPage": [
-      "https://dataportal-waterverse.opsi.lecce.it/dataset/knmi-harmonized-data-training-day-pwn-pilot",
-      "https://dataportal-waterverse.opsi.lecce.it/dataset/waterverse_puc1_knmi_observations-from-the-automatic-weather-stations_v1-0"
-    ],
-    "language": [
-      "EN"
-    ],
-    "otherIdentifier": [
-      ""
-    ],
-    "provenance": [
-      ""
-    ],
-    "qualifiedAttribution": [
-      ""
-    ],
-    "qualifiedRelation": [
-      ""
-    ],
-    "relation": [
-      ""
-    ],
-    "issued": "2024-03-16T12:51:26Z",
-    "sample": [
-      ""
-    ],
-    "spatialResolutionInMeters": 0.0,
-    "temporalResolution": [
-      ""
-    ],
-    "Type": "",
-    "version": "1.0",
-    "versionNotes": [],
-    "wasGeneratedBy": [
-      ""
-    ],
-    "license": "Apache-2.0",
-    "geolocation": false,
-    "addressAvailable": false,
-    "standardization": "Level2Standardization",
-    "standardizationSource": "",
-    "validationSchema": "https://github.com/smart-data-models/incubated/blob/master/metadata/schema.json",
-    "accessMechanism": "Level3AccessMechanism",
-    "disseminationOrganization": "",
-    "dissemination": "Level1Dissemination",
-    "reputation": "Level1Reputation",
-    "reputationOrganization": ""
-  }
+  "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotNL_KNMI_WeatherData_V0.1:23278368",
+  "type": "Dataset",
+  "accessMechanism": "Level3AccessMechanism",
+  "accessRights": "",
+  "accuralPeriodicity": "",
+  "addressAvailable": false,
+  "applicableLegislation": [],
+  "belongsToCatalogue": "",
+  "conformsTo": [],
+  "contactPoint": [
+    {
+      "email": ""
+    }
+  ],
+  "creator": [
+    "KNMI"
+  ],
+  "description": {
+    "en": "Dataset containing daily weather related data from specific weather stations measured, managed and provided by the Royal Netherlands Meteorological Institute (KNMI)."
+  },
+  "dissemination": "Level1Dissemination",
+  "disseminationOrganization": "",
+  "distribution": [
+    ""
+  ],
+  "geolocation": false,
+  "identifier": [
+    ""
+  ],
+  "inSeries": [],
+  "isReferencedBy": [
+    ""
+  ],
+  "isVersionOf": [
+    ""
+  ],
+  "issued": "2024-03-16T12:51:26Z",
+  "keyword": [
+    "weather",
+    "weather station",
+    "KNMI"
+  ],
+  "landingPage": [
+    "https://dataportal-waterverse.opsi.lecce.it/dataset/knmi-harmonized-data-training-day-pwn-pilot",
+    "https://dataportal-waterverse.opsi.lecce.it/dataset/waterverse_puc1_knmi_observations-from-the-automatic-weather-stations_v1-0"
+  ],
+  "language": [
+    "EN"
+  ],
+  "license": "Apache-2.0",
+  "modified": "2024-03-12T01:00:00Z",
+  "otherIdentifier": [
+    ""
+  ],
+  "page": [
+    ""
+  ],
+  "provenance": [
+    ""
+  ],
+  "publisher": "Sesan Siddhart",
+  "qualifiedAttribution": [
+    ""
+  ],
+  "qualifiedRelation": [
+    ""
+  ],
+  "relation": [
+    ""
+  ],
+  "reputation": "Level1Reputation",
+  "reputationOrganization": "",
+  "sample": [
+    ""
+  ],
+  "source": [
+    "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotNL_KNMI_WeatherData_V0.1:41266715"
+  ],
+  "spatial": [],
+  "spatialResolution": 0.0,
+  "standardization": "Level2Standardization",
+  "standardizationSource": "",
+  "temporal": [],
+  "temporalResolution": [
+    ""
+  ],
+  "theme": [
+    "Weather"
+  ],
+  "title": {
+    "en": "WATERVERSE_PilotNL_KNMI_WeatherData_V0.1"
+  },
+  "Type": "",
+  "validationSchema": "https://github.com/smart-data-models/incubated/blob/master/metadata/schema.json",
+  "version": "1.0",
+  "versionNotes": [],
+  "wasGeneratedBy": [
+    ""
+  ]
+}

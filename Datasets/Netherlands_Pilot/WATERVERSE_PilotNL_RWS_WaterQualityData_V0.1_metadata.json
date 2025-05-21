@@ -1,99 +1,104 @@
 {
-    "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotNL_RWS_WaterQualityData_V0.1:23278368",
-    "type": "Dataset",
-    "modified": "2024-03-12T14:09:32Z",
-    "source": [
-      "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotNL_RWS_WaterQualityData_V0.1:41266715"
-    ],
-    "description": [
-      "Dataset containing water quality and water quantity measurements related to the IJssel River and the IJsselmeer at different stations. The data is measured, managed and provided by Rijkswaterstraat (RWS)."
-    ],
-    "title": [
-      "WATERVERSE_PilotNL_RWS_WaterQualityData_V0.1"
-    ],
-    "contactPoint": [
-      "RWS"
-    ],
-    "belongsToCatalogue": "",
-    "distribution": [
-      ""
-    ],
-    "keyword": [
-      "RWS",
-      "water quality",
-      "River"
-    ],
-    "publisher": "Sesan Siddhart",
-    "spatial": [],
-    "temporal": [],
-    "theme": [
-      "Environment",
-      "Water"
-    ],
-    "accessRights": "",
-    "creator": [
-      "KWR"
-    ],
-    "page": [
-      ""
-    ],
-    "accrualPeriodicity": "",
-    "hasVersion": [
-      ""
-    ],
-    "identifier": [
-      ""
-    ],
-    "isReferencedBy": [
-      ""
-    ],
-    "isVersionOf": [
-      ""
-    ],
-    "landingPage": [
-      "https://dataportal-waterverse.opsi.lecce.it/dataset/waterverse_puc1_rws_water-quality-observation-in-netherlands_v1-0"
-    ],
-    "language": [
-      "EN"
-    ],
-    "otherIdentifier": [
-      ""
-    ],
-    "provenance": [
-      ""
-    ],
-    "qualifiedAttribution": [
-      ""
-    ],
-    "qualifiedRelation": [
-      ""
-    ],
-    "relation": [
-      ""
-    ],
-    "issued": "2024-08-19T12:51:26Z",
-    "sample": [
-      ""
-    ],
-    "spatialResolutionInMeters": 0.0,
-    "temporalResolution": [
-      ""
-    ],
-    "Type": "",
-    "version": "",
-    "versionNotes": [],
-    "wasGeneratedBy": [
-      "https://www.rijkswaterstaat.nl/zakelijk/open-data"
-    ],
-    "license": "Apache-2.0",
-    "geolocation": false,
-    "addressAvailable": false,
-    "standardization": "Level2Standardization",
-    "standardizationSource": "",
-    "validationSchema": "https://github.com/smart-data-models/incubated/blob/master/metadata/schema.json",
-    "accessMechanism": "Level3AccessMechanism",
-    "disseminationOrganization": "",
-    "dissemination": "Level1Dissemination",
-    "reputation": "Level1Reputation",
-    "reputationOrganization": ""
-  }
+  "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotNL_RWS_WaterQualityData_V0.1:23278368",
+  "type": "Dataset",
+  "accessMechanism": "Level3AccessMechanism",
+  "accessRights": "",
+  "accuralPeriodicity": "",
+  "addressAvailable": false,
+  "applicableLegislation": [],
+  "belongsToCatalogue": "",
+  "conformsTo": [],
+  "contactPoint": [
+    {
+      "email": "RWS..."
+    }
+  ],
+  "creator": [
+    "KWR"
+  ],
+  "description": {
+    "en": "Dataset containing water quality and water quantity measurements related to the IJssel River and the IJsselmeer at different stations. The data is measured, managed and provided by Rijkswaterstraat (RWS)."
+  },
+  "dissemination": "Level1Dissemination",
+  "disseminationOrganization": "",
+  "distribution": [
+    ""
+  ],
+  "geolocation": false,
+  "hasVersion": [
+    ""
+  ],
+  "identifier": [
+    ""
+  ],
+  "inSeries": [],
+  "isReferencedBy": [
+    ""
+  ],
+  "isVersionOf": [
+    ""
+  ],
+  "issued": "2024-08-19T12:51:26Z",
+  "keyword": [
+    "RWS",
+    "water quality",
+    "River"
+  ],
+  "landingPage": [
+    "https://dataportal-waterverse.opsi.lecce.it/dataset/waterverse_puc1_rws_water-quality-observation-in-netherlands_v1-0"
+  ],
+  "language": [
+    "EN"
+  ],
+  "license": "Apache-2.0",
+  "modified": "2024-03-12T14:09:32Z",
+  "otherIdentifier": [
+    ""
+  ],
+  "page": [
+    ""
+  ],
+  "provenance": [
+    ""
+  ],
+  "publisher": "Sesan Siddhart",
+  "qualifiedAttribution": [
+    ""
+  ],
+  "qualifiedRelation": [
+    ""
+  ],
+  "relation": [
+    ""
+  ],
+  "reputation": "Level1Reputation",
+  "reputationOrganization": "",
+  "sample": [
+    ""
+  ],
+  "source": [
+    "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotNL_RWS_WaterQualityData_V0.1:41266715"
+  ],
+  "spatial": [],
+  "spatialResolution": 0.0,
+  "standardization": "Level2Standardization",
+  "standardizationSource": "",
+  "temporal": [],
+  "temporalResolution": [
+    ""
+  ],
+  "theme": [
+    "Environment",
+    "Water"
+  ],
+  "title": {
+    "en": "WATERVERSE_PilotNL_RWS_WaterQualityData_V0.1"
+  },
+  "Type": "",
+  "validationSchema": "https://github.com/smart-data-models/incubated/blob/master/metadata/schema.json",
+  "version": "",
+  "versionNotes": [],
+  "wasGeneratedBy": [
+    "https://www.rijkswaterstaat.nl/zakelijk/open-data"
+  ]
+}

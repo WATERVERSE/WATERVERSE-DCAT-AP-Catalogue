@@ -1,98 +1,103 @@
 {
-    "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotSP_DATAHUB_WaterSourcesD_V0.1:23278368",
-    "type": "Dataset",
-    "modified": "2024-03-21T12:53:00Z",
-    "source": [
-      "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotSP_DATAHUB_WaterSourcesD_V0.1:41266715"
-    ],
-    "description": [
-      "Datasets about the daily supplied water by origin."
-    ],
-    "title": [
-      "WATERVERSE_PilotSP_DATAHUB_WaterSourcesD_V0.1"
-    ],
-    "contactPoint": [
-      "Hidralia"
-    ],
-    "belongsToCatalogue": "",
-    "distribution": [
-      ""
-    ],
-    "keyword": [
-      "water",
-      "supplied",
-      "day"
-    ],
-    "publisher": "WDME",
-    "spatial": [],
-    "temporal": [],
-    "theme": [
-      "Water"
-    ],
-    "accessRights": "",
-    "creator": [
-      ""
-    ],
-    "page": [
-      ""
-    ],
-    "accrualPeriodicity": "Daily",
-    "hasVersion": [
-      ""
-    ],
-    "identifier": [
-      ""
-    ],
-    "isReferencedBy": [
-      ""
-    ],
-    "isVersionOf": [
-      ""
-    ],
-    "landingPage": [
-      "https://itigr.sharepoint.com/:x:/r/sites/Waterverse/Shared%20Documents/Workplan/WP5/Pilot_5_SP/WDME_Deployment_preparation_datasets/Extraction_Sample_Datasets_csv/4%20Water%20Sources_D.csv?d=w92387a5f5d7a42ce915f30cd033c629c&csf=1&web=1&e=tIEqR9"
-    ],
-    "language": [
-      "EN"
-    ],
-    "otherIdentifier": [
-      ""
-    ],
-    "provenance": [
-      ""
-    ],
-    "qualifiedAttribution": [
-      ""
-    ],
-    "qualifiedRelation": [
-      ""
-    ],
-    "relation": [
-      ""
-    ],
-    "issued": "",
-    "sample": [
-      ""
-    ],
-    "spatialResolutionInMeters": 0.0,
-    "temporalResolution": [
-      ""
-    ],
-    "Type": "",
-    "version": "",
-    "versionNotes": [],
-    "wasGeneratedBy": [
-      ""
-    ],
-    "license": "Apache-2.0",
-    "geolocation": false,
-    "addressAvailable": false,
-    "standardization": "Level2Standardization",
-    "standardizationSource": "",
-    "validationSchema": "https://github.com/smart-data-models/incubated/blob/master/metadata/schema.json",
-    "accessMechanism": "Level3AccessMechanism",
-    "disseminationOrganization": "",
-    "dissemination": "Level1Dissemination",
-    "reputation": "Level1Reputation",
-    "reputationOrganization": ""
-  }
+  "type": "Dataset",
+  "accessMechanism": "Level3AccessMechanism",
+  "accessRights": "",
+  "accuralPeriodicity": "Daily",
+  "addressAvailable": false,
+  "applicableLegislation": [],
+  "belongsToCatalogue": "",
+  "conformsTo": [],
+  "contactPoint": [
+    {
+      "email": "Hidralia"
+    }
+  ],
+  "creator": [
+    ""
+  ],
+  "description": {
+    "en": "Datasets about the daily supplied water by origin."
+  },
+  "dissemination": "Level1Dissemination",
+  "disseminationOrganization": "",
+  "distribution": [
+    ""
+  ],
+  "geolocation": false,
+  "hasVersion": [
+    ""
+  ],
+  "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotSP_DATAHUB_WaterSourcesD_V0.1:23278368",
+  "identifier": [
+    ""
+  ],
+  "inSeries": [],
+  "isReferencedBy": [
+    ""
+  ],
+  "isVersionOf": [
+    ""
+  ],
+  "issued": "",
+  "keyword": [
+    "water",
+    "supplied",
+    "day"
+  ],
+  "landingPage": [
+    "https://itigr.sharepoint.com/:x:/r/sites/Waterverse/Shared%20Documents/Workplan/WP5/Pilot_5_SP/WDME_Deployment_preparation_datasets/Extraction_Sample_Datasets_csv/4%20Water%20Sources_D.csv?d=w92387a5f5d7a42ce915f30cd033c629c&csf=1&web=1&e=tIEqR9"
+  ],
+  "language": [
+    "EN"
+  ],
+  "license": "Apache-2.0",
+  "modified": "2024-03-21T12:53:00Z",
+  "otherIdentifier": [
+    ""
+  ],
+  "page": [
+    ""
+  ],
+  "provenance": [
+    ""
+  ],
+  "publisher": "WDME",
+  "qualifiedAttribution": [
+    ""
+  ],
+  "qualifiedRelation": [
+    ""
+  ],
+  "relation": [
+    ""
+  ],
+  "reputation": "Level1Reputation",
+  "reputationOrganization": "",
+  "sample": [
+    ""
+  ],
+  "source": [
+    "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotSP_DATAHUB_WaterSourcesD_V0.1:41266715"
+  ],
+  "spatial": [],
+  "spatialResolution": 0.0,
+  "standardization": "Level2Standardization",
+  "standardizationSource": "",
+  "temporal": [],
+  "temporalResolution": [
+    ""
+  ],
+  "theme": [
+    "Water"
+  ],
+  "title": {
+    "en": "WATERVERSE_PilotSP_DATAHUB_WaterSourcesD_V0.1"
+  },
+  "Type": "",
+  "validationSchema": "https://github.com/smart-data-models/incubated/blob/master/metadata/schema.json",
+  "version": "",
+  "versionNotes": [],
+  "wasGeneratedBy": [
+    ""
+  ]
+}

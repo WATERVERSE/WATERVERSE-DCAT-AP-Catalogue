@@ -1,98 +1,103 @@
 {
-    "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotUK_EA_RiverLevel_V0.1:23278368",
-    "type": "Dataset",
-    "modified": "2024-04-10T02:00:00Z",
-    "source": [
-      "https://environment.data.gov.uk/"
-    ],
-    "description": [
-      "Selected river level data from UK Environment Agency Hydrology API (public)"
-    ],
-    "title": [
-      "WATERVERSE_PilotUK_EA_RiverLevel_V0.1"
-    ],
-    "contactPoint": [
-      "gmandeno@southwestwater.co.uk"
-    ],
-    "belongsToCatalogue": "",
-    "distribution": [
-      ""
-    ],
-    "keyword": [
-      "river level",
-      "temporal"
-    ],
-    "publisher": "https://environment.data.gov.uk/",
-    "spatial": [],
-    "temporal": [],
-    "theme": [
-      "Environment",
-      "Water"
-    ],
-    "accessRights": "",
-    "creator": [
-      "Gareth Lewis"
-    ],
-    "page": [
-      ""
-    ],
-    "accrualPeriodicity": "every 15 mins",
-    "hasVersion": [
-      ""
-    ],
-    "identifier": [
-      ""
-    ],
-    "isReferencedBy": [
-      ""
-    ],
-    "isVersionOf": [
-      ""
-    ],
-    "landingPage": [
-      "https://dataportal-waterverse.opsi.lecce.it/dataset/waterverse_puc2_sww_environment-agency-data_v1-0"
-    ],
-    "language": [
-      "EN"
-    ],
-    "otherIdentifier": [
-      ""
-    ],
-    "provenance": [
-      ""
-    ],
-    "qualifiedAttribution": [
-      ""
-    ],
-    "qualifiedRelation": [
-      ""
-    ],
-    "relation": [
-      ""
-    ],
-    "issued": "2024-03-16T12:51:26Z",
-    "sample": [
-      ""
-    ],
-    "spatialResolutionInMeters": 0.0,
-    "temporalResolution": [
-      ""
-    ],
-    "Type": "",
-    "version": "1.0",
-    "versionNotes": [],
-    "wasGeneratedBy": [
-      "https://environment.data.gov.uk/"
-    ],
-    "license": "Apache-2.0",
-    "geolocation": false,
-    "addressAvailable": false,
-    "standardization": "Level2Standardization",
-    "standardizationSource": "",
-    "validationSchema": "https://github.com/smart-data-models/incubated/blob/master/metadata/schema.json",
-    "accessMechanism": "Level3AccessMechanism",
-    "disseminationOrganization": "",
-    "dissemination": "Level1Dissemination",
-    "reputation": "Level1Reputation",
-    "reputationOrganization": ""
-  }
+  "id": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotUK_EA_RiverLevel_V0.1:23278368",
+  "type": "Dataset",
+  "accessMechanism": "Level3AccessMechanism",
+  "accessRights": "",
+  "accuralPeriodicity": "every 15 mins",
+  "addressAvailable": false,
+  "applicableLegislation": [],
+  "belongsToCatalogue": "",
+  "conformsTo": [],
+  "contactPoint": [
+    {
+      "email": "gmandeno@southwestwater.co.uk"
+    }
+  ],
+  "creator": [
+    "Gareth Lewis"
+  ],
+  "description": {
+    "en": "Selected river level data from UK Environment Agency Hydrology API (public)"
+  },
+  "dissemination": "Level1Dissemination",
+  "disseminationOrganization": "",
+  "distribution": [
+    ""
+  ],
+  "geolocation": false,
+  "hasVersion": [
+    ""
+  ],
+  "identifier": [
+    ""
+  ],
+  "inSeries": [],
+  "isReferencedBy": [
+    ""
+  ],
+  "isVersionOf": [
+    ""
+  ],
+  "issued": "2024-03-16T12:51:26Z",
+  "keyword": [
+    "river level",
+    "temporal"
+  ],
+  "landingPage": [
+    "https://dataportal-waterverse.opsi.lecce.it/dataset/waterverse_puc2_sww_environment-agency-data_v1-0"
+  ],
+  "language": [
+    "EN"
+  ],
+  "license": "Apache-2.0",
+  "modified": "2024-04-10T02:00:00Z",
+  "otherIdentifier": [
+    ""
+  ],
+  "page": [
+    ""
+  ],
+  "provenance": [
+    ""
+  ],
+  "publisher": "https://environment.data.gov.uk/",
+  "qualifiedAttribution": [
+    ""
+  ],
+  "qualifiedRelation": [
+    ""
+  ],
+  "relation": [
+    ""
+  ],
+  "reputation": "Level1Reputation",
+  "reputationOrganization": "",
+  "sample": [
+    ""
+  ],
+  "source": [
+    "https://environment.data.gov.uk/"
+  ],
+  "spatial": [],
+  "spatialResolution": 0.0,
+  "standardization": "Level2Standardization",
+  "standardizationSource": "",
+  "temporal": [],
+  "temporalResolution": [
+    ""
+  ],
+  "theme": [
+    "Environment",
+    "Water"
+  ],
+  "title": {
+    "en": "WATERVERSE_PilotUK_EA_RiverLevel_V0.1"
+  },
+  "Type": "",
+  "validationSchema": "https://github.com/smart-data-models/incubated/blob/master/metadata/schema.json",
+  "version": "1.0",
+  "versionNotes": [],
+  "wasGeneratedBy": [
+    "https://environment.data.gov.uk/"
+  ]
+}
