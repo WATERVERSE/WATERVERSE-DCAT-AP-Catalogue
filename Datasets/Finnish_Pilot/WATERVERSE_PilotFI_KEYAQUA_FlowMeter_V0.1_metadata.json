@@ -12,10 +12,10 @@
     {
       "email": ""
     }
-	],
+  ],
   "creator": [
-		""
-	],
+    ""
+  ],
   "description": {
     "en": "Dataset with the information about the flow meters (device signal)"
   },
@@ -33,11 +33,11 @@
     "water",
     "flow meters",
     "device signal"
-	],
+  ],
   "landingPage": [],
   "language": [
     "EN"
-	],
+  ],
   "license": "Apache-2.0",
   "modified": "2024-03-21T12:53:00Z",
   "otherIdentifier": [],
@@ -52,7 +52,7 @@
   "sample": [],
   "source": [
     "urn:ngsi-ld:Dataset:items:WATERVERSE_PilotFI_KEYAQUA_FlowMeter_V0.1:41266715"
-	],
+  ],
   "spatial": [],
   "spatialResolution": 0,
   "standardization": "Level2Standardization",
@@ -61,7 +61,7 @@
   "temporalResolution": [],
   "theme": [
     "Water"
-	],
+  ],
   "title": {
     "en": "WATERVERSE_PilotFI_KEYAQUA_FlowMeter_V0.1"
   },
