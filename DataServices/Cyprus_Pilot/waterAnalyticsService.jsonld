@@ -1,0 +1,92 @@
+{
+    "id": "urn:ngsi-ld:DataService:WaterAnalytics:DAFBB16E-B05A-4E02-B259-5531AF5FD493",
+    "type": "DataService",
+    "title": {
+        "type": "Property",
+        "value": "Water Analytics Algorithms"
+    },
+    "description": {
+        "type": "Property",
+        "value": "The Water Analytics App is based on PHOEBE's DigiWATER App, and aims to reveal the importance of the WDME in serving Digital Twin functionality and analytics algorithms at the application layer. The app provides functionality for importing multiple EPANET water network models and linking their components (pipes, junctions, tanks, etc.) to sensors that measure various hydraulic and quality characteristics, like pressure, flow, chlorine residual, etc. The app offers a suite of advanced analytics tools designed to enhance water quality monitoring and management. These tools include hydraulic state estimation, which helps assess and predict pressure and flow dynamics across the water distribution network; water quality state estimation for tracking chlorine residuals and other water quality indicators; and contamination detection algorithms that identify potential contamination events in real time. Additional tools include sensor placement optimisation for both pressure and chlorine sensors, leakage detection, and chlorine injection scheduling. These analytics capabilities enable water utilities to make data-driven decisions, optimise the network performance, and ensure compliance with water quality regulations."
+    },
+    "endpointURL": {
+        "type": "Property",
+        "value": "https://analytics.aqualogist.com"
+    },
+    "endpointDescription": {
+        "type": "Property",
+        "value": "Access to a number of water analytics algorithms, via a Web interface or via a RESTful API"
+    },
+    "accessRights": {
+        "type": "Property",
+        "value": "Copyright at PHOEBE Research and Innovation Ltd. The app has been designed and developed by PHOEBE. It uses EPANET models; the tool is released under the MIT license (https://github.com/OpenWaterAnalytics/EPANET/blob/dev/LICENSE). Also, the majority of the implemented algorithms have been already published by KIOS-UCY or third researchers in academic journals. The implementation of the algorithms, as well as the Web-based digital twin platform comprise proprietary software of PHOEBE."
+    },
+    "license": {
+        "type": "Property",
+        "value": "Proprietary"
+    },
+    "contactPoint": {
+        "type": "Property",
+        "value": "info@phoebeinnovations.com (for the attention of Dr George Milis)"
+    },
+    "isReferencedBy": {
+        "type": "Property",
+        "value": "https://www.dropbox.com/scl/fi/d3zt8e9ujofmc91oayi2k/D3_3-DigiWATER-Integrated-MVP-and-Users-Manual-v1_0.pdf?rlkey=fem4scqu0seawyg17ynowmylh&dl=0"
+    },
+    "keyword": {
+        "type": "Property",
+        "value": [
+            "water analytics", 
+            "state estimation",
+            "smart water systems",
+            "machine learning",
+            "leakage detection",
+            "contamination detection",
+            "algorithms",
+            "what-if scenarios"
+        ]
+    },
+    "language": {
+        "type": "Property",
+        "value": "English"
+    },
+    "publisher": {
+        "type": "Property",
+        "object": "urn:ngsi-ld:Company:PHOEBE_Innovations" 
+    },
+    "theme": {
+        "type": "Property",
+        "value": "Digital Twin, Application Layer."
+    },
+    "operationSpace": {
+        "type": "GeoProperty",
+        "value": {
+            "type": "Point",
+            "coordinates": [ 33.03794, 34.68406 ]
+        }
+    },
+    "version": {
+        "type": "Property",
+        "value": 1.0
+    },
+    "algorithm": {
+        "type": "Property",
+        "value": "Multiple algorithms, as can be seen in the reference"
+    },
+    "mlFramework": {
+        "type": "Property",
+        "description": "Python ML libraries"
+    },
+    "inputEntityTypes": {
+        "type": "Property",
+        "value": "EPANET network entities"
+    },
+    "inputAttributes": {
+        "type": "Property",
+        "value": "water flow, water pressure, water chlorine residual, tank heads, consumers' demands, etc."
+    },
+    "outputAttributes": {
+        "type": "Property",
+        "value": "multiple, textual or on the water system network map"
+    }
+}
