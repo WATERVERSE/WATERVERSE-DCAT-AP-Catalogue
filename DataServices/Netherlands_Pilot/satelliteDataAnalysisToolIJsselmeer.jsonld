@@ -1,0 +1,115 @@
+{
+    "id": "urn:ngsi-ld:DataService:SatelliteBasedDataAnalysisTool:IJsselmeer",
+    "type": "DataService",
+    "title": {
+        "type": "Property",
+        "value": "Satellite-based Data Analysis Tool"
+    },
+    "description": {
+        "type": "Property",
+        "value": "A monitoring tool that analyses satellite imagery to estimate Chl-a concentration levels in algal blooms of inland waters and provides JSON metadata based on the EOSatelliteImagery datamodel."
+    },
+    "servesDataset": {
+        "type": "Relationship",
+        "object": "urn:ngsi-ld:Dataset:id:WATERVERSE_PilotNL_IJsselmeer_SateliteEOData:124f187f-4487-4734-99ce-2cf79a8b7939"
+    },
+    "accessRights": {
+        "type": "Property",
+        "value": "Restricted access to authorized users within the Waterverse ecosystem."
+    },
+    "license": {
+        "type": "Property",
+        "value": "CC BY-NC-ND"
+    },
+    "conformsTo": {
+        "type": "Property",
+        "value": "NGSI-LD"
+    },
+    "contactPoint": {
+        "type": "Property",
+        "value": "vcard:email:gantzoulatos@iti.gr"
+    },
+    "keyword": {
+        "type": "Property",
+        "value": [
+            "satellite data",
+            "chlorophyll-a",
+            "water source",
+            "location",
+            "analysis"
+        ]
+    },
+    "language": {
+        "type": "Property",
+        "value": "en"
+    },
+    "publisher": {
+        "type": "Relationship",
+        "object": "urn:ngsi-ld:Company:CERTH"
+    },
+    "theme": {
+        "type": "Property",
+        "value": [
+            "Environment",
+            "Water"
+        ]
+    },
+    "operationSpace": {
+        "type": "GeoProperty",
+        "value": {
+            "type": "Polygon",
+            "coordinates": [
+				[
+				  [
+					5.098329427903138,
+					52.858603136616125
+				  ],
+				  [
+					5.098329427903138,
+					52.52195831979597
+				  ],
+				  [
+					5.8512783449628785,
+					52.52195831979597
+				  ],
+				  [
+					5.8512783449628785,
+					52.858603136616125
+				  ],
+				  [
+					5.098329427903138,
+					52.858603136616125
+				  ]
+				]
+            ]
+        }
+    },
+    "version": {
+        "type": "Property",
+        "value": 1.0
+    },
+    "algorithm": {
+        "type": "Property",
+        "value": "FFN"
+    },
+    "mlFramework": {
+        "type": "string",
+        "description": "provided by Copernicus"
+    },
+    "inputEntityTypes": {
+        "type": "Property",
+        "value": "EOProduct"
+    },
+    "inputAttributes": {
+        "type": "Property",
+        "value": "temperature, salinity"
+    },
+    "outputAttributes": {
+        "type": "Property",
+        "value": "id, type, description, dataProvider, analysisType, areaServed, contentInformation, localServerPath, productBbox, processedBbox, storageFormat, productFormat, productType, operationalMode, productID, productURL, sensingDate, dateCreated, orbitNumber, platformName, @context"
+    },
+    "@context": [
+        "https://easy-global-market.github.io/ngsild-api-data-models/dcat/jsonld-contexts/dcat-compound.jsonld",
+        "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context-v1.8.jsonld"
+    ]
+}
