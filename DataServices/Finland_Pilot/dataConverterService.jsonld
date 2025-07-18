@@ -1,0 +1,76 @@
+{
+    "id": "urn:ngsi-ld:DataService:FIWAREDataConverter:FI",
+    "type": "DataService",
+    "title": {
+        "type": "Property",
+        "value": "FIWARE Data Converters"
+    },
+    "description": {
+        "type": "Property",
+        "value": "Converts JSON datasets from the Finland Pilot to NGSI-LD format for data harmonization."
+    },
+    "endpointURL": {
+        "type": "Property",
+        "value": "http://160.40.53.22:8080/dataconverter"
+    },
+    "endpointDescription": {
+        "type": "Property",
+        "value": "Accepts POST requests with JSON datasets from the Finland Pilot and returns harmonized data in NGSI-LD format via HTTP."
+    },
+    "accessRights": {
+        "type": "Property",
+        "value": "Restricted access to authorized users within the Waterverse ecosystem."
+    },
+    "license": {
+        "type": "Property",
+        "value": "Apache License 2.0"
+    },
+    "conformsTo": {
+        "type": "Property",
+        "value": "NGSI-LD"
+    },
+    "contactPoint": {
+        "type": "Property",
+        "value": "vcard:fn:Waterverse Team; vcard:email:waterverse@iti.gr"
+    },
+    "isReferencedBy": {
+        "type": "Property",
+        "value": "http://dataportal-waterverse.opsi.lecce.it/"
+    },
+    "keyword": {
+        "type": "Property",
+        "value": "NGSI-LD, JSON, data harmonization, Waterverse, data conversion, Finland Pilot"
+    },
+    "language": {
+        "type": "Property",
+        "value": "en"
+    },
+    "publisher": {
+        "type": "Property",
+        "object": "urn:ngsi-ld:Company:CERTH"
+    },
+    "theme": {
+        "type": "Property",
+        "value": "Data Harmonization, Waterverse, FIWARE Smart Data Models, NGSI-LD Conversion, Finland Pilot"
+    },
+    "version": {
+        "type": "Property",
+        "value": 1.0
+    },
+    "algorithm": {
+        "type": "Property",
+        "value": "JSON to NGSI-LD Mapping"
+    },
+    "inputEntityTypes": {
+        "type": "Property",
+        "value": "Variable JSON"
+    },
+    "outputAttributes": {
+        "type": "Property",
+        "value": "id, type, location, @context, harmonizedData"
+    },
+    "@context": [
+        "https://easy-global-market.github.io/ngsild-api-data-models/dcat/jsonld-contexts/dcat-compound.jsonld",
+        "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context-v1.8.jsonld"
+    ]
+}
