@@ -1,5 +1,5 @@
 {
-    "id": "urn:ngsi-ld:DataService:FIWAREDataConverters",
+    "id": "urn:ngsi-ld:DataService:FIWAREDataConverter:CY",
     "type": "DataService",
     "title": {
         "type": "Property",
