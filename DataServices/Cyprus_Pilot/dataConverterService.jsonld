@@ -7,7 +7,7 @@
     },
     "description": {
         "type": "Property",
-        "value": "Converts JSON datasets to NGSI-LD format for data harmonization."
+        "value": "Converts JSON datasets from the Cyprus Pilot to NGSI-LD format for data harmonization."
     },
     "endpointURL": {
         "type": "Property",
@@ -15,7 +15,7 @@
     },
     "endpointDescription": {
         "type": "Property",
-        "value": "Accepts POST requests with JSON datasets and returns harmonized data in NGSI-LD format via HTTP."
+        "value": "Accepts POST requests with JSON datasets from the Cyprus Pilot and returns harmonized data in NGSI-LD format via HTTP."
     },
     "accessRights": {
         "type": "Property",
@@ -31,10 +31,7 @@
     },
     "contactPoint": {
         "type": "Property",
-        "value": [
-            "vcard:fn:Waterverse Team",
-            "vcard:email:waterverse@iti.gr"
-        ]
+        "value": "vcard:fn:Waterverse Team; vcard:email:waterverse@iti.gr"
     },
     "isReferencedBy": {
         "type": "Property",
@@ -42,7 +39,7 @@
     },
     "keyword": {
         "type": "Property",
-        "value": "NGSI-LD, JSON, data harmonization, Waterverse, data conversion"
+        "value": "NGSI-LD, JSON, data harmonization, Waterverse, data conversion, Cyprus Pilot"
     },
     "language": {
         "type": "Property",
@@ -54,12 +51,7 @@
     },
     "theme": {
         "type": "Property",
-        "value": [
-            "Data Harmonization",
-            "Waterverse",
-            "FIWARE Smart Data Models",
-            "NGSI-LD Conversion"
-        ]
+        "value": "Data Harmonization, Waterverse, FIWARE Smart Data Models, NGSI-LD Conversion, Cyprus Pilot"
     },
     "version": {
         "type": "Property",
@@ -71,11 +63,11 @@
     },
     "inputEntityTypes": {
         "type": "Property",
-        "value": "Variable JSON file"
+        "value": "Variable JSON"
     },
     "outputAttributes": {
         "type": "Property",
-        "value": "id, type, location, harmonizedData"
+        "value": "id, type, location, @context, harmonizedData"
     },
     "@context": [
         "https://easy-global-market.github.io/ngsild-api-data-models/dcat/jsonld-contexts/dcat-compound.jsonld",
