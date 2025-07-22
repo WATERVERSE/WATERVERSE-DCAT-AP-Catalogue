@@ -1,0 +1,76 @@
+{
+    "id": "urn:ngsi-ld:DataService:DataModelFAIRnessEvaluator",
+    "type": "DataService",
+    "title": {
+        "type": "Property",
+        "value": "Data Model FAIRness evaluator"
+    },
+    "description": {
+        "type": "Property",
+        "value": "Evaluates Data Models for WATERVERSE FAIR compliance using geolocation validation"
+    },
+    "endpointURL": {
+        "type": "Property",
+        "value": "http://160.40.53.22:8080/api/validate"
+    },
+    "endpointDescription": {
+        "type": "Property",
+        "value": "Accepts POST requests with Data Model JSON via API, returns FAIR compliance results."
+    },
+    "accessRights": {
+        "type": "Property",
+        "value": "Restricted access to authorized users within the Waterverse ecosystem."
+    },
+    "license": {
+        "type": "Property",
+        "value": "Apache License 2.0"
+    },
+    "conformsTo": {
+        "type": "Property",
+        "value": "NGSI-LD, FAIR"
+    },
+    "contactPoint": {
+        "type": "Property",
+        "value": "vcard:fn:Waterverse Team; vcard:email:waterverse@iti.gr"
+    },
+    "isReferencedBy": {
+        "type": "Property",
+        "value": "http://dataportal-waterverse.opsi.lecce.it/"
+    },
+    "keyword": {
+        "type": "Property",
+        "value": "NGSI-LD, FAIR principles, Data Model validation, WATERVERSE, data compliance"
+    },
+    "language": {
+        "type": "Property",
+        "value": "en"
+    },
+    "publisher": {
+        "type": "Property",
+        "object": "urn:ngsi-ld:Company:CERTH" 
+    },
+    "theme": {
+        "type": "Property",
+        "value": "Data Model Evaluation, WATERVERSE FAIR, NGSI-LD, Data Compliance"
+    },
+    "version": {
+        "type": "Property",
+        "value": 1.0
+    },
+    "algorithm": {
+        "type": "Property",
+        "value": "FAIR Metrics Evaluation"
+    },
+    "inputEntityTypes": {
+        "type": "Property",
+        "value": "JSON or JSON-LD representation of Data Models"
+    },
+    "inputAttributes": {
+        "type": "Property",
+        "value": "schemaProperties, geolocation"
+    },
+    "outputAttributes": {
+        "type": "Property",
+        "value": "JSONfairnessResult"
+    }
+}
