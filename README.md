@@ -36,90 +36,117 @@ is provided following the **DCAT-AP** specification.
 | Dataset name  |  Metadata URL | 
 |-----------|----------------|
 | **WATERVERSE_PilotCY_SCADA_ConsumerReports_V0.1** | [Link](Datasets/Cyprus_Pilot/WATERVERSE_PilotCY_SCADA_ConsumerReports_V0.1_metadata.json)| 
-| **WATERVERSE_PilotCY_Sensing_SateliteEOData_V0.1**  | [Link](Datasets/Cyprus_Pilot/WATERVERSE_PilotCY_Sensing_SateliteEOData_V0.1_metadata.json) | 
 | **WATERVERSE_PilotCY_SCADA_DistrictMeteringAreaData_V0.1**  | [Link](Datasets/Cyprus_Pilot/WATERVERSE_PilotCY_SCADA_DistrictMeteringAreaData_V0.1_metadata.json) | 
 | **WATERVERSE_PilotCY_SCADA_SmartMeteringWaterConsumptionDemands_V0.1**  | [Link](Datasets/Cyprus_Pilot/WATERVERSE_PilotCY_SCADA_SmartMeteringWaterConsumptionDemands_V0.1_metadata.json) | 
-
-## German Pilot
-
-| Dataset name    | Metadata URL | 
-|-----------|----------------|
-| **WATERVERSE_PilotDE_Etteln_precipitation_V0.1**    |  [Link](Datasets/German_Pilot/WATERVERSE_PilotDE_Etteln_precipitation_V0.1_metadata.json) | 
-| **WATERVERSE_PilotDE_Etteln_Groundwaterlevel_V0.1**    |  [Link](Datasets/German_Pilot/WATERVERSE_PilotDE_Etteln_Groundwaterlevel_V0.1_metadata.json) | 
-| **WATERVERSE_PilotDE_Etteln_Soilmoisture_V0.1**    |  [Link](Datasets/German_Pilot/WATERVERSE_PilotDE_Etteln_Soilmoisture_V0.1_metadata.json) | 
-| **WATERVERSE_PilotDE_NiRA_PrecipitationForecast_V0.1**    |  [Link](Datasets/German_Pilot/WATERVERSE_PilotDE_NiRA_PrecipitationForecast_V0.1_metadata.json) | 
-| **WATERVERSE_PilotDE_Etteln_riverlevel_V0.1**    |  [Link](Datasets/German_Pilot/WATERVERSE_PilotDE_Etteln_riverlevel_V0.1_metadata.json) | 
-
+| **WATERVERSE_PilotCY_Sensing_SateliteEOData_V0.1**  | [Link](Datasets/Cyprus_Pilot/WATERVERSE_PilotCY_Sensing_SateliteEOData_V0.1_metadata.json) | 
 
 ## Finnish Pilot
 
 | Dataset name    | Metadata URL | 
 |-----------|----------------|
 | **WATERVERSE_DP05_DataClusterability_ClusterabilityScore_V0.1**    |  [Link](Datasets/Finnish_Pilot/WATERVERSE_DP05_DataClusterability_ClusterabilityScore_V0.1_metadata.json)| 
-| **WATERVERSE_PilotFI_KEYAQUA_WaterDuct_V0.1**    |  [Link](Datasets/Finnish_Pilot/WATERVERSE_PilotFI_KEYAQUA_WaterDuct_V0.1_metadata.json)|
-| **WATERVERSE_PilotFI_KEYAQUA_WaterNode_V0.1**    |  [Link](Datasets/Finnish_Pilot/WATERVERSE_PilotFI_KEYAQUA_WaterNode_V0.1_metadata.json)|
-| **WATERVERSE_PilotFI_KEYAQUA_WaterDuctConditions_V0.1**    |  [Link](Datasets/Finnish_Pilot/WATERVERSE_PilotFI_KEYAQUA_WaterDuctConditions_V0.1_metadata.json)|  
-| **WATERVERSE_PilotFI_KEYAQUA_SewerPumpingStation_V0.1**    |  [Link](Datasets/Finnish_Pilot/WATERVERSE_PilotFI_KEYAQUA_SewerPumpingStation_V0.1_metadata.json)|
-| **WATERVERSE_PilotFI_KEYAQUA_SewerValve_V0.1**    |  [Link](Datasets/Finnish_Pilot/WATERVERSE_PilotFI_KEYAQUA_SewerValve_V0.1_metadata.json)|
 | **WATERVERSE_PilotFI_KEYAQUA_FlowMeter_V0.1**    |  [Link](Datasets/Finnish_Pilot/WATERVERSE_PilotFI_KEYAQUA_FlowMeter_V0.1_metadata.json)|
 | **WATERVERSE_PilotFI_KEYAQUA_FlowMeterReading_V0.1**    |  [Link](Datasets/Finnish_Pilot/WATERVERSE_PilotFI_KEYAQUA_FlowMeterReading_V0.1_metadata.json)|
 | **WATERVERSE_PilotFI_KEYAQUA_SewerManHole_V0.1**    |  [Link](Datasets/Finnish_Pilot/WATERVERSE_PilotFI_KEYAQUA_SewerManHole_V0.1_metadata.json)|
+| **WATERVERSE_PilotFI_KEYAQUA_SewerPumpingStation_V0.1**    |  [Link](Datasets/Finnish_Pilot/WATERVERSE_PilotFI_KEYAQUA_SewerPumpingStation_V0.1_metadata.json)|
+| **WATERVERSE_PilotFI_KEYAQUA_SewerValve_V0.1**    |  [Link](Datasets/Finnish_Pilot/WATERVERSE_PilotFI_KEYAQUA_SewerValve_V0.1_metadata.json)|
+| **WATERVERSE_PilotFI_KEYAQUA_WaterDuct_V0.1**    |  [Link](Datasets/Finnish_Pilot/WATERVERSE_PilotFI_KEYAQUA_WaterDuct_V0.1_metadata.json)|
+| **WATERVERSE_PilotFI_KEYAQUA_WaterDuctConditions_V0.1**    |  [Link](Datasets/Finnish_Pilot/WATERVERSE_PilotFI_KEYAQUA_WaterDuctConditions_V0.1_metadata.json)|
+| **WATERVERSE_PilotFI_KEYAQUA_WaterNode_V0.1**    |  [Link](Datasets/Finnish_Pilot/WATERVERSE_PilotFI_KEYAQUA_WaterNode_V0.1_metadata.json)|
 
+## German Pilot
+
+| Dataset name    | Metadata URL | 
+|-----------|----------------|
+| **WATERVERSE_PilotDE_Etteln_Groundwaterlevel_V0.1**    |  [Link](Datasets/German_Pilot/WATERVERSE_PilotDE_Etteln_Groundwaterlevel_V0.1_metadata.json) |
+| **WATERVERSE_PilotDE_Etteln_precipitation_V0.1**    |  [Link](Datasets/German_Pilot/WATERVERSE_PilotDE_Etteln_precipitation_V0.1_metadata.json) | 
+| **WATERVERSE_PilotDE_Etteln_riverlevel_V0.1**    |  [Link](Datasets/German_Pilot/WATERVERSE_PilotDE_Etteln_riverlevel_V0.1_metadata.json) | 
+| **WATERVERSE_PilotDE_Etteln_Soilmoisture_V0.1**    |  [Link](Datasets/German_Pilot/WATERVERSE_PilotDE_Etteln_Soilmoisture_V0.1_metadata.json) | 
+| **WATERVERSE_PilotDE_NiRA_PrecipitationForecast_V0.1**    |  [Link](Datasets/German_Pilot/WATERVERSE_PilotDE_NiRA_PrecipitationForecast_V0.1_metadata.json) | 
 
 ## Netherlands Pilot
 
 | Dataset name    | Metadata URL | 
 |-----------|---------------|
 | **WATERVERSE_PilotNL_KNMI_WeatherData_V0.1**    | [Link](Datasets/Netherlands_Pilot/WATERVERSE_PilotNL_KNMI_WeatherData_V0.1_metadata.json) | 
-| **WATERVERSE_PilotNL_RWS_WaterQualityData_V0.1**   | [Link](Datasets/Netherlands_Pilot/WATERVERSE_PilotNL_RWS_WaterQualityData_V0.1_metadata.json)| 
 | **WATERVERSE_PilotNL_PWN_Andijk_SCADA_V0.1** | [Link](Datasets/Netherlands_Pilot/WATERVERSE_PilotNL_PWN_Andijk_SCADA_V0.1_metadata.json)     | 
 | **WATERVERSE_PilotNL_PWN_Cl-PredictionModel_Cl-Concentrations_V0.1** | [Link](Datasets/Netherlands_Pilot/WATERVERSE_PilotNL_PWN_Cl-PredictionModel_Cl-Concentrations_V0.1_metadata.json)     | 
+| **WATERVERSE_PilotNL_RWS_WaterQualityData_V0.1**   | [Link](Datasets/Netherlands_Pilot/WATERVERSE_PilotNL_RWS_WaterQualityData_V0.1_metadata.json)| 
 
 ## Spanish Pilot
 
 | Dataset name    | Metadata URL | 
 |-----------|----------------|
+| **WATERVERSE_PilotSP_DATAHUB_Energy_V0.1**   |  [Link](Datasets/Spanish_Pilot/WATERVERSE_PilotSP_DATAHUB_Energy_V0.1_metadata.json)         | 
 | **WATERVERSE_PilotSP_DATAHUB_HydraulicEfficency_V0.1**   |  [Link](Datasets/Spanish_Pilot/WATERVERSE_PilotSP_DATAHUB_HydraulicEfficency_V0.1_metadata.json)         | 
 | **WATERVERSE_PilotSP_DATAHUB_LeaksM_V0.1**   |  [Link](Datasets/Spanish_Pilot/WATERVERSE_PilotSP_DATAHUB_LeaksM_V0.1_metadata.json)         | 
-| **WATERVERSE_PilotSP_DATAHUB_Energy_V0.1**   |  [Link](Datasets/Spanish_Pilot/WATERVERSE_PilotSP_DATAHUB_Energy_V0.1_metadata.json)         | 
 | **WATERVERSE_PilotSP_DATAHUB_WaterSourcesD_V0.1**   |  [Link](Datasets/Spanish_Pilot/WATERVERSE_PilotSP_DATAHUB_WaterSourcesD_V0.1_metadata.json)         | 
 | **WATERVERSE_PilotSP_DATAHUB_WaterSourcesM_V0.1**   |  [Link](Datasets/Spanish_Pilot/WATERVERSE_PilotSP_DATAHUB_WaterSourcesM_V0.1_metadata.json)         | 
-| **WATERVERSE_PilotSP_DM_WeekConsumptionProfile_V0.1**   |  [Link](Datasets/Spanish_Pilot/WATERVERSE_PilotSP_DM_WeekConsumptionProfile_V0.1_metadata.json)         | 
 | **WATERVERSE_PilotSP_DM_SmartMeteringFlow_V0.1**   |  [Link](Datasets/Spanish_Pilot/WATERVERSE_PilotSP_DM_SmartMeteringFlow_V0.1_metadata.json)         | 
-
+| **WATERVERSE_PilotSP_DM_WeekConsumptionProfile_V0.1**   |  [Link](Datasets/Spanish_Pilot/WATERVERSE_PilotSP_DM_WeekConsumptionProfile_V0.1_metadata.json)         | 
 
 ## UK Pilot
 
 | Dataset name    | Metadata URL | 
 |-----------|---------------|
-| **WATERVERSE_PilotUK_EA_RiverLevel_V0.1**    | [Link](Datasets/UK_Pilot/WATERVERSE_PilotUK_EA_RiverLevel_V0.1_metadata.json) | 
 | **WATERVERSE_PilotUK_EA_Rainfall_V0.1**   | [Link](Datasets/UK_Pilot/WATERVERSE_PilotUK_EA_Rainfall_V0.1_metadata.json) | 
+| **WATERVERSE_PilotUK_EA_RiverLevel_V0.1**    | [Link](Datasets/UK_Pilot/WATERVERSE_PilotUK_EA_RiverLevel_V0.1_metadata.json) | 
 | **WATERVERSE_PilotUK_MeteorCloud_WaterQualityMonitor_V0.1** | [Private](Datasets/UK_Pilot/WATERVERSE_PilotUK_MeteorCloud_WaterQualityMonitor_V0.1_metadata.json) | 
-| **WATERVERSE_PilotUK_SCADA_Point_Hierarcy_V0.1**    | [Link](Datasets/UK_Pilot/WATERVERSE_PilotUK_SCADA_Point_Hierarcy_V0.1_metadata.json) | 
 | **WATERVERSE_PilotUK_SCADA_Analogue_V0.1**    | [Link](Datasets/UK_Pilot/WATERVERSE_PilotUK_SCADA_Analogue_V0.1_metadata.json) | 
-| **WATERVERSE_PilotUK_SCADA_Spill_Events_V0.1**    | [Link](Datasets/UK_Pilot/WATERVERSE_PilotUK_SCADA_Spill_Events_V0.1_metadata.json) | 
 | **WATERVERSE_PilotUK_SCADA_Digital_V0.1**    | [Link](Datasets/UK_Pilot/WATERVERSE_PilotUK_SCADA_Digital_V0.1_metadata.json) | 
+| **WATERVERSE_PilotUK_SCADA_Point_Hierarcy_V0.1**    | [Link](Datasets/UK_Pilot/WATERVERSE_PilotUK_SCADA_Point_Hierarcy_V0.1_metadata.json) | 
+| **WATERVERSE_PilotUK_SCADA_Spill_Events_V0.1**    | [Link](Datasets/UK_Pilot/WATERVERSE_PilotUK_SCADA_Spill_Events_V0.1_metadata.json) | 
 
 # DCAT-AP Data Service classes
 
+## Cyprus Pilot 
+
+| Data Service name    | Data Service URL | 
+|-----------|----------------|
+| **Anonymization service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/Cyprus_Pilot/anonymizationService.jsonld)     | 
+| **Data Converter service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/Cyprus_Pilot/dataConverterService.jsonld)     | 
+| **Satellite data analysis tool for Germasogeia**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/Cyprus_Pilot/satelliteDataAnalysisToolGermasogeia.jsonld)     | 
+| **Satellite data analysis tool for Kouris**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/Cyprus_Pilot/satelliteDataAnalysisToolKouris.jsonld)     | 
+| **Water analytics service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/Cyprus_Pilot/waterAnalyticsService.jsonld)     | 
+
+## Finish Pilot
+
+| Data Service name    | Data Service URL | 
+|-----------|----------------|
+| **Data Converter service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/Finland_Pilot/dataConverterService.jsonld)     | 
+
 ## German Pilot 
 
-| Entity name    | Data Service URL | 
+| Data Service name    | Data Service URL | 
 |-----------|----------------|
+| **Data Converter service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/German_Pilot/dataConverterService.jsonld)     | 
 | **Flood prediction service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/tree/main/DataServices/German_Pilot/floodPredictionService.jsonld)     | 
 
 ## Netherlands Pilot 
 
-| Entity name    | Data Service URL | 
+| Data Service name    | Data Service URL | 
 |-----------|----------------|
 | **Chloride prediction service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/tree/main/DataServices/Netherlands_Pilot/chloridePredictionService.jsonld)     | 
+| **Satellite data analysis tool for IJsselmeer**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/Netherlands_Pilot/satelliteDataAnalysisToolIJsselmeer.jsonld)     | 
 
-## Cyprus Pilot 
+## Spanish Pilot
 
-| Entity name    | Data Service URL | 
+| Data Service name    | Data Service URL | 
 |-----------|----------------|
-| **Anonymization service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/Cyprus_Pilot/anonymizationService.jsonld)     | 
+| **Data Converter service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/Spain_Pilot/dataConverterService.jsonld)     | 
+| **Data Quality Assessment service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/Spain_Pilot/dataQualityAssessmentService.jsonld)     | 
 
+## UK Pilot
+
+| Data Service name    | Data Service URL | 
+|-----------|----------------|
+| **Data Converter service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/UK_Pilot/dataConverterService.jsonld)     | 
+
+## Generic services
+
+| Data Service name    | Data Service URL | 
+|-----------|----------------|
+| **Data Model FAIRness Evaluator service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/Generic_Services/S09_DataModelFAIRnessEvaluator.json)     | 
 
 
 # Entity Data Catalogue
@@ -131,16 +158,6 @@ is provided following the **DCAT-AP** specification.
 | **Consumer Reports**    |  [Link](https://github.com/smart-data-models/dataModel.WaterConsumption/tree/master/WaterConsumptionObserved)    | 
 | **Satelite Data**    |  [Link](https://github.com/smart-data-models/dataModel.SatelliteImagery/blob/master/EOGeoDataLayer)    |
 | **District Metering Area (DMA)**    |  [Link](https://github.com/smart-data-models/dataModel.WaterDistribution/tree/master/WaterDistributionNetwork)    |
-
-## German Pilot 
-
-| Entity name    | Data Model URL | 
-|-----------|----------------|
-| **Rain gauge observations**    |  [Link](https://github.com/smart-data-models/dataModel.Environment/tree/master/WaterObserved)     | 
-| **River level observations**    |  [Link](https://github.com/smart-data-models/dataModel.Environment/tree/master/WaterObserved)     | 
-| **Soil moisture**    |  [Link](https://github.com/smart-data-models/dataModel.Agrifood/tree/master/AgriSoil)   | 
-| **Groundwater level**    |  [Link](https://github.com/smart-data-models/dataModel.Environment/tree/master/PhreaticObserved)   | 
-| **Flood Model Data**    |  [Link](https://github.com/smart-data-models/dataModel.Environment/tree/master/FloodMonitoring)   | 
 
 ## Finnish Pilot 
 
@@ -154,6 +171,15 @@ is provided following the **DCAT-AP** specification.
 | **FY-FLOW-METERS**    |  [Link](https://github.com/smart-data-models/dataModel.WaterDistributionManagementEPANET/tree/master/Junction)     |
 | **FY-FLOW-METERS-READING**    |  [Link](https://github.com/smart-data-models/dataModel.WaterDistributionManagementEPANET/tree/master/Junction)     |
 
+## German Pilot 
+
+| Entity name    | Data Model URL | 
+|-----------|----------------|
+| **Rain gauge observations**    |  [Link](https://github.com/smart-data-models/dataModel.Environment/tree/master/WaterObserved)     | 
+| **River level observations**    |  [Link](https://github.com/smart-data-models/dataModel.Environment/tree/master/WaterObserved)     | 
+| **Soil moisture**    |  [Link](https://github.com/smart-data-models/dataModel.Agrifood/tree/master/AgriSoil)   | 
+| **Groundwater level**    |  [Link](https://github.com/smart-data-models/dataModel.Environment/tree/master/PhreaticObserved)   | 
+| **Flood Model Data**    |  [Link](https://github.com/smart-data-models/dataModel.Environment/tree/master/FloodMonitoring)   | 
 
 ## Netherlands Pilot 
 
@@ -170,7 +196,6 @@ is provided following the **DCAT-AP** specification.
 |-----------|----------------|
 | **Snowflake Data SQL-1**    |  [Link](https://github.com/smart-data-models/dataModel.Device/tree/master/DeviceMeasurement)     | 
 
-
 ## UK Pilot 
 
 | Entity name    | Data Model URL | 
@@ -178,8 +203,6 @@ is provided following the **DCAT-AP** specification.
 | **environment_agency_data**    |  [Link](https://github.com/smart-data-models/dataModel.Environment/tree/master/EnvironmentObserved)     | 
 | **water_quality_observation_meteor_cloud**    |  [Link](https://github.com/smart-data-models/dataModel.WaterQuality/tree/master/WaterQualityObserved)    | 
 
-
 # License
 
 These scripts are licensed under Apache License 2.0.
-
