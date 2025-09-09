@@ -11,7 +11,7 @@
     },
     "endpointURL": {
         "type": "Property",
-        "value": "http://160.40.53.22:8080/dataconverter"
+        "value": "/dataconverter"
     },
     "endpointDescription": {
         "type": "Property",
@@ -73,4 +73,5 @@
         "https://easy-global-market.github.io/ngsild-api-data-models/dcat/jsonld-contexts/dcat-compound.jsonld",
         "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context-v1.8.jsonld"
     ]
+
 }
