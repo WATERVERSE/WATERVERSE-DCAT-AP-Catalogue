@@ -1,5 +1,5 @@
 {
-    "id": "urn:ngsi-ld:DataService:dataValidationReconciliationService:FI",
+    "id": "urn:ngsi-ld:DataService:dataValidationReconciliationService:UK",
     "type": "DataService",
     "title": {
         "type": "Property",
@@ -43,7 +43,7 @@
     },
     "theme": {
         "type": "Property",
-        "value": "Data Processing, Waterverse, Data Quality Control, Finland Pilot"
+        "value": "Data Processing, Waterverse, Data Quality Control, UK Pilot"
     },
     "version": {
         "type": "Property",
