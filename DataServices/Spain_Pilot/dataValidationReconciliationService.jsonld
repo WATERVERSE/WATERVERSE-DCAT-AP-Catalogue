@@ -11,7 +11,7 @@
     },
     "accessRights":{
         "type": "Property",
-        "value": "Copyright at KWR Water Reesearch Institute. The service has been designed and developed by KWR. It uses various Python packages that have the following licenses - BSD 3-Clause License, Apache License 2.0, LGPL-3.0 License, MIT License. The implementation of the algorithms, as well as the Web-based digital twin platform comprise proprietary software of PHOEBE."
+        "value": "Copyright at KWR Water Research Institute. The service has been designed and developed by KWR. It uses various Python packages that have the following licenses - BSD 3-Clause License, Apache License 2.0, LGPL-3.0 License, MIT License. The implementation of the algorithms, as well as the Web-based digital twin platform comprise proprietary software of PHOEBE."
     },
     "license":{
         "type": "Property",
@@ -19,7 +19,7 @@
     },
     "contactPoint": {
         "type": "Property",
-        "value": "siddharth.seshan@kwrwater.nl (for the attention of Siddharth Seshan."
+        "value": "siddharth.seshan@kwrwater.nl (for the attention of Siddharth )."
     },
     "conformsTo": {
         "type": "Property",
@@ -63,7 +63,7 @@
     },
     "outputAttributes": {
         "type": "Property",
-        "value": "id, type, observedAt, specific property containing the raw time series sensor value (eg. temperature, flow), specific attribute containing the validated data (eg. temperatureValidated, flowValidated."
+        "value": "Specific attribute containing the validated data (eg. temperatureValidated, flowValidated)."
     },
 
     "@context": [

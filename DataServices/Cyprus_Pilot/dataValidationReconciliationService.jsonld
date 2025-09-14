@@ -63,7 +63,7 @@
     },
     "outputAttributes": {
         "type": "Property",
-        "value": "specific attribute containing the validated data (eg. temperatureValidated, flowValidated)."
+        "value": "Specific attribute containing the validated data (eg. temperatureValidated, flowValidated)."
     },
 
     "@context": [
