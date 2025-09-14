@@ -1,0 +1,74 @@
+{
+    "id": "urn:ngsi-ld:DataService:dataValidationReconciliationService:UK",
+    "type": "DataService",
+    "title": {
+        "type": "Property",
+        "value": "Data Validation and Reconciliation Service"
+    },
+    "description": {
+        "type": "Property",
+        "value": "An NGSI-LD compliant data service specicialised in conducting data validation for time series based sensor data. The service contains anomaly detection methods, ranging from simple statistical methods to ML-based approaches,  as well as data correction techniques, that ranges from forward filling and using predictions from trained models as a replacement."
+    },
+    "accessRights":{
+        "type": "Property",
+        "value": "Copyright at KWR Water Research Institute. The service has been designed and developed by KWR. It uses various Python packages that have the following licenses - BSD 3-Clause License, Apache License 2.0, LGPL-3.0 License, MIT License. The implementation of the algorithms, as well as the Web-based digital twin platform comprise proprietary software of PHOEBE."
+    },
+    "license":{
+        "type": "Property",
+        "value": "Proprietary"
+    },
+    "contactPoint": {
+        "type": "Property",
+        "value": "siddharth.seshan@kwrwater.nl (for the attention of Siddharth Seshan)."
+    },
+    "conformsTo": {
+        "type": "Property",
+        "value": "NGSI-LD"
+    },
+    "isReferencedBy": {
+        "type": "Property",
+        "value": "https://portal-waterverse.opsi.lecce.it/"
+    },
+    "keyword": {
+        "type": "Property",
+        "value": "Data Validation, Data Reconciliation, Anomaly Detection, Time Series, Sensor Data"
+    },
+    "language": {
+        "type": "Property",
+        "value": "en"
+    },
+    "publisher": {
+        "type": "Property",
+        "value": "urn:ngsi-ld:Company:KWR"
+    },
+    "theme": {
+        "type": "Property",
+        "value": "Data Processing, Waterverse, Data Quality Control, UK Pilot"
+    },
+    "version": {
+        "type": "Property",
+        "value": "1.0."
+    },
+    "inputEntityTypes": {
+        "type": "Property",
+        "value": "Variable JSON"
+    },
+    "inputAttributes": {
+        "type": "Property",
+        "value": "id, type, observedAt, specific property containing the raw time series sensor value (eg. temperature, flow)."
+    },
+    "outputEntityTypes": {
+        "type": "Property",
+        "value": "Variable JSON"
+    },
+    "outputAttributes": {
+        "type": "Property",
+        "value": "Specific attribute containing the validated data (eg. temperatureValidated, flowValidated)."
+    },
+
+    "@context": [
+        "https://easy-global-market.github.io/ngsild-api-data-models/dcat/jsonld-contexts/dcat-compound.jsonld",
+        "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context-v1.8.jsonld"
+    ]
+
+}
