@@ -1,5 +1,5 @@
 {
-    "id": "urn:ngsi-ld:DataService:dataValidationReconciliationService:FI",
+    "id": "urn:ngsi-ld:DataService:dataValidationReconciliationService:CY",
     "type": "DataService",
     "title": {
         "type": "Property",
@@ -11,7 +11,7 @@
     },
     "accessRights":{
         "type": "Property",
-        "value": "Copyright at KWR Water Reesearch Institute. The service has been designed and developed by KWR. It uses various Python packages that have the following licenses - BSD 3-Clause License, Apache License 2.0, LGPL-3.0 License, MIT License. The implementation of the algorithms, as well as the Web-based digital twin platform comprise proprietary software of PHOEBE."
+        "value": "Copyright at KWR Water Research Institute. The service has been designed and developed by KWR. It uses various Python packages that have the following licenses - BSD 3-Clause License, Apache License 2.0, LGPL-3.0 License, MIT License. The implementation of the algorithms, as well as the Web-based digital twin platform comprise proprietary software of PHOEBE."
     },
     "license":{
         "type": "Property",
@@ -19,7 +19,7 @@
     },
     "contactPoint": {
         "type": "Property",
-        "value": "siddharth.seshan@kwrwater.nl (for the attention of Siddharth Seshan."
+        "value": "siddharth.seshan@kwrwater.nl (for the attention of Siddharth Seshan)."
     },
     "conformsTo": {
         "type": "Property",
@@ -43,7 +43,7 @@
     },
     "theme": {
         "type": "Property",
-        "value": "Data Processing, Waterverse, Data Quality Control, Finland Pilot"
+        "value": "Data Processing, Waterverse, Data Quality Control, Cyprus Pilot"
     },
     "version": {
         "type": "Property",
@@ -63,7 +63,7 @@
     },
     "outputAttributes": {
         "type": "Property",
-        "value": "id, type, observedAt, specific property containing the raw time series sensor value (eg. temperature, flow), specific attribute containing the validated data (eg. temperatureValidated, flowValidated."
+        "value": "specific attribute containing the validated data (eg. temperatureValidated, flowValidated)."
     },
 
     "@context": [
