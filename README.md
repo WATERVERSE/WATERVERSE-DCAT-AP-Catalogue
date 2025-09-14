@@ -104,7 +104,8 @@ is provided following the **DCAT-AP** specification.
 | Data Service name    | Data Service URL | 
 |-----------|----------------|
 | **Anonymization service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/Cyprus_Pilot/anonymizationService.jsonld)     | 
-| **Data Converter service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/Cyprus_Pilot/dataConverterService.jsonld)     | 
+| **Data converter service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/Cyprus_Pilot/dataConverterService.jsonld)     | 
+| **Data validation and reconciliation service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/Cyprus_Pilot/dataValidationReconciliationService.jsonld)     | 
 | **Satellite data analysis tool for Germasogeia**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/Cyprus_Pilot/satelliteDataAnalysisToolGermasogeia.jsonld)     | 
 | **Satellite data analysis tool for Kouris**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/Cyprus_Pilot/satelliteDataAnalysisToolKouris.jsonld)     | 
 | **Water analytics service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/Cyprus_Pilot/waterAnalyticsService.jsonld)     | 
@@ -113,13 +114,14 @@ is provided following the **DCAT-AP** specification.
 
 | Data Service name    | Data Service URL | 
 |-----------|----------------|
-| **Data Converter service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/Finland_Pilot/dataConverterService.jsonld)     | 
+| **Data converter service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/Finland_Pilot/dataConverterService.jsonld)     | 
+| **Data validation and reconciliation service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/Finish_Pilot/dataValidationReconciliationService.jsonld)     | 
 
 ## German Pilot 
 
 | Data Service name    | Data Service URL | 
 |-----------|----------------|
-| **Data Converter service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/German_Pilot/dataConverterService.jsonld)     | 
+| **Data converter service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/German_Pilot/dataConverterService.jsonld)     | 
 | **Flood prediction service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/tree/main/DataServices/German_Pilot/floodPredictionService.jsonld)     | 
 
 ## Netherlands Pilot 
@@ -133,20 +135,22 @@ is provided following the **DCAT-AP** specification.
 
 | Data Service name    | Data Service URL | 
 |-----------|----------------|
-| **Data Converter service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/Spain_Pilot/dataConverterService.jsonld)     | 
-| **Data Quality Assessment service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/Spain_Pilot/dataQualityAssessmentService.jsonld)     | 
+| **Data converter service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/Spain_Pilot/dataConverterService.jsonld)     | 
+| **Data quality assessment service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/Spain_Pilot/dataQualityAssessmentService.jsonld)     | 
+| **Data validation and reconciliation service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/Spanish_Pilot/dataValidationReconciliationService.jsonld)     | 
 
 ## UK Pilot
 
 | Data Service name    | Data Service URL | 
 |-----------|----------------|
-| **Data Converter service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/UK_Pilot/dataConverterService.jsonld)     | 
+| **Data converter service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/UK_Pilot/dataConverterService.jsonld)     | 
+| **Data validation and reconciliation service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/UK_Pilot/dataValidationReconciliationService.jsonld)     | 
 
 ## Generic services
 
 | Data Service name    | Data Service URL | 
 |-----------|----------------|
-| **Data Model FAIRness Evaluator service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/Generic_Services/S09_DataModelFAIRnessEvaluator.json)     | 
+| **Data Model FAIRness evaluator service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/Generic_Services/S09_DataModelFAIRnessEvaluator.json)     | 
 
 
 # Entity Data Catalogue
