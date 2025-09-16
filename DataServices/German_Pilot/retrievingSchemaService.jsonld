@@ -1,0 +1,76 @@
+{
+    "id": "urn:ngsi-ld:DataService:FIWARERetrievingSchema:DE",
+    "type": "DataService",
+    "title": {
+        "type": "Property",
+        "value": "FIWARE Retrieving Schema"
+    },
+    "description": {
+        "type": "Property",
+        "value": "Retrieves array of dictionaries, each containing the link to the generated JSON Schema of the Smart Data Model based on the Entity Type data."
+    },
+    "endpointURL": {
+        "type": "Property",
+        "value": "/entity"
+    },
+    "endpointDescription": {
+        "type": "Property",
+        "value": "Accepts POST method, designed to obtain the Smart Data Model JSON Schema based on the specified Entity Type."
+    },
+    "accessRights": {
+        "type": "Property",
+        "value": "Open access to authorized users within the Waterverse ecosystem."
+    },
+    "license": {
+        "type": "Property",
+        "value": "Apache License 2.0"
+    },
+    "conformsTo": {
+        "type": "Property",
+        "value": "https://github.com/smart-data-models/dataModel.DCAT-AP/blob/master/DataService/schema.json"
+    },
+    "contactPoint": {
+        "type": "Property",
+        "value": "vcard:fn:FIWARE Team; vcard:email:fernando.lopez@fiware.org"
+    },
+    "isReferencedBy": {
+        "type": "Property",
+        "value": "http://dataportal-waterverse.opsi.lecce.it/"
+    },
+    "keyword": {
+        "type": "Property",
+        "value": "JSON, JSON Schema, Waterverse, Germany Pilot"
+    },
+    "language": {
+        "type": "Property",
+        "value": "en"
+    },
+    "publisher": {
+        "type": "Property",
+        "object": "urn:ngsi-ld:Company:FIWARE"
+    },
+    "theme": {
+        "type": "Property",
+        "value": "JSON Schema, Waterverse, Smart Data Models, Germany Pilot"
+    },
+    "version": {
+        "type": "Property",
+        "value": 1.0
+    },
+    "algorithm": {
+        "type": "Property",
+        "value": "Get the corresponding mapping link to the JSON Schema"
+    },
+    "inputEntityTypes": {
+        "type": "Property",
+        "value": "JSON dictionary with the Entity Type"
+    },
+    "outputAttributes": {
+        "type": "Property",
+        "value": "Retrieves array of dictionaries, each containing the key jsonSchema with the link to the JSON Schema of the Smart Data Model based on the Entity Type data."
+    },
+    "@context": [
+        "https://easy-global-market.github.io/ngsild-api-data-models/dcat/jsonld-contexts/dcat-compound.jsonld",
+        "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context-v1.8.jsonld"
+    ]
+}

@@ -27,7 +27,7 @@
     },
     "conformsTo": {
         "type": "Property",
-        "value": "NGSI-LD"
+        "value": "https://github.com/smart-data-models/dataModel.DCAT-AP/blob/master/DataService/schema.json"
     },
     "contactPoint": {
         "type": "Property",

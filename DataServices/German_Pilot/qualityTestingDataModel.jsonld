@@ -1,0 +1,76 @@
+{
+    "id": "urn:ngsi-ld:DataService:FIWARESDMQualityTesting:DE",
+    "type": "DataService",
+    "title": {
+        "type": "Property",
+        "value": "Smart Data Model Quality Testing tool"
+    },
+    "description": {
+        "type": "Property",
+        "value": "Python server dedicated to assessing the quality of a data model within the Smart Data Models program."
+    },
+    "endpointURL": {
+        "type": "Property",
+        "value": "/qtest"
+    },
+    "endpointDescription": {
+        "type": "Property",
+        "value": "A POST operation used to perform quality testing of a data model."
+    },
+    "accessRights": {
+        "type": "Property",
+        "value": "Open access to authorized users within the Waterverse ecosystem."
+    },
+    "license": {
+        "type": "Property",
+        "value": "Apache License 2.0"
+    },
+    "conformsTo": {
+        "type": "Property",
+        "value": "https://github.com/smart-data-models/dataModel.DCAT-AP/blob/master/DataService/schema.json"
+    },
+    "contactPoint": {
+        "type": "Property",
+        "value": "vcard:fn:FIWARE Team; vcard:email:fernando.lopez@fiware.org"
+    },
+    "isReferencedBy": {
+        "type": "Property",
+        "value": "http://dataportal-waterverse.opsi.lecce.it/"
+    },
+    "keyword": {
+        "type": "Property",
+        "value": "JSON, JSON Schema, Waterverse, Quality Metadata, Quality JSON Schema, Germany Pilot"
+    },
+    "language": {
+        "type": "Property",
+        "value": "en"
+    },
+    "publisher": {
+        "type": "Property",
+        "object": "urn:ngsi-ld:Company:FIWARE"
+    },
+    "theme": {
+        "type": "Property",
+        "value": "JSON Schema, Waterverse, Smart Data Models, Germany Pilot"
+    },
+    "version": {
+        "type": "Property",
+        "value": 1.0
+    },
+    "algorithm": {
+        "type": "Property",
+        "value": "Make an analysis of the common errors in the creation of a JSON Schema and publishing into the Smart Data Models program."
+    },
+    "inputEntityTypes": {
+        "type": "Property",
+        "value": "JSON payload containing details of the data model, such as the GitHub URL to the data model's model.yaml, the email associated with the testing, and the number of tests to be performed."
+    },
+    "outputAttributes": {
+        "type": "Property",
+        "value": "Details of the execution of the Quality Tests with details how to correct them."
+    },
+    "@context": [
+        "https://easy-global-market.github.io/ngsild-api-data-models/dcat/jsonld-contexts/dcat-compound.jsonld",
+        "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context-v1.8.jsonld"
+    ]
+}
