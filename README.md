@@ -123,6 +123,13 @@ is provided following the **DCAT-AP** specification.
 |-----------|----------------|
 | **Data converter service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/German_Pilot/dataConverterService.jsonld)     | 
 | **Flood prediction service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/tree/main/DataServices/German_Pilot/floodPredictionService.jsonld)     | 
+| **Data Provenance Tool**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/German_Pilot/dataProvenance.jsonld)     |  
+| **Data Quality Assessment Service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/German_Pilot/dataQualityAssessmentService.jsonld)     | 
+| **Quality Testing Data Models**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/German_Pilot/qualityTestingDataModel.jsonld)     |  
+| **Retrieving Data Model Versions**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/German_Pilot/retrievingDataModelsVersions.jsonld)     |  
+| **Retrieving Data Model Schema**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/German_Pilot/retrievingSchemaService.jsonld)     |  
+| **SDM Schema Validation Service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/German_Pilot/sdmvalidationservice.jsonld)     |   
+
 
 ## Netherlands Pilot 
 
@@ -145,6 +152,7 @@ is provided following the **DCAT-AP** specification.
 |-----------|----------------|
 | **Data converter service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/UK_Pilot/dataConverterService.jsonld)     | 
 | **Data validation and reconciliation service**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/UK_Pilot/dataValidationReconciliationService.jsonld)     | 
+| **Data Provenance Tool**    |  [Link](https://github.com/WATERVERSE/WATERVERSE-DCAT-AP-Catalogue/blob/main/DataServices/UK_Pilot/dataProvenance.jsonld)     |  
 
 ## Generic services
 
@@ -160,7 +168,7 @@ is provided following the **DCAT-AP** specification.
 | Entity name    | Data Model URL | 
 |-----------|----------------|
 | **Consumer Reports**    |  [Link](https://github.com/smart-data-models/dataModel.WaterConsumption/tree/master/WaterConsumptionObserved)    | 
-| **Satelite Data**    |  [Link](https://github.com/smart-data-models/dataModel.SatelliteImagery/blob/master/EOGeoDataLayer)    |
+| **Satellite Data**    |  [Link](https://github.com/smart-data-models/dataModel.SatelliteImagery/blob/master/EOGeoDataLayer)    |
 | **District Metering Area (DMA)**    |  [Link](https://github.com/smart-data-models/dataModel.WaterDistribution/tree/master/WaterDistributionNetwork)    |
 
 ## Finnish Pilot 
