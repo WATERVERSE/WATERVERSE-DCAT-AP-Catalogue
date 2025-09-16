@@ -1,0 +1,82 @@
+{
+    "id": "urn:ngsi-ld:DataService:DataProvenance:UK",
+    "type": "DataService",
+    "title": {
+        "type": "Property",
+        "value": "Data Provenance Tool"
+    },
+    "description": {
+        "type": "Property",
+        "value": "Persistence and verification of NGSI-LD Entity-Transactions (e.g., create/delete/update- operations) in blockchains."
+    },
+    "endpointURL": {
+        "type": "Property",
+        "value": "https://github.com/FIWARE/CanisMajor/blob/master/api/api.yaml"
+    },
+    "endpointDescription": {
+        "type": "Property",
+        "value": "Subset of ETSI NGSI-LD API to get transaction information about entities."
+    },
+    "servesDataset": {
+        "type": "Relationship",
+        "object": "urn:ngsi-ld:Dataset:TimeSeriesData"
+    },
+    "accessRights": {
+        "type": "Property",
+        "value": "The API is open."
+    },
+    "license": {
+        "type": "Property",
+        "value": "Apache License, version2.0."
+    },
+    "conformsTo": {
+        "type": "Property",
+        "value": "https://github.com/smart-data-models/dataModel.DCAT-AP/blob/master/DataService/schema.json"
+    },
+    "contactPoint": {
+        "type": "Property",
+        "value": "vcard:fn:FIWARE Team; vcard:email:fernando.lopez@fiware.org"
+    },
+    "keyword": {
+        "type": "Property",
+        "value": "Data Provenance, ETSI NGSI-LD API, Blockchain, FIWARE, Canis Major, WATERVERSE"
+    },
+    "language": {
+        "type": "Property",
+        "value": [
+            "en"
+        ]
+    },
+    "publisher": {
+        "type": "Property",
+        "object": "urn:ngsi-ld:Company:FIWARE"
+    },
+    "theme": {
+        "type": "Property",
+        "value": "Data Provenance, Blockchain"
+    },
+    "version": {
+        "type": "Property",
+        "value": 1.5
+    },
+    "algorithm": {
+        "type": "Property",
+        "value": "Persist transactions into public permissioned blockchain network."
+    },
+    "inputEntityTypes": {
+        "type": "Property",
+        "value": "Any NGSI-LD Entity Type"
+    },
+    "inputAttributes": {
+        "type": "Property",
+        "value": "Entity transactions (create, update, delete) in NGSI-LD format."
+    },
+    "outputAttributes": {
+        "type": "Property",
+        "value": "ETSI NGSI-LD response to the transaction."
+    },
+    "@context": [
+        "https://easy-global-market.github.io/ngsild-api-data-models/dcat/jsonld-contexts/dcat-compound.jsonld",
+        "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context-v1.8.jsonld"
+    ]
+}

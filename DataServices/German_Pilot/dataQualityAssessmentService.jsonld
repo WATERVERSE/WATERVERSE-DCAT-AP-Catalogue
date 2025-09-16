@@ -1,0 +1,102 @@
+{
+    "id": "urn:ngsi-ld:DataService:DataQualityAssessmentTool:DE",
+    "type": "DataService",
+    "title": {
+        "type": "Property",
+        "value": "Data Quality Assessment Tool"
+    },
+    "description": {
+        "type": "Property",
+        "value": "Evaluates time series data across five quality dimensions: completeness, consistency, timeliness, uniqueness, and validity. Accepts data in CSV, XLSX, XLS and JSON formats. Provides scores and visual reports."
+    },
+    "endpointURL": {
+        "type": "Property",
+        "value": "https://data-quality-assessment-tool-api.azurewebsites.net/upload_jsons/"
+    },
+    "endpointDescription": {
+        "type": "Property",
+        "value": "FastAPI endpoint accepting a JSON and CSV-formatted data file along with optional metadata and validation parameters. Returns a ZIP archive containing CSV scores and PNG plots."
+    },
+    "servesDataset": {
+        "type": "Relationship",
+        "object": "urn:ngsi-ld:Dataset:TimeSeriesData"
+    },
+    "accessRights": {
+        "type": "Property",
+        "value": "The API is open for the duration of the WATERVERSE project."
+    },
+    "license": {
+        "type": "Property",
+        "value": "Proprietary license. All rights reserved by Cetaqua."
+    },
+    "conformsTo": {
+        "type": "Property",
+        "value": "https://github.com/smart-data-models/dataModel.DCAT-AP/blob/master/DataService/schema.json"
+    },
+    "contactPoint": {
+        "type": "Property",
+        "value": [
+            "vcard:fn:CETAQUA Team",
+            "vcard:email:sergio.baena@cetaqua.com"
+        ]
+    },
+    "keyword": {
+        "type": "Property",
+        "value": [
+            "data quality",
+            "time series",
+            "validation",
+            "quality domains",
+            "WATERVERSE data quality fr"
+        ]
+    },
+    "language": {
+        "type": "Property",
+        "value": [
+            "en"
+        ]
+    },
+    "publisher": {
+        "type": "Property",
+        "object": "urn:ngsi-ld:Company:CETAQUA"
+    },
+    "theme": {
+        "type": "Property",
+        "value": [
+            "Water management",
+            "Data quality assessment"
+        ]
+    },
+    "version": {
+        "type": "Property",
+        "value": "1.0",
+        "versionNotes": {
+            "type": "Property",
+            "value": "Initial release of the Data Quality Assessment Tool"
+        }
+    },
+    "algorithm": {
+        "type": "Property",
+        "value": "Rule-based assessment per data quality dimension, using scoring and validation logic based on thresholds, formats, and patterns."
+    },
+    "mlFramework": {
+        "type": "Property",
+        "value": "None"
+    },
+    "inputEntityTypes": {
+        "type": "Property",
+        "value": "TimeSeriesDataset"
+    },
+    "inputAttributes": {
+        "type": "Property",
+        "value": "id, date, value, metadata, rules"
+    },
+    "outputAttributes": {
+        "type": "Property",
+        "value": "completeness_score, consistency_score, timeliness_score, uniqueness_score, validity_score, plots"
+    },
+    "@context": [
+        "https://easy-global-market.github.io/ngsild-api-data-models/dcat/jsonld-contexts/dcat-compound.jsonld",
+        "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context-v1.8.jsonld"
+    ]
+}

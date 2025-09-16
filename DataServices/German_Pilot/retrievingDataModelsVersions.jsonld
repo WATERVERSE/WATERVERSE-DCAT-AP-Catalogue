@@ -1,0 +1,76 @@
+{
+    "id": "urn:ngsi-ld:DataService:FIWARESDMVersion:DE",
+    "type": "DataService",
+    "title": {
+        "type": "Property",
+        "value": "FIWARE SDM Version Schemas"
+    },
+    "description": {
+        "type": "Property",
+        "value": "Retrieves details about the different versions of the JSON Schemas releases in the Smart Data Models based on the Entity Type."
+    },
+    "endpointURL": {
+        "type": "Property",
+        "value": "/datamodel/{entity name}/versions"
+    },
+    "endpointDescription": {
+        "type": "Property",
+        "value": "Accepts GET method, this endpoint retrieves all the versions associated with a specified data model."
+    },
+    "accessRights": {
+        "type": "Property",
+        "value": "Open access to authorized users within the Waterverse ecosystem."
+    },
+    "license": {
+        "type": "Property",
+        "value": "Apache License 2.0"
+    },
+    "conformsTo": {
+        "type": "Property",
+        "value": "https://github.com/smart-data-models/dataModel.DCAT-AP/blob/master/DataService/schema.json"
+    },
+    "contactPoint": {
+        "type": "Property",
+        "value": "vcard:fn:FIWARE Team; vcard:email:fernando.lopez@fiware.org"
+    },
+    "isReferencedBy": {
+        "type": "Property",
+        "value": "http://dataportal-waterverse.opsi.lecce.it/"
+    },
+    "keyword": {
+        "type": "Property",
+        "value": "JSON, JSON Schema, Waterverse, Germany Pilot"
+    },
+    "language": {
+        "type": "Property",
+        "value": "en"
+    },
+    "publisher": {
+        "type": "Property",
+        "object": "urn:ngsi-ld:Company:FIWARE"
+    },
+    "theme": {
+        "type": "Property",
+        "value": "JSON Schema, Waterverse, Smart Data Models, Germany Pilot"
+    },
+    "version": {
+        "type": "Property",
+        "value": 1.0
+    },
+    "algorithm": {
+        "type": "Property",
+        "value": "Get the corresponding mapping link to all JSON Schemas associated to the Entity Type."
+    },
+    "inputEntityTypes": {
+        "type": "Property",
+        "value": "Entity name and entity version"
+    },
+    "outputAttributes": {
+        "type": "Property",
+        "value": "Retrieves an array of all the published versions associated to Entity Name."
+    },
+    "@context": [
+        "https://easy-global-market.github.io/ngsild-api-data-models/dcat/jsonld-contexts/dcat-compound.jsonld",
+        "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context-v1.8.jsonld"
+    ]
+}
