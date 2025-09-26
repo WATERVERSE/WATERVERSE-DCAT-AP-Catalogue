@@ -192,6 +192,7 @@ is provided following the **DCAT-AP** specification.
 | **Soil moisture**    |  [Link](https://github.com/smart-data-models/dataModel.Agrifood/tree/master/AgriSoil)   | 
 | **Groundwater level**    |  [Link](https://github.com/smart-data-models/dataModel.Environment/tree/master/PhreaticObserved)   | 
 | **Flood Model Data**    |  [Link](https://github.com/smart-data-models/dataModel.Environment/tree/master/FloodMonitoring)   | 
+| **Data Quality Assessment**    |  [Link](https://github.com/smart-data-models/dataModel.DataQuality/tree/master/DataQualityAssessment)   | 
 
 ## Netherlands Pilot 
 
@@ -212,8 +213,8 @@ is provided following the **DCAT-AP** specification.
 
 | Entity name    | Data Model URL | 
 |-----------|----------------|
-| **environment_agency_data**    |  [Link](https://github.com/smart-data-models/dataModel.Environment/tree/master/EnvironmentObserved)     | 
-| **water_quality_observation_meteor_cloud**    |  [Link](https://github.com/smart-data-models/dataModel.WaterQuality/tree/master/WaterQualityObserved)    | 
+| **Environment agency data river**    |  [Link](https://github.com/smart-data-models/dataModel.Environment/tree/master/EnvironmentObserved)     | 
+| **Water quality observation meteor cloud**    |  [Link](https://github.com/smart-data-models/dataModel.WaterQuality/tree/master/WaterQualityObserved)    | 
 
 # License
 
