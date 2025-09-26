@@ -6,7 +6,7 @@ WATERVERSE Datasets, Entity Data &amp; Data Services **metadata** definitions ba
 
 ## DCAT-AP data model
 
-The DCAT-AP standard will be used to define the metadata of different Entities, datasets, and data services, ensuring 
+The DCAT-AP standard is used to define the metadata of different Entities, datasets, and data services, ensuring 
 structured and interoperable descriptions for each of them. 
 
 The following is the link to the **DCAT-AP datasets data model**: 
@@ -20,13 +20,13 @@ https://github.com/smart-data-models/incubated/blob/DCAT-AP/DataService/DataServ
 
 ## Project structure 
 
-The project will be organized into three sections that align with the requirements of WATERVERSE Pilot projects:
+The project is organized into three sections that align with the requirements of WATERVERSE Pilot projects:
 
 -  **DCAT-AP Datasets classes**
 -  **DCAT-AP Data Service classes** 
 -  **Entity Data**  
 
-For each Dataset and Data Service, there will be a folder per pilot where the corresponding description of the metadata 
+For each Dataset and Data Service, there is a folder per pilot where the corresponding description of the metadata 
 is provided following the **DCAT-AP** specification.  
 
 # DCAT-AP Dataset classes
