@@ -219,3 +219,11 @@ is provided following the **DCAT-AP** specification.
 # License
 
 These scripts are licensed under Apache License 2.0.
+
+## Acknowledgments
+
+This project has been funded by the [WATERVERSE project](https://waterverse.eu/) of the European Union’s Horizon Europe 
+programme under Grant Agreement no 101070262.
+
+WATERVERSE is a project that promotes the use of FAIR (Findable, Accessible, Interoperable, and Reusable) 
+data principles to improve water sector data management and sharing.
